@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20260823</sourceVersion>
+        <sourceVersion>20260829b</sourceVersion>
     </info>
     <cards>
         <!--
@@ -732,7 +732,7 @@ Whenever this creature deals damage to a planeswalker, destroy that planeswalker
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTG-Token-Unknowns/main/attendee_token_at_the_fantasy_festival.jpg">PH22</set>
+            <set>PH22</set>
             <reverse-related count="x">Svega, the Unconventional</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1443,6 +1443,7 @@ Equip {2} ({2}: Attach to target creatre you control. Equip only as a sorcery.)<
             <set picURL="https://cards.scryfall.io/large/front/2/6/26e0e196-36e6-4d7a-a76b-1c2a18270267.jpg?1561756807" uuid="26e0e196-36e6-4d7a-a76b-1c2a18270267" num="4">INV</set>
             <reverse-related count="2">Alrund's Epiphany</reverse-related>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
+            <reverse-related count="2">Feroz, Ulgrotha's Warden</reverse-related>
             <reverse-related count="x">Ordered Migration</reverse-related>
             <reverse-related>Ravenform</reverse-related>
             <reverse-related>Riku of Many Paths</reverse-related>
@@ -2119,6 +2120,21 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Cat Token        </name>
+            <text>{T}: Put a loyalty counter on each planeswalker you control.</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Cat</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="">MBC</set>
+            <reverse-related>Worzel, the Protector</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Cat Warrior Token</name>
             <text>Forestwalk</text>
             <prop>
@@ -2363,7 +2379,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTG-Token-Unknowns/main/radiant_cleric_token_in_the_temple.jpg">PHTR</set>
+            <set>PHTR</set>
             <reverse-related exclude="exclude">Dungeon Master</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -2506,6 +2522,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Fire Nation Raider</reverse-related>
             <reverse-related>Fire Nation Warship</reverse-related>
             <reverse-related>Fleeting Memories</reverse-related>
+            <reverse-related count="x">Flitwing, Lyev Detective</reverse-related>
             <reverse-related>Floodhound</reverse-related>
             <reverse-related>Flotsam // Jetsam</reverse-related>
             <reverse-related>Follow the Bodies</reverse-related>
@@ -2627,7 +2644,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Wojek Investigator</reverse-related>
             <reverse-related count="x" exclude="exclude">Wojek Investigator</reverse-related>
             <reverse-related>Zuko's Exile</reverse-related>
-            <reverse-related count="x">Flitwing, Lyev Detective</reverse-related>
             <reverse-related>In the Pale Moonlight</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -3172,7 +3188,7 @@ When this creature dies, create a colorless Treasure artifact token.</text>
                 <cmc>0</cmc>
                 <pt>4/4</pt>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTG-Token-Unknowns/main/fiery_devil_treasure_token.jpg">PH17</set>
+            <set>PH17</set>
             <related>Treasure Token</related>
             <reverse-related count="4">Diabolical Salvation</reverse-related>
             <token>1</token>
@@ -5187,7 +5203,7 @@ Ferocious — {T}: Add {G}{G}{G}{G}. Activate only if you control a creature wit
                 <cmc>0</cmc>
                 <pt>3/3</pt>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTG-Token-Unknowns/main/fighter_token_ember_charged_assault.jpg">PHTR</set>
+            <set>PHTR</set>
             <reverse-related exclude="exclude">Dungeon Master</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -5415,6 +5431,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related count="x" exclude="exclude">Insatiable Frugivore</reverse-related>
             <reverse-related>Intrepid Trufflesnout // Go Hog Wild</reverse-related>
             <reverse-related exclude="exclude">Iroh, Tea Master</reverse-related>
+            <reverse-related count="x">Jandor, Fortuned Traveler</reverse-related>
             <reverse-related count="x">Killer Service</reverse-related>
             <reverse-related>Late to Dinner</reverse-related>
             <reverse-related>Leaves from the Vine</reverse-related>
@@ -5422,6 +5439,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Lucky the Pizza Dog</reverse-related>
             <reverse-related>Madame Vastra</reverse-related>
             <reverse-related>Many Partings</reverse-related>
+            <reverse-related>Meatsqueak, Hoard Lord</reverse-related>
             <reverse-related>Meriadoc Brandybuck</reverse-related>
             <reverse-related>Michelangelo, the Heart</reverse-related>
             <reverse-related>Midnight Snack</reverse-related>
@@ -5436,6 +5454,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Oko, Thief of Crowns</reverse-related>
             <reverse-related>Old Flitterfang</reverse-related>
             <reverse-related count="2">Orchard Strider</reverse-related>
+            <reverse-related>Overcooked</reverse-related>
             <reverse-related>Overencumbered</reverse-related>
             <reverse-related count="x=2">Party Dude</reverse-related>
             <reverse-related>Pawpatch Formation</reverse-related>
@@ -5513,7 +5532,6 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Tasteful Offering</reverse-related>
             <reverse-related>The Zonian Brawler</reverse-related>
             <reverse-related count="x">Trash Panda</reverse-related>
-            <reverse-related>Meatsqueak, Hoard Lord</reverse-related>
             <reverse-related>The Companion of the Wilds</reverse-related>
             <reverse-related>Bram, Baguette Brawler</reverse-related>
             <reverse-related>The Cookout Creator</reverse-related>
@@ -5526,7 +5544,6 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Oyaminartok, Polar Werebear</reverse-related>
             <reverse-related>Bilbo, Fellow Conspirator</reverse-related>
             <reverse-related>The Caffeinated Runner</reverse-related>
-            <reverse-related>Overcooked</reverse-related>
             <reverse-related count="2">Potatoes</reverse-related>
             <reverse-related>Bin Chicken</reverse-related>
             <reverse-related count="2">Urza's Hot Dog Stand</reverse-related>
@@ -5547,6 +5564,7 @@ When this creature enters, target creature you control gains flying until end of
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/1/0/107be8ee-ee22-4d37-94f1-2a5b438fbe05.jpg?1717193920" uuid="107be8ee-ee22-4d37-94f1-2a5b438fbe05" num="19">M3C</set>
             <set picURL="https://cards.scryfall.io/large/front/7/4/74de70f2-93b6-4fc5-8c4d-464f880d3c54.jpg?1730838400" uuid="74de70f2-93b6-4fc5-8c4d-464f880d3c54" num="3">BRO</set>
+            <reverse-related>Autumn Willow, Harmony</reverse-related>
             <reverse-related count="x">Awaken the Woods</reverse-related>
             <reverse-related count="x">Jyoti, Moag Ancient</reverse-related>
             <reverse-related>Staff of Titania</reverse-related>
@@ -5954,7 +5972,6 @@ Whenever Glyph Keeper becomes the target of a spell or ability for the first tim
             <reverse-related>Rage into the Valley</reverse-related>
             <reverse-related>Rhovanion Rampager</reverse-related>
             <reverse-related>Tidings of War</reverse-related>
-            <reverse-related>Azog, Moria&apos;s Ruin</reverse-related>
             <reverse-related>Azog, Moria's Ruin</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -6189,8 +6206,8 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <pt>2/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/7/2/72230a1b-90ba-4564-9164-90cffdf34b93.jpg?1577661705" uuid="72230a1b-90ba-4564-9164-90cffdf34b93" num="6">GK2</set>
-            <reverse-related>Rakdos Guildmage</reverse-related>
             <reverse-related>Chief Magistrate of Mercadia</reverse-related>
+            <reverse-related>Rakdos Guildmage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -7202,7 +7219,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related count="x">Vault 11: Voter's Dilemma</reverse-related>
             <reverse-related count="2">White Glove Gourmand</reverse-related>
             <reverse-related>Éomer of the Riddermark</reverse-related>
-            <reverse-related>Bard&apos;s Company</reverse-related>
+            <reverse-related>Bard's Company</reverse-related>
             <reverse-related>Celebrate the Mountain-king</reverse-related>
             <reverse-related>Esgaroth Garrison</reverse-related>
             <reverse-related>Great Gilded Boat</reverse-related>
@@ -7210,10 +7227,8 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
             <reverse-related>Long Lake Nuisance</reverse-related>
             <reverse-related>Patient Instructor</reverse-related>
             <reverse-related>Sound the Trumpets</reverse-related>
-            <reverse-related>The Mountain-king&apos;s Return</reverse-related>
-            <reverse-related>The Queen of Dale</reverse-related>
-            <reverse-related>Bard's Company</reverse-related>
             <reverse-related>The Mountain-king's Return</reverse-related>
+            <reverse-related>The Queen of Dale</reverse-related>
             <reverse-related count="x">Riders of the Mark</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7409,7 +7424,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>2/1</pt>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTG-Token-Unknowns/main/fiery_human_wizard_token.jpg">PH18</set>
+            <set>PH18</set>
             <reverse-related>The Legend of Arena</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7423,7 +7438,7 @@ When this creature enters the battlefield, it deals 1 damage to any target.</tex
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTG-Token-Unknowns/main/arcane_library_wizard_token.jpg">PH21</set>
+            <set>PH21</set>
             <reverse-related>Ersta, Friend to All</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8321,7 +8336,6 @@ Trample</text>
             <reverse-related count="3">Waylay</reverse-related>
             <reverse-related>Karlach, Tiefling Zealot</reverse-related>
             <reverse-related>Shadowheart, Cleric of Order</reverse-related>
-            <reverse-related count="2">Sune&apos;s Intervention</reverse-related>
             <reverse-related count="2">Sune's Intervention</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8559,7 +8573,6 @@ Flanking</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/c/a/ca17c7b2-180a-4bd1-9ab2-152f8f656dba.jpg?1591225580" uuid="ca17c7b2-180a-4bd1-9ab2-152f8f656dba" num="6">IKO</set>
             <reverse-related>Ominous Seas</reverse-related>
-            <reverse-related>Kiora, the Tide&apos;s Fury</reverse-related>
             <reverse-related>Kiora, the Tide's Fury</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -8971,6 +8984,7 @@ Flying, vigilance, trample, lifelink, haste</text>
             <reverse-related>A Killer Among Us</reverse-related>
             <reverse-related>Daughter of the Deep</reverse-related>
             <reverse-related>Emperor Mihail II</reverse-related>
+            <reverse-related count="x">Grandmother Goby</reverse-related>
             <reverse-related>Lullmage Mentor</reverse-related>
             <reverse-related count="x">Namor the Sub-Mariner</reverse-related>
             <reverse-related>Namor, Atlantean King</reverse-related>
@@ -10064,6 +10078,7 @@ Paradox — Whenever you cast a spell from anywhere other than your hand, invest
             <reverse-related>Ral, Crackling Wit</reverse-related>
             <reverse-related>Stormchaser's Talent</reverse-related>
             <reverse-related count="x" exclude="exclude">Stormchaser's Talent</reverse-related>
+            <reverse-related>Tolabow, Loch Rascal</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10335,6 +10350,7 @@ Whenever a creature you control becomes the target of a spell or ability an oppo
             <reverse-related attach="attach">Colossal Dreadmask</reverse-related>
             <reverse-related attach="attach">Cranial Ram</reverse-related>
             <reverse-related attach="attach">Drossclaw</reverse-related>
+            <reverse-related>Ekthi, Contaminator Priest</reverse-related>
             <reverse-related attach="attach">Flayer Husk</reverse-related>
             <reverse-related>Grip of Phyresis</reverse-related>
             <reverse-related attach="attach">Kaldra Compleat</reverse-related>
@@ -10348,7 +10364,6 @@ Whenever a creature you control becomes the target of a spell or ability an oppo
             <reverse-related attach="attach">Skinwing</reverse-related>
             <reverse-related attach="attach">Strandwalker</reverse-related>
             <reverse-related attach="attach">Tangleweave Armor</reverse-related>
-            <reverse-related>Ekthi, Contaminator Priest</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10949,6 +10964,7 @@ Creatures you control attack each combat if able.</text>
             <reverse-related>Argothian Opportunist</reverse-related>
             <reverse-related>Ashnod, Flesh Mechanist</reverse-related>
             <reverse-related>Cityscape Leveler</reverse-related>
+            <reverse-related count="2">Dyfed, the Guiding Hand</reverse-related>
             <reverse-related>Excavation Explosion</reverse-related>
             <reverse-related count="3">Fallaji Excavation</reverse-related>
             <reverse-related>Geology Enthusiast</reverse-related>
@@ -10979,7 +10995,6 @@ Creatures you control attack each combat if able.</text>
             <reverse-related>Urza, Powerstone Prodigy</reverse-related>
             <reverse-related>Visions of Phyrexia</reverse-related>
             <reverse-related count="x">Wreck Hunter</reverse-related>
-            <reverse-related count="2">Dyfed, the Guiding Hand</reverse-related>
             <reverse-related>A-Karn, Living Legacy</reverse-related>
             <reverse-related>A-Geology Enthusiast</reverse-related>
             <reverse-related>A-Thran Spider</reverse-related>
@@ -11078,9 +11093,8 @@ Whenever this creature deals combat damage to a player, create that many tapped 
             <reverse-related>Tempt with Bunnies</reverse-related>
             <reverse-related count="x" exclude="exclude">Tempt with Bunnies</reverse-related>
             <reverse-related exclude="exclude">Warren Warleader</reverse-related>
-            <reverse-related>Preston&apos;s Stage</reverse-related>
-            <reverse-related>Steady Tortoise // Harried Dash</reverse-related>
             <reverse-related>Preston's Stage</reverse-related>
+            <reverse-related>Steady Tortoise // Harried Dash</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11127,9 +11141,8 @@ Whenever this creature deals combat damage to a player, create that many tapped 
                 <pt>1/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/6/9/695f72ea-13e6-40ab-afc7-55657701c82d.jpg?1674338535" uuid="695f72ea-13e6-40ab-afc7-55657701c82d" num="5">NEO</set>
-            <reverse-related>Tribute to Horobi</reverse-related>
-            <reverse-related>Boss Uramon, Shadow&apos;s Reach</reverse-related>
             <reverse-related>Boss Uramon, Shadow's Reach</reverse-related>
+            <reverse-related>Tribute to Horobi</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11462,7 +11475,7 @@ When this token enters, it deals 3 damage to any target.</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTG-Token-Unknowns/main/robot_hero_token_over_crystal_city.jpg">MSC</set>
+            <set>MSC</set>
             <reverse-related>Shuri, Vibranium Technologist</reverse-related>
             <reverse-related>Virtual Assistant</reverse-related>
             <token>1</token>
@@ -11648,7 +11661,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>2/2</pt>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTG-Token-Unknowns/main/rogue_token_moonlit_ambush.jpg">PHTR</set>
+            <set>PHTR</set>
             <reverse-related exclude="exclude">Dungeon Master</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -11737,6 +11750,20 @@ Equip {1}</text>
             <reverse-related>The Eternal Wanderer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Sanctum</name>
+            <text>{T}: Add one mana of any color.</text>
+            <prop>
+                <colors>W</colors>
+                <type>Token Land</type>
+                <maintype>Land</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="">MBC</set>
+            <reverse-related count="x">Zagorka, Mother of Sanctum</reverse-related>
+            <token>1</token>
+            <tablerow>0</tablerow>
         </card>
         <card>
             <name>Sand Token</name>
@@ -12050,6 +12077,21 @@ Equip {1}</text>
             <reverse-related>Doomed Artisan</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Selenia’s Curse</name>
+            <text>Enchant player
+If enchanted player would lose life, they lose twice that much life instead.</text>
+            <prop>
+                <colors>B</colors>
+                <type>Token Legendary Enchantment — Aura Curse</type>
+                <maintype>Enchantment</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set picURL="">MBC</set>
+            <reverse-related>Selenia, the Cursed Heart</reverse-related>
+            <token>1</token>
+            <tablerow>1</tablerow>
         </card>
         <card>
             <name>Serf Token</name>
@@ -12407,7 +12449,6 @@ Deathtouch</text>
             <reverse-related>Skeletal Swarming</reverse-related>
             <reverse-related count="2" exclude="exclude">Skeletal Swarming</reverse-related>
             <reverse-related>A-Death-Priest of Myrkul</reverse-related>
-            <reverse-related>Hag of Death&apos;s Legion</reverse-related>
             <reverse-related>Hag of Death's Legion</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -12439,7 +12480,7 @@ Deathtouch</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTG-Token-Unknowns/main/skeleton_token_in_purple_necromantic_mist.jpg">PHTR</set>
+            <set>PHTR</set>
             <reverse-related>Dungeon Master</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -12803,6 +12844,7 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
             <reverse-related count="x">Evangel of Heliod</reverse-related>
             <reverse-related count="3">Even the Odds</reverse-related>
             <reverse-related>First Response</reverse-related>
+            <reverse-related count="x">Grizzlegom, Hurloon Hero</reverse-related>
             <reverse-related count="x">Heidegger, Shinra Executive</reverse-related>
             <reverse-related count="2">Hero of Bladehold</reverse-related>
             <reverse-related count="2">Heroic Reinforcements</reverse-related>
@@ -12995,7 +13037,6 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
             <reverse-related>Skystrike Officer</reverse-related>
             <reverse-related>Third Path Iconoclast</reverse-related>
             <reverse-related count="2">Urza, Planeswalker</reverse-related>
-            <reverse-related>By Elspeth&apos;s Command</reverse-related>
             <reverse-related>By Elspeth's Command</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -14793,6 +14834,7 @@ The Void attacks each combat if able.</text>
             <reverse-related count="x">Cavern-Hoard Dragon</reverse-related>
             <reverse-related count="3">Centrifuge</reverse-related>
             <reverse-related>Charming Scoundrel</reverse-related>
+            <reverse-related>Chira, All In</reverse-related>
             <reverse-related>City of Death</reverse-related>
             <reverse-related count="2">Cloud, Ex-SOLDIER</reverse-related>
             <reverse-related>Coin of Mastery</reverse-related>
@@ -15138,7 +15180,6 @@ The Void attacks each combat if able.</text>
             <reverse-related>Kamachal, Ship's Mascot</reverse-related>
             <reverse-related count="2">Chaos Balor</reverse-related>
             <reverse-related>Crucias, Titan of the Waves</reverse-related>
-            <reverse-related>Chira, All In</reverse-related>
             <reverse-related>Impetuous Lootmonger</reverse-related>
             <reverse-related count="2">A-Most Wanted</reverse-related>
             <reverse-related count="x">Tax Taker</reverse-related>
@@ -16239,7 +16280,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
                 <pt>1/1</pt>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTG-Token-Unknowns/main/wizard_token_in_a_storm_of_magic.jpg">PHTR</set>
+            <set>PHTR</set>
             <reverse-related exclude="exclude">Dungeon Master</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -16982,6 +17023,7 @@ Equip {1}</text>
             <reverse-related>The Fourth Sphere</reverse-related>
             <reverse-related exclude="exclude">The Necrobloom</reverse-related>
             <reverse-related count="x" exclude="exclude">The Necrobloom</reverse-related>
+            <reverse-related>Thomil, the Destroyer</reverse-related>
             <reverse-related count="x">Tobias, Doomed Conqueror</reverse-related>
             <reverse-related>Tormod, the Desecrator</reverse-related>
             <reverse-related>Tymaret Calls the Dead</reverse-related>
@@ -17627,7 +17669,7 @@ Throne of the Dead Three — Reveal the top ten cards of your library. Put a cre
                 <type>Emblem — Ersta</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTG-Token-Unknowns/main/wizard_emblem_of_unity.jpg">PH17</set>
+            <set>PH17</set>
             <reverse-related exclude="exclude">Ersta, Friend to All</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -17725,7 +17767,7 @@ Whenever an opponent draws a card, this emblem deals 1 damage to them.</text>
                 <type>Emblem — Inzerva</type>
                 <maintype>Emblem</maintype>
             </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTG-Token-Unknowns/main/inzerva_s_psychic_emblem.jpg">PH17</set>
+            <set>PH17</set>
             <reverse-related>Inzerva, Master of Insights</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -19509,6 +19551,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Azure Fleet Admiral</reverse-related>
             <reverse-related>Canal Courier</reverse-related>
             <reverse-related>Champions of Minas Tirith</reverse-related>
+            <reverse-related exclude="exclude">Chief Magistrate of Mercadia</reverse-related>
             <reverse-related>Coin of Fate</reverse-related>
             <reverse-related>Court of Ambition</reverse-related>
             <reverse-related>Court of Ardenvale</reverse-related>
@@ -19698,6 +19741,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related attach="attach">Ishgard, the Holy See // Faith &amp; Grief</reverse-related>
             <reverse-related attach="attach">Jidoor, Aristocratic Capital // Overture</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Kellan, Daring Traveler // Journey On</reverse-related>
+            <reverse-related attach="attach" exclude="exclude">Kellan, Inquisitive Prodigy // Tail the Suspect</reverse-related>
             <reverse-related attach="attach">Kellan, the Fae-Blooded // Birthright Boon</reverse-related>
             <reverse-related attach="attach">Lake-town Mariners // Gone Fishing</reverse-related>
             <reverse-related attach="attach" exclude="exclude">Lindblum, Industrial Regency // Mage Siege</reverse-related>
@@ -20603,5 +20647,5 @@ This creature can't block.</text>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
-</cards>
+    </cards>
 </cockatrice_carddatabase>
