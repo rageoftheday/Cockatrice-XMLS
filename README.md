@@ -1,3 +1,13 @@
+on updater change first link to:
+
+https://raw.githubusercontent.com/rageoftheday/Cockatrice-XMLS/refs/heads/main/mtg.xml
+
+token link: 
+
+https://raw.githubusercontent.com/rageoftheday/Cockatrice-XMLS/refs/heads/main/tokens.xml.xz
+
+
+=====================================================================================================
 Cockatrice Universal Deck Importer 5.0 R2–R11
 
 Improved 8–16 GB RAM performance and card database caching
