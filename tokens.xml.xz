@@ -1102,9 +1102,7 @@ Equip {2} ({2}: Attach to target creatre you control. Equip only as a sorcery.)<
             <reverse-related>Trumpeting Gnarr</reverse-related>
             <reverse-related>Vivien, Monsters' Advocate</reverse-related>
             <reverse-related count="x">Wild Endeavor</reverse-related>
-            <reverse-related>Garruk, Veiled Butcher</reverse-related>
-            <reverse-related>Garruk, Curse Breaker</reverse-related>
-            <token>1</token>
+<token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -1144,9 +1142,7 @@ Equip {2} ({2}: Attach to target creatre you control. Equip only as a sorcery.)<
             <reverse-related>Rampaging Baloths</reverse-related>
             <reverse-related>Shadowbeast Sighting</reverse-related>
             <reverse-related>Somberwald Beastmaster</reverse-related>
-            <reverse-related>Garruk, Veiled Butcher</reverse-related>
-            <reverse-related>Garruk, Curse Breaker</reverse-related>
-            <token>1</token>
+<token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -7532,8 +7528,7 @@ Equip {2}</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/5/d/5dcbf662-7263-414a-b64b-ccf9aab20faa.jpg?1562636807" uuid="5dcbf662-7263-414a-b64b-ccf9aab20faa" num="4">ZEN</set>
             <reverse-related>Summoner's Bane</reverse-related>
-            <reverse-related>The Theorist, Jace Beleren</reverse-related>
-            <token>1</token>
+<token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
