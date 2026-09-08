@@ -9465,6 +9465,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <set picURL="https://cards.scryfall.io/large/front/b/1/b10441dd-9029-4f95-9566-d3771ebd36bd.jpg?1737835895" uuid="b10441dd-9029-4f95-9566-d3771ebd36bd" num="T1">GS1</set>
             <set picURL="https://cards.scryfall.io/large/back/b/1/b10441dd-9029-4f95-9566-d3771ebd36bd.jpg?1737835895" uuid="b10441dd-9029-4f95-9566-d3771ebd36bd" num="T1">GS1</set>
             <reverse-related>Jiang Yanggu</reverse-related>
+            <reverse-related>Jiang Yanggu, Never Alone</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
