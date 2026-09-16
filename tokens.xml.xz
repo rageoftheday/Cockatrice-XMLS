@@ -9600,6 +9600,7 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Origin Spellbomb</reverse-related>
             <reverse-related>Urtet, Remnant of Memnarch</reverse-related>
             <reverse-related>Ghalma the Shaper</reverse-related>
+            <reverse-related count="2">Memnarch, the Warden</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -14540,6 +14541,7 @@ The Void attacks each combat if able.</text>
             <reverse-related count="2">Whirler Rogue</reverse-related>
             <reverse-related>Whirler Virtuoso</reverse-related>
             <reverse-related>Whirlermaker</reverse-related>
+            <reverse-related>Pia, Determined Rebuilder</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
