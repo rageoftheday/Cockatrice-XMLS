@@ -7991,6 +7991,7 @@ Equip {2}</text>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/b/8/b802aea8-0ca3-4d2c-a8ef-a80e16729c9b.jpg?1726236464" uuid="b802aea8-0ca3-4d2c-a8ef-a80e16729c9b" num="5">DSK</set>
             <reverse-related>Overlord of the Mistmoors</reverse-related>
+            <reverse-related count="2">Overlord of the Mistmoors</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10558,8 +10559,7 @@ This creature can't block.</text>
             <reverse-related>Mirrex</reverse-related>
             <reverse-related>Mite Overseer</reverse-related>
             <reverse-related count="x">Ria Ivor, Bane of Bladehold</reverse-related>
-            <reverse-related>Skrelv's Hive</reverse-related>
-            <reverse-related>Stinging Hivemaster</reverse-related>
+<reverse-related>Stinging Hivemaster</reverse-related>
             <reverse-related count="3">Vishgraz, the Doomhive</reverse-related>
             <reverse-related count="x">White Sun's Twilight</reverse-related>
             <token>1</token>
@@ -13465,8 +13465,7 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Not Forgotten</reverse-related>
             <reverse-related>Nurturing Presence</reverse-related>
             <reverse-related count="3" exclude="exclude">Oath of the Grey Host</reverse-related>
-            <reverse-related count="x">Occult Epiphany</reverse-related>
-            <reverse-related count="x">Path of the Ghosthunter</reverse-related>
+<reverse-related count="x">Path of the Ghosthunter</reverse-related>
             <reverse-related>Priest of the Blessed Graf</reverse-related>
             <reverse-related>Ranar the Ever-Watchful</reverse-related>
             <reverse-related>Requiem Angel</reverse-related>
@@ -14542,6 +14541,8 @@ The Void attacks each combat if able.</text>
             <reverse-related>Whirler Virtuoso</reverse-related>
             <reverse-related>Whirlermaker</reverse-related>
             <reverse-related>Pia, Determined Rebuilder</reverse-related>
+            <reverse-related>Saheeli, Consul of Oversight</reverse-related>
+            <reverse-related>Saheeli, Jewel of Avishkar</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -20861,6 +20862,8 @@ This creature can't block.</text>
             <reverse-related>Sanctum Lurker</reverse-related>
             <reverse-related>Way of the Mind Sculptor</reverse-related>
             <reverse-related>Way of the Paradox</reverse-related>
+            <reverse-related>Plan for All Outcomes</reverse-related>
+            <reverse-related>Jace, Reality Sculptor</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
