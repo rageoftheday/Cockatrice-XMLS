@@ -3608,7 +3608,6 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
             <reverse-related>Shiv</reverse-related>
             <reverse-related>Skyline Despot</reverse-related>
             <reverse-related>Rith, the Awakener Avatar</reverse-related>
-            <reverse-related>Kiora of Fire and Ashes</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10559,7 +10558,8 @@ This creature can't block.</text>
             <reverse-related>Mirrex</reverse-related>
             <reverse-related>Mite Overseer</reverse-related>
             <reverse-related count="x">Ria Ivor, Bane of Bladehold</reverse-related>
-<reverse-related>Stinging Hivemaster</reverse-related>
+            <reverse-related>Skrelv's Hive</reverse-related>
+            <reverse-related>Stinging Hivemaster</reverse-related>
             <reverse-related count="3">Vishgraz, the Doomhive</reverse-related>
             <reverse-related count="x">White Sun's Twilight</reverse-related>
             <token>1</token>
@@ -13465,7 +13465,8 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Not Forgotten</reverse-related>
             <reverse-related>Nurturing Presence</reverse-related>
             <reverse-related count="3" exclude="exclude">Oath of the Grey Host</reverse-related>
-<reverse-related count="x">Path of the Ghosthunter</reverse-related>
+            <reverse-related count="x">Occult Epiphany</reverse-related>
+            <reverse-related count="x">Path of the Ghosthunter</reverse-related>
             <reverse-related>Priest of the Blessed Graf</reverse-related>
             <reverse-related>Ranar the Ever-Watchful</reverse-related>
             <reverse-related>Requiem Angel</reverse-related>
@@ -14540,9 +14541,6 @@ The Void attacks each combat if able.</text>
             <reverse-related count="2">Whirler Rogue</reverse-related>
             <reverse-related>Whirler Virtuoso</reverse-related>
             <reverse-related>Whirlermaker</reverse-related>
-            <reverse-related>Saheeli, Jewel of Avishkar</reverse-related>
-            <reverse-related>Saheeli, Consul of Oversight</reverse-related>
-            <reverse-related>Pia, Determined Rebuilder</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -20947,6 +20945,7 @@ This creature can't block.</text>
                 <pt>5/5</pt>
             </prop>
             <set artist="Loïc Canavaggia" picURL="https://cards.scryfall.io/large/front/9/9/991a5840-adc7-45b5-8d5f-b24dae384bab.jpg?1789734473" uuid="991a5840-adc7-45b5-8d5f-b24dae384bab" rarity="common" num="7">TFRA</set>
+            <reverse-related>Kiora of Fire and Ashes</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -20980,6 +20979,7 @@ This creature can't block.</text>
                 <pt>3/3</pt>
             </prop>
             <set artist="Deruchenko Alexander" picURL="https://cards.scryfall.io/large/front/f/c/fc924972-5014-45d1-9676-6a76d862b205.jpg?1789735762" uuid="fc924972-5014-45d1-9676-6a76d862b205" rarity="common" num="9">TFRA</set>
+            <reverse-related>Verdant Kraken</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21038,6 +21038,7 @@ This creature can't block.</text>
                 <pt>1/1</pt>
             </prop>
             <set artist="Raluca Marinescu" picURL="https://cards.scryfall.io/large/front/a/0/a0fec445-c6fb-4ca2-b63f-1d608c418a22.jpg?1789735148" uuid="a0fec445-c6fb-4ca2-b63f-1d608c418a22" rarity="common" num="13">TFRA</set>
+            <reverse-related>Vraska, Soul of Stone</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21051,6 +21052,9 @@ This creature can't block.</text>
                 <pt>1/1</pt>
             </prop>
             <set artist="Diego Gisbert" picURL="https://cards.scryfall.io/large/front/b/f/bfd6132f-c96b-4ce0-ac4d-c46356afc767.jpg?1789735223" uuid="bfd6132f-c96b-4ce0-ac4d-c46356afc767" rarity="common" num="14">TFRA</set>
+            <reverse-related>Saheeli, Jewel of Avishkar</reverse-related>
+            <reverse-related>Saheeli, Consul of Oversight</reverse-related>
+            <reverse-related>Pia, Determined Rebuilder</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
