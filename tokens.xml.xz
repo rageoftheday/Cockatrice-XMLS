@@ -3608,7 +3608,6 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
             <reverse-related>Shiv</reverse-related>
             <reverse-related>Skyline Despot</reverse-related>
             <reverse-related>Rith, the Awakener Avatar</reverse-related>
-            <reverse-related>Kiora of Fire and Ashes</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -14542,9 +14541,6 @@ The Void attacks each combat if able.</text>
             <reverse-related count="2">Whirler Rogue</reverse-related>
             <reverse-related>Whirler Virtuoso</reverse-related>
             <reverse-related>Whirlermaker</reverse-related>
-            <reverse-related>Saheeli, Jewel of Avishkar</reverse-related>
-            <reverse-related>Saheeli, Consul of Oversight</reverse-related>
-            <reverse-related>Pia, Determined Rebuilder</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
