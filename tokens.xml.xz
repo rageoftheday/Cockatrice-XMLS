@@ -3608,6 +3608,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
             <reverse-related>Shiv</reverse-related>
             <reverse-related>Skyline Despot</reverse-related>
             <reverse-related>Rith, the Awakener Avatar</reverse-related>
+            <reverse-related>Kiora of Fire and Ashes</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -14541,6 +14542,9 @@ The Void attacks each combat if able.</text>
             <reverse-related count="2">Whirler Rogue</reverse-related>
             <reverse-related>Whirler Virtuoso</reverse-related>
             <reverse-related>Whirlermaker</reverse-related>
+            <reverse-related>Saheeli, Jewel of Avishkar</reverse-related>
+            <reverse-related>Saheeli, Consul of Oversight</reverse-related>
+            <reverse-related>Pia, Determined Rebuilder</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -20802,7 +20806,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Angel Token    </name>
+            <name>Angel Token (TFDC)</name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -20816,7 +20820,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Angel Token     </name>
+            <name>Angel Token (TFDC #2)</name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -20830,7 +20834,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Spirit Token                       </name>
+            <name>Spirit Token (TFDC)</name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -20857,7 +20861,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Zombie Token         </name>
+            <name>Zombie Token (TFDC)</name>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Zombie</type>
@@ -20866,12 +20870,12 @@ This creature can't block.</text>
                 <pt>2/2</pt>
             </prop>
             <set artist="Anna Steinbauer" picURL="https://cards.scryfall.io/large/front/f/7/f7a49477-b7b5-4f0e-885f-e1d2b580c52e.jpg?1789754539" uuid="f7a49477-b7b5-4f0e-885f-e1d2b580c52e" rarity="common" num="5">TFDC</set>
-            <token>1</token>
             <reverse-related>Thomil, the Destroyer</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Zombie Knight Token </name>
+            <name>Zombie Knight Token (TFDC)</name>
             <text>Menace (This creature can't be blocked except by two or more creatures.)</text>
             <prop>
                 <colors>B</colors>
@@ -20885,7 +20889,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon Token        </name>
+            <name>Dragon Token (TFDC)</name>
             <text>Flying</text>
             <prop>
                 <colors>R</colors>
@@ -20899,7 +20903,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon Token         </name>
+            <name>Dragon Token (TFDC #8)</name>
             <text>Flying</text>
             <prop>
                 <colors>R</colors>
@@ -20913,7 +20917,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon Token          </name>
+            <name>Dragon Token (TFDC #9)</name>
             <text>Flying</text>
             <prop>
                 <colors>R</colors>
@@ -20927,7 +20931,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Beast Token           </name>
+            <name>Beast Token (TFDC)</name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Beast</type>
@@ -20940,7 +20944,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Phyrexian Beast Token  </name>
+            <name>Phyrexian Beast Token (TFDC)</name>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Phyrexian Beast</type>
@@ -20953,7 +20957,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Spider Token       </name>
+            <name>Spider Token (TFDC)</name>
             <text>Reach</text>
             <prop>
                 <colors>G</colors>
@@ -20967,7 +20971,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Clue Token </name>
+            <name>Clue Token (TFDC)</name>
             <text>{2}, Sacrifice this token: Draw a card.</text>
             <prop>
                 <type>Token Artifact ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Clue</type>
@@ -20975,12 +20979,12 @@ This creature can't block.</text>
                 <cmc>0</cmc>
             </prop>
             <set artist="Clint Lockwood" picURL="https://cards.scryfall.io/large/front/1/4/1481e938-7763-4109-b313-2a21053a82df.jpg?1789754721" uuid="1481e938-7763-4109-b313-2a21053a82df" rarity="common" num="13">TFDC</set>
-            <token>1</token>
             <reverse-related>Flitwing, Lyev Detective</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Myr Token </name>
+            <name>Myr Token (TFDC)</name>
             <prop>
                 <type>Token Artifact Creature ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Myr</type>
                 <maintype>Creature</maintype>
@@ -20992,7 +20996,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Thopter Token   </name>
+            <name>Thopter Token (TFDC)</name>
             <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Thopter</type>
@@ -21005,7 +21009,7 @@ This creature can't block.</text>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Treasure Token </name>
+            <name>Treasure Token (TFDC)</name>
             <text>{T}, Sacrifice this token: Add one mana of any color.</text>
             <prop>
                 <type>Token Artifact ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Treasure</type>
@@ -21038,10 +21042,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>2/2</pt>
             </prop>
             <set artist="Elizabeth PeirÃƒÆ’Ã‚Â³" picURL="https://cards.scryfall.io/large/front/8/f/8f4534d8-2783-484f-8ebf-a47b1cc4c6df.jpg?1789734318" uuid="8f4534d8-2783-484f-8ebf-a47b1cc4c6df" rarity="common" num="1">TFRA</set>
-            <reverse-related>Recursive Recruitment</reverse-related>
-            <reverse-related>Hexhaven Battalion</reverse-related>
-            <reverse-related>Germinate Recruits</reverse-related>
-            <token>1</token>
             <reverse-related count="x">Germinate Recruits</reverse-related>
             <reverse-related count="x">Hexhaven Battalion</reverse-related>
             <reverse-related>Semester Foreseer // Peer Review</reverse-related>
@@ -21055,6 +21055,10 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Stingerquill Charm</reverse-related>
             <reverse-related>Way of the Healer</reverse-related>
             <reverse-related>Ajani Unrelenting</reverse-related>
+            <reverse-related>Recursive Recruitment</reverse-related>
+            <reverse-related>Hexhaven Battalion</reverse-related>
+            <reverse-related>Germinate Recruits</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21068,12 +21072,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>2/2</pt>
             </prop>
             <set artist="Diego Gisbert" picURL="https://cards.scryfall.io/large/front/7/8/7801c326-d740-4cec-9268-05348ace8302.jpg?1789735461" uuid="7801c326-d740-4cec-9268-05348ace8302" rarity="common" num="2">TFRA</set>
-            <token>1</token>
             <reverse-related>Ajani Resolute</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Angel Token      </name>
+            <name>Angel Token (TFRA)</name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -21083,12 +21087,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>3/3</pt>
             </prop>
             <set artist="Raluca Marinescu" picURL="https://cards.scryfall.io/large/front/5/1/5165055a-89e1-471b-ac96-732e593c910b.jpg?1789735744" uuid="5165055a-89e1-471b-ac96-732e593c910b" rarity="common" num="3">TFRA</set>
-            <token>1</token>
             <reverse-related>Lyra, Tolarian Archangel</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Illusion Token      </name>
+            <name>Illusion Token (TFRA)</name>
             <prop>
                 <colors>U</colors>
                 <type>Token Creature ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Illusion</type>
@@ -21097,8 +21101,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Daniel Cotter" picURL="https://cards.scryfall.io/large/front/7/b/7bda0b63-fd0f-495d-9eb0-20057571c0ee.jpg?1787952525" uuid="7bda0b63-fd0f-495d-9eb0-20057571c0ee" rarity="common" num="4">TFRA</set>
-            <token>1</token>
             <reverse-related>The Theorist, Jace Beleren</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21113,7 +21117,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <loyalty>0</loyalty>
             </prop>
             <set artist="Manuel CastaÃƒÆ’Ã‚Â±ÃƒÆ’Ã‚Â³n" picURL="https://cards.scryfall.io/large/front/8/d/8d1e424f-6407-4f8c-bed2-eaf148237c81.jpg?1789738324" uuid="8d1e424f-6407-4f8c-bed2-eaf148237c81" rarity="common" num="5">TFRA</set>
-            <token>1</token>
             <reverse-related>Academic Ascent</reverse-related>
             <reverse-related>Campus Crier</reverse-related>
             <reverse-related>Hexhaven Battalion</reverse-related>
@@ -21149,10 +21152,11 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Way of the Warlord</reverse-related>
             <reverse-related>Way of the Paradox</reverse-related>
             <reverse-related>Way of the Wildspeaker</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Leviathan Token </name>
+            <name>Leviathan Token (TFRA)</name>
             <text>Hexproof</text>
             <prop>
                 <colors>U</colors>
@@ -21162,12 +21166,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>8/8</pt>
             </prop>
             <set artist="Maxime Minard" picURL="https://cards.scryfall.io/large/front/a/4/a4339d5a-7c07-4326-b0e6-d2519332803d.jpg?1789735757" uuid="a4339d5a-7c07-4326-b0e6-d2519332803d" rarity="common" num="6">TFRA</set>
-            <token>1</token>
             <reverse-related>Kiora of Salt and Sand</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Dragon Token           </name>
+            <name>Dragon Token (TFRA)</name>
             <text>Flying</text>
             <prop>
                 <colors>R</colors>
@@ -21177,13 +21181,13 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>5/5</pt>
             </prop>
             <set artist="LoÃƒÆ’Ã‚Â¯c Canavaggia" picURL="https://cards.scryfall.io/large/front/9/9/991a5840-adc7-45b5-8d5f-b24dae384bab.jpg?1789734473" uuid="991a5840-adc7-45b5-8d5f-b24dae384bab" rarity="common" num="7">TFRA</set>
-            <token>1</token>
             <reverse-related>Draconic Visitor</reverse-related>
             <reverse-related>Kiora of Fire and Ashes</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Beast Token            </name>
+            <name>Beast Token (TFRA)</name>
             <text>Trample</text>
             <prop>
                 <colors>G</colors>
@@ -21193,12 +21197,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>4/4</pt>
             </prop>
             <set artist="Simon Dominic" picURL="https://cards.scryfall.io/large/front/8/5/859bda9a-fa90-4ad3-b0c1-6fc62e27c12f.jpg?1789736256" uuid="859bda9a-fa90-4ad3-b0c1-6fc62e27c12f" rarity="common" num="8">TFRA</set>
-            <token>1</token>
             <reverse-related>Bestial Incursion</reverse-related>
             <reverse-related>Garruk, Veiled Butcher</reverse-related>
             <reverse-related>Way of the Deathbringer</reverse-related>
             <reverse-related>Garruk, Curse Breaker</reverse-related>
             <reverse-related>Way of the Wildspeaker</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21212,8 +21216,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>3/3</pt>
             </prop>
             <set artist="Deruchenko Alexander" picURL="https://cards.scryfall.io/large/front/f/c/fc924972-5014-45d1-9676-6a76d862b205.jpg?1789735762" uuid="fc924972-5014-45d1-9676-6a76d862b205" rarity="common" num="9">TFRA</set>
-            <token>1</token>
             <reverse-related>Verdant Kraken</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21226,8 +21230,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>3/3</pt>
             </prop>
             <set artist="Leonardo Santanna" picURL="https://cards.scryfall.io/large/front/5/8/5868190d-18f6-43b6-af83-9e0ef585687d.jpg?1789735768" uuid="5868190d-18f6-43b6-af83-9e0ef585687d" rarity="common" num="10">TFRA</set>
-            <token>1</token>
             <reverse-related>Jiang Yanggu, Never Alone</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21240,14 +21244,14 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <cmc>0</cmc>
             </prop>
             <set artist="Tianxing Xu" picURL="https://cards.scryfall.io/large/front/e/b/eb4bf635-04d7-4994-9f70-4ff573a767e7.jpg?1789966278" uuid="eb4bf635-04d7-4994-9f70-4ff573a767e7" rarity="common" num="11">TFRA</set>
-            <reverse-related count="2">Tenured Tethermage</reverse-related>
-            <token>1</token>
             <reverse-related>Heartwood Crafter // Soul Tether</reverse-related>
             <reverse-related>Hungering Puppetbeast</reverse-related>
             <reverse-related>Aerid Konstrari</reverse-related>
             <reverse-related>Konstrari Improviser // Soul Tether</reverse-related>
             <reverse-related count="x">Tenured Tethermage</reverse-related>
             <reverse-related>Woodwork Prodigy // Soul Tether</reverse-related>
+            <reverse-related count="2">Tenured Tethermage</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21259,8 +21263,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <cmc>0</cmc>
             </prop>
             <set artist="Alex V. Ngo" picURL="https://cards.scryfall.io/large/front/c/5/c59b7223-00a9-4c0d-896d-1cd463860c40.jpg?1789734772" uuid="c59b7223-00a9-4c0d-896d-1cd463860c40" rarity="common" num="12">TFRA</set>
-            <token>1</token>
             <reverse-related>Kwia Vigorbloom</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21273,12 +21277,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Raluca Marinescu" picURL="https://cards.scryfall.io/large/front/a/0/a0fec445-c6fb-4ca2-b63f-1d608c418a22.jpg?1789735148" uuid="a0fec445-c6fb-4ca2-b63f-1d608c418a22" rarity="common" num="13">TFRA</set>
-            <token>1</token>
             <reverse-related>Vraska, Soul of Stone</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Thopter Token    </name>
+            <name>Thopter Token (TFRA)</name>
             <text>Flying</text>
             <prop>
                 <type>Token Artifact Creature ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Thopter</type>
@@ -21287,14 +21291,14 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Diego Gisbert" picURL="https://cards.scryfall.io/large/front/b/f/bfd6132f-c96b-4ce0-ac4d-c46356afc767.jpg?1789735223" uuid="bfd6132f-c96b-4ce0-ac4d-c46356afc767" rarity="common" num="14">TFRA</set>
-            <token>1</token>
             <reverse-related>Saheeli, Consul of Oversight</reverse-related>
             <reverse-related>Pia, Determined Rebuilder</reverse-related>
             <reverse-related>Saheeli, Jewel of Avishkar</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Treasure Token  </name>
+            <name>Treasure Token (TFRA)</name>
             <text>{T}, Sacrifice this token: Add one mana of any color.</text>
             <prop>
                 <type>Token Artifact ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Treasure</type>
@@ -21302,10 +21306,10 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <cmc>0</cmc>
             </prop>
             <set artist="Alayna Danner" picURL="https://cards.scryfall.io/large/front/0/3/03992f88-7a15-4234-9bed-b7617d7ff09c.jpg?1789735245" uuid="03992f88-7a15-4234-9bed-b7617d7ff09c" rarity="common" num="15">TFRA</set>
-            <token>1</token>
             <reverse-related>Vraska, the Cutting Glare</reverse-related>
             <reverse-related>Currency Converter</reverse-related>
             <reverse-related>Chira, All In</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21317,8 +21321,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <cmc>0</cmc>
             </prop>
             <set artist="Tyler Jacobson" picURL="https://cards.scryfall.io/large/front/5/9/595a628e-218b-4df2-8bd2-d84ad22d302f.jpg?1789735284" uuid="595a628e-218b-4df2-8bd2-d84ad22d302f" rarity="common" num="16">TFRA</set>
-            <token>1</token>
             <reverse-related>Ajani Resolute</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21330,12 +21334,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <cmc>0</cmc>
             </prop>
             <set artist="Kieran Yanner" picURL="https://cards.scryfall.io/large/front/c/e/ce0ece65-ba13-4243-b343-b4da443fceff.jpg?1789735299" uuid="ce0ece65-ba13-4243-b343-b4da443fceff" rarity="common" num="17">TFRA</set>
-            <token>1</token>
             <reverse-related>Chandra, Chill of Compliance</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Chandra, Torch of Defiance Emblem </name>
+            <name>Chandra, Torch of Defiance Emblem (TFRA)</name>
             <text>Whenever you cast a spell, this emblem deals 5 damage to any target.</text>
             <prop>
                 <type>Emblem ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â Chandra</type>
@@ -21343,12 +21347,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <cmc>0</cmc>
             </prop>
             <set artist="Kieran Yanner" picURL="https://cards.scryfall.io/large/front/5/f/5fdc53ba-e023-4ee4-bb14-fd8c52955ee9.jpg?1789735329" uuid="5fdc53ba-e023-4ee4-bb14-fd8c52955ee9" rarity="common" num="18">TFRA</set>
-            <token>1</token>
             <reverse-related>Chandra, Torch of Defiance</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Angel Token       </name>
+            <name>Angel Token (TFRC)</name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -21358,8 +21362,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>4/4</pt>
             </prop>
             <set artist="HarkalÃƒÂ© LinaÃƒÂ¯" picURL="https://cards.scryfall.io/large/front/1/1/1159d02c-0291-42de-91e6-e9a49d5ed968.jpg?1789737317" uuid="1159d02c-0291-42de-91e6-e9a49d5ed968" rarity="common" num="1">TFRC</set>
-            <token>1</token>
             <reverse-related>Ob Nixilis, the Ascended</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21373,12 +21377,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>2/1</pt>
             </prop>
             <set artist="Michele Giorgi" picURL="https://cards.scryfall.io/large/front/f/5/f5d782a4-6726-4d64-9977-82ea2ab77e0f.jpg?1789737199" uuid="f5d782a4-6726-4d64-9977-82ea2ab77e0f" rarity="common" num="2">TFRC</set>
-            <token>1</token>
             <reverse-related count="x">Overlord of the Mistmoors</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Soldier Token           </name>
+            <name>Soldier Token (TFRC)</name>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature Ã¢â‚¬â€ Soldier</type>
@@ -21387,14 +21391,14 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Magali Villeneuve" picURL="https://cards.scryfall.io/large/front/a/5/a58c2fc3-c07f-4f06-a9d5-1d0fe3dbde1f.jpg?1789737284" uuid="a58c2fc3-c07f-4f06-a9d5-1d0fe3dbde1f" rarity="common" num="3">TFRC</set>
-            <token>1</token>
             <reverse-related count="x">Elspeth, Sun's Champion</reverse-related>
             <reverse-related count="x">Martial Coup</reverse-related>
             <reverse-related>Grizzlegom, Hurloon Hero</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Spirit Token                        </name>
+            <name>Spirit Token (TFRC)</name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -21404,14 +21408,14 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Kim Sokol" picURL="https://cards.scryfall.io/large/front/0/6/06a96ac2-94a4-4b1c-a3c5-add1a3112cb2.jpg?1789737345" uuid="06a96ac2-94a4-4b1c-a3c5-add1a3112cb2" rarity="common" num="4">TFRC</set>
-            <token>1</token>
             <reverse-related count="x">Lingering Souls</reverse-related>
             <reverse-related>Staff of the Storyteller</reverse-related>
             <reverse-related>Occult Epiphany</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Warrior Token     </name>
+            <name>Warrior Token (TFRC)</name>
             <prop>
                 <colors>W</colors>
                 <type>Token Creature Ã¢â‚¬â€ Warrior</type>
@@ -21420,12 +21424,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Ryan Barger" picURL="https://cards.scryfall.io/large/front/2/d/2dde64e7-dff3-4495-9649-d4b1e91f1cf3.jpg?1789737362" uuid="2dde64e7-dff3-4495-9649-d4b1e91f1cf3" rarity="common" num="5">TFRC</set>
-            <token>1</token>
             <reverse-related count="x">Secure the Wastes</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Shark Token  </name>
+            <name>Shark Token (TFRC)</name>
             <text>Flying</text>
             <prop>
                 <colors>U</colors>
@@ -21435,12 +21439,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>*/*</pt>
             </prop>
             <set artist="Caio Monteiro" picURL="https://cards.scryfall.io/large/front/2/1/21a614b0-2e65-4ea0-94c3-9c9afa0bc03c.jpg?1789737376" uuid="21a614b0-2e65-4ea0-94c3-9c9afa0bc03c" rarity="common" num="6">TFRC</set>
-            <token>1</token>
             <reverse-related>Shark Typhoon</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Rogue Token   </name>
+            <name>Rogue Token (TFRC)</name>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature Ã¢â‚¬â€ Rogue</type>
@@ -21449,12 +21453,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>2/2</pt>
             </prop>
             <set artist="Maria Poliakova" picURL="https://cards.scryfall.io/large/front/0/5/0526330e-40eb-4c5f-b0f5-5489839e5f44.jpg?1789737431" uuid="0526330e-40eb-4c5f-b0f5-5489839e5f44" rarity="common" num="7">TFRC</set>
-            <token>1</token>
             <reverse-related>Currency Converter</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Zombie Army Token </name>
+            <name>Zombie Army Token (TFRC)</name>
             <prop>
                 <colors>B</colors>
                 <type>Token Creature Ã¢â‚¬â€ Zombie Army</type>
@@ -21463,12 +21467,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>0/0</pt>
             </prop>
             <set artist="David Astruga" picURL="https://cards.scryfall.io/large/front/1/4/14474e29-27a4-475a-9d2c-eb1d6c146421.jpg?1789737477" uuid="14474e29-27a4-475a-9d2c-eb1d6c146421" rarity="common" num="8">TFRC</set>
-            <token>1</token>
             <reverse-related>Dreadhorde Invasion</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Goblin Token     </name>
+            <name>Goblin Token (TFRC)</name>
             <prop>
                 <colors>R</colors>
                 <type>Token Creature Ã¢â‚¬â€ Goblin</type>
@@ -21477,8 +21481,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Paolo Parente" picURL="https://cards.scryfall.io/large/front/0/c/0c7f299e-4774-4e8b-bb0e-db27d57d2621.jpg?1789737534" uuid="0c7f299e-4774-4e8b-bb0e-db27d57d2621" rarity="common" num="9">TFRC</set>
-            <token>1</token>
             <reverse-related>Windcrag Siege</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21491,12 +21495,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>0/1</pt>
             </prop>
             <set artist="Paolo Parente" picURL="https://cards.scryfall.io/large/front/d/0/d0d630b2-1e42-4cf7-bfa1-36d5c135877b.jpg?1789737548" uuid="d0d630b2-1e42-4cf7-bfa1-36d5c135877b" rarity="common" num="10">TFRC</set>
-            <token>1</token>
             <reverse-related>Kher Keep</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Citizen Token   </name>
+            <name>Citizen Token (TFRC)</name>
             <prop>
                 <colors>GW</colors>
                 <type>Token Creature Ã¢â‚¬â€ Citizen</type>
@@ -21505,8 +21509,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Maria Poliakova" picURL="https://cards.scryfall.io/large/front/b/7/b7171de9-476d-4bfa-8cc0-b4fbc168cf4d.jpg?1789737561" uuid="b7171de9-476d-4bfa-8cc0-b4fbc168cf4d" rarity="common" num="11">TFRC</set>
-            <token>1</token>
             <reverse-related count="x">Grand Crescendo</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21522,8 +21526,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Alexandre HonorÃƒÂ©" picURL="https://cards.scryfall.io/large/front/d/c/dc2dff97-a68b-497f-a004-1e14ba5116ea.jpg?1789737618" uuid="dc2dff97-a68b-497f-a004-1e14ba5116ea" rarity="common" num="12">TFRC</set>
-            <token>1</token>
             <reverse-related>Ginger, Queen of Sweets</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21536,12 +21540,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>0/0</pt>
             </prop>
             <set artist="Johann Bodin" picURL="https://cards.scryfall.io/large/front/7/b/7b7f2e3a-ec43-4408-affd-a09338566ce3.jpg?1789599993" uuid="7b7f2e3a-ec43-4408-affd-a09338566ce3" rarity="common" num="13">TFRC</set>
-            <token>1</token>
             <reverse-related>Sunfall</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Map Token </name>
+            <name>Map Token (TFRC)</name>
             <text>{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
             <prop>
                 <type>Token Artifact Ã¢â‚¬â€ Map</type>
@@ -21549,12 +21553,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <cmc>0</cmc>
             </prop>
             <set artist="Francesca Baerald" picURL="https://cards.scryfall.io/large/front/9/1/91613970-c25c-4959-b5b0-b6e2a7657634.jpg?1789737819" uuid="91613970-c25c-4959-b5b0-b6e2a7657634" rarity="common" num="14">TFRC</set>
-            <token>1</token>
             <reverse-related>Restless Anchorage</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Myr Token  </name>
+            <name>Myr Token (TFRC)</name>
             <prop>
                 <type>Token Artifact Creature Ã¢â‚¬â€ Myr</type>
                 <maintype>Creature</maintype>
@@ -21562,12 +21566,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Michele Giorgi" picURL="https://cards.scryfall.io/large/front/e/4/e41f83c6-c20f-455a-b630-5fad99fa54ad.jpg?1789737643" uuid="e41f83c6-c20f-455a-b630-5fad99fa54ad" rarity="common" num="15">TFRC</set>
-            <token>1</token>
             <reverse-related count="x">Memnarch, the Warden</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Phyrexian Mite Token </name>
+            <name>Phyrexian Mite Token (TFRC)</name>
             <text>Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
 This creature can't block.</text>
             <prop>
@@ -21577,13 +21581,13 @@ This creature can't block.</text>
                 <pt>1/1</pt>
             </prop>
             <set artist="Oriana Menendez" picURL="https://cards.scryfall.io/large/front/e/9/e9c68c64-f3b9-45b7-83d1-bd1439a49942.jpg?1789737661" uuid="e9c68c64-f3b9-45b7-83d1-bd1439a49942" rarity="common" num="16">TFRC</set>
-            <token>1</token>
             <reverse-related>Skrelv's Hive</reverse-related>
             <reverse-related count="x">White Sun's Twilight</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>The Monarch Token </name>
+            <name>The Monarch Token (TFRC)</name>
             <text>At the beginning of your end step, draw a card.
 Whenever a creature deals combat damage to you, its controller becomes the monarch.</text>
             <prop>
@@ -21592,12 +21596,12 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <cmc>0</cmc>
             </prop>
             <set artist="Lauren Ayrey" picURL="https://cards.scryfall.io/large/front/1/1/11608fa5-2c53-4008-ad82-555380f5e6f1.jpg?1789799963" uuid="11608fa5-2c53-4008-ad82-555380f5e6f1" rarity="common" num="17">TFRC</set>
-            <token>1</token>
             <reverse-related count="x">Chief Magistrate of Mercadia</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Human Token    </name>
+            <name>Human Token (TTRK)</name>
             <text>Permanents can't phase in.</text>
             <prop>
                 <colors>W</colors>
@@ -21607,8 +21611,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>0/1</pt>
             </prop>
             <set artist="David Ãlvarez" picURL="https://cards.scryfall.io/large/front/2/5/25b0644d-4934-4495-9b6e-c31d1d10c298.jpg?1784177188" uuid="25b0644d-4934-4495-9b6e-c31d1d10c298" rarity="common" num="1">TTRK</set>
-            <token>1</token>
             <reverse-related>The City on the Edge of Forever</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21620,7 +21624,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <cmc>0</cmc>
             </prop>
             <set artist="Javier Charro" picURL="https://cards.scryfall.io/large/front/f/4/f4e87a11-b3b1-47b2-bd73-f4c78d6fbe6c.jpg?1783902813" uuid="f4e87a11-b3b1-47b2-bd73-f4c78d6fbe6c" rarity="common" num="17">TMSC</set>
-            <token>1</token>
             <reverse-related>Sphinx of False Conclusions</reverse-related>
             <reverse-related>Face Yourself</reverse-related>
             <reverse-related>Uldaros Theorix</reverse-related>
@@ -21629,6 +21632,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Chief Magistrate of Mercadia</reverse-related>
             <reverse-related>Elda, Conjurer of Spectacle</reverse-related>
             <reverse-related>Uugguu, the Omniplasm</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21641,8 +21645,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Eilene Cherie" picURL="https://cards.scryfall.io/large/front/7/f/7f7a4f95-f12b-4c28-a6f7-f3c64364abba.jpg?1783902797" uuid="7f7a4f95-f12b-4c28-a6f7-f3c64364abba" rarity="common" num="24">TMSH</set>
-            <token>1</token>
             <reverse-related>Grandmother Goby</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21654,14 +21658,14 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <cmc>0</cmc>
             </prop>
             <set artist="Raymond Bonilla" picURL="https://cards.scryfall.io/large/front/2/7/276dedb8-3d41-499c-8804-bb1471fcb06f.jpg?1786586750" uuid="276dedb8-3d41-499c-8804-bb1471fcb06f" rarity="common" num="2551">SLD</set>
-            <token>1</token>
             <reverse-related>Meatsqueak, Hoard Lord</reverse-related>
             <reverse-related>Jandor, Fortuned Traveler</reverse-related>
             <reverse-related>Overcooked</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Goblin Token      </name>
+            <name>Goblin Token     </name>
             <text>Haste</text>
             <prop>
                 <colors>R</colors>
@@ -21671,8 +21675,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>2/1</pt>
             </prop>
             <set artist="Carl Critchlow" picURL="https://cards.scryfall.io/large/front/7/9/79707ef3-9ac8-4774-b34b-f227546ff4bd.jpg?1783913156" uuid="79707ef3-9ac8-4774-b34b-f227546ff4bd" rarity="common" num="9">TRVR</set>
-            <token>1</token>
             <reverse-related>Chief Magistrate of Mercadia</reverse-related>
+            <token>1</token>
             <tablerow>2</tablerow>
         </card>
     </cards>
