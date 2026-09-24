@@ -1442,7 +1442,7 @@ Equip {2} ({2}: Attach to target creatre you control. Equip only as a sorcery.)<
             <set picURL="https://cards.scryfall.io/large/front/2/6/26e0e196-36e6-4d7a-a76b-1c2a18270267.jpg?1561756807" uuid="26e0e196-36e6-4d7a-a76b-1c2a18270267" num="4">INV</set>
             <reverse-related count="2">Alrund's Epiphany</reverse-related>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
-            <reverse-related count="x">Feroz, Ulgrotha's Warden</reverse-related>
+            <reverse-related count="2">Feroz, Ulgrotha's Warden</reverse-related>
             <reverse-related count="x">Ordered Migration</reverse-related>
             <reverse-related>Ravenform</reverse-related>
             <reverse-related>Riku of Many Paths</reverse-related>
@@ -5535,7 +5535,6 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Bram, Baguette Brawler</reverse-related>
             <reverse-related>The Cookout Creator</reverse-related>
             <reverse-related>Stardew Valley</reverse-related>
-            <reverse-related>Jandor, Fortuned Traveler</reverse-related>
             <reverse-related>Campsite Cuisine</reverse-related>
             <reverse-related>The Five Stages of Grief</reverse-related>
             <reverse-related count="2">Another Night in Vegas</reverse-related>
@@ -7989,7 +7988,6 @@ Equip {2}</text>
                 <pt>2/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/b/8/b802aea8-0ca3-4d2c-a8ef-a80e16729c9b.jpg?1726236464" uuid="b802aea8-0ca3-4d2c-a8ef-a80e16729c9b" num="5">DSK</set>
-            <reverse-related>Overlord of the Mistmoors</reverse-related>
             <reverse-related count="2">Overlord of the Mistmoors</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -10965,7 +10963,7 @@ Creatures you control attack each combat if able.</text>
             <reverse-related>Argothian Opportunist</reverse-related>
             <reverse-related>Ashnod, Flesh Mechanist</reverse-related>
             <reverse-related>Cityscape Leveler</reverse-related>
-            <reverse-related count="x">Dyfed, the Guiding Hand</reverse-related>
+            <reverse-related count="2">Dyfed, the Guiding Hand</reverse-related>
             <reverse-related>Excavation Explosion</reverse-related>
             <reverse-related count="3">Fallaji Excavation</reverse-related>
             <reverse-related>Geology Enthusiast</reverse-related>
@@ -10996,7 +10994,6 @@ Creatures you control attack each combat if able.</text>
             <reverse-related>Urza, Powerstone Prodigy</reverse-related>
             <reverse-related>Visions of Phyrexia</reverse-related>
             <reverse-related count="x">Wreck Hunter</reverse-related>
-            <reverse-related count="2">Dyfed, the Guiding Hand</reverse-related>
             <reverse-related>A-Karn, Living Legacy</reverse-related>
             <reverse-related>A-Geology Enthusiast</reverse-related>
             <reverse-related>A-Thran Spider</reverse-related>
@@ -12708,7 +12705,6 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
             <set picURL="https://cards.scryfall.io/large/front/1/3/13e4832d-8530-4b85-b738-51d0c18f28ec.jpg?1651951882" uuid="13e4832d-8530-4b85-b738-51d0c18f28ec" num="9">CC2</set>
             <reverse-related>Aphelia, Viper Whisperer</reverse-related>
             <reverse-related>Ophiomancer</reverse-related>
-            <reverse-related>Mojave Desert</reverse-related>
             <reverse-related count="x">Mojave Desert</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -21039,7 +21035,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Elizabeth PeirÃƒÆ’Ã‚Â³" picURL="https://cards.scryfall.io/large/front/8/f/8f4534d8-2783-484f-8ebf-a47b1cc4c6df.jpg?1789734318" uuid="8f4534d8-2783-484f-8ebf-a47b1cc4c6df" rarity="common" num="1">TFRA</set>
             <reverse-related count="x">Germinate Recruits</reverse-related>
-            <reverse-related count="x">Hexhaven Battalion</reverse-related>
+            <reverse-related count="3">Hexhaven Battalion</reverse-related>
             <reverse-related>Semester Foreseer // Peer Review</reverse-related>
             <reverse-related>Command the Stage</reverse-related>
             <reverse-related>Heartstring Puller</reverse-related>
@@ -21047,13 +21043,10 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Fatehold Chronologist // Peer Review</reverse-related>
             <reverse-related>Ingris Stingerquill</reverse-related>
             <reverse-related>Prudent Fateseer // Peer Review</reverse-related>
-            <reverse-related count="x">Recursive Recruitment</reverse-related>
+            <reverse-related count="2">Recursive Recruitment</reverse-related>
             <reverse-related>Stingerquill Charm</reverse-related>
             <reverse-related>Way of the Healer</reverse-related>
             <reverse-related>Ajani Unrelenting</reverse-related>
-            <reverse-related>Recursive Recruitment</reverse-related>
-            <reverse-related>Hexhaven Battalion</reverse-related>
-            <reverse-related>Germinate Recruits</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21244,9 +21237,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Hungering Puppetbeast</reverse-related>
             <reverse-related>Aerid Konstrari</reverse-related>
             <reverse-related>Konstrari Improviser // Soul Tether</reverse-related>
-            <reverse-related count="x">Tenured Tethermage</reverse-related>
-            <reverse-related>Woodwork Prodigy // Soul Tether</reverse-related>
             <reverse-related count="2">Tenured Tethermage</reverse-related>
+            <reverse-related>Woodwork Prodigy // Soul Tether</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21373,7 +21365,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>2/1</pt>
             </prop>
             <set artist="Michele Giorgi" picURL="https://cards.scryfall.io/large/front/f/5/f5d782a4-6726-4d64-9977-82ea2ab77e0f.jpg?1789737199" uuid="f5d782a4-6726-4d64-9977-82ea2ab77e0f" rarity="common" num="2">TFRC</set>
-            <reverse-related count="x">Overlord of the Mistmoors</reverse-related>
+            <reverse-related count="2">Overlord of the Mistmoors</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21387,7 +21379,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Magali Villeneuve" picURL="https://cards.scryfall.io/large/front/a/5/a58c2fc3-c07f-4f06-a9d5-1d0fe3dbde1f.jpg?1789737284" uuid="a58c2fc3-c07f-4f06-a9d5-1d0fe3dbde1f" rarity="common" num="3">TFRC</set>
-            <reverse-related count="x">Elspeth, Sun's Champion</reverse-related>
+            <reverse-related count="3">Elspeth, Sun's Champion</reverse-related>
             <reverse-related count="x">Martial Coup</reverse-related>
             <reverse-related>Grizzlegom, Hurloon Hero</reverse-related>
             <token>1</token>
@@ -21404,7 +21396,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Kim Sokol" picURL="https://cards.scryfall.io/large/front/0/6/06a96ac2-94a4-4b1c-a3c5-add1a3112cb2.jpg?1789737345" uuid="06a96ac2-94a4-4b1c-a3c5-add1a3112cb2" rarity="common" num="4">TFRC</set>
-            <reverse-related count="x">Lingering Souls</reverse-related>
+            <reverse-related count="2">Lingering Souls</reverse-related>
             <reverse-related>Staff of the Storyteller</reverse-related>
             <reverse-related>Occult Epiphany</reverse-related>
             <token>1</token>
@@ -21562,7 +21554,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Michele Giorgi" picURL="https://cards.scryfall.io/large/front/e/4/e41f83c6-c20f-455a-b630-5fad99fa54ad.jpg?1789737643" uuid="e41f83c6-c20f-455a-b630-5fad99fa54ad" rarity="common" num="15">TFRC</set>
-            <reverse-related count="x">Memnarch, the Warden</reverse-related>
+            <reverse-related count="2">Memnarch, the Warden</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
