@@ -1442,7 +1442,7 @@ Equip {2} ({2}: Attach to target creatre you control. Equip only as a sorcery.)<
             <set picURL="https://cards.scryfall.io/large/front/2/6/26e0e196-36e6-4d7a-a76b-1c2a18270267.jpg?1561756807" uuid="26e0e196-36e6-4d7a-a76b-1c2a18270267" num="4">INV</set>
             <reverse-related count="2">Alrund's Epiphany</reverse-related>
             <reverse-related>Fable of Wolf and Owl</reverse-related>
-            <reverse-related count="2">Feroz, Ulgrotha's Warden</reverse-related>
+            <reverse-related count="x">Feroz, Ulgrotha's Warden</reverse-related>
             <reverse-related count="x">Ordered Migration</reverse-related>
             <reverse-related>Ravenform</reverse-related>
             <reverse-related>Riku of Many Paths</reverse-related>
@@ -6173,6 +6173,9 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <reverse-related>Windcrag Siege</reverse-related>
             <reverse-related count="2">You See a Pair of Goblins</reverse-related>
             <reverse-related>A-Rulik Mons, Warren Chief</reverse-related>
+            <reverse-related>Blast from the Past</reverse-related>
+            <reverse-related count="2">Goblin Gang Leader</reverse-related>
+            <reverse-related>Tin Street Cadet</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10962,7 +10965,7 @@ Creatures you control attack each combat if able.</text>
             <reverse-related>Argothian Opportunist</reverse-related>
             <reverse-related>Ashnod, Flesh Mechanist</reverse-related>
             <reverse-related>Cityscape Leveler</reverse-related>
-            <reverse-related count="2">Dyfed, the Guiding Hand</reverse-related>
+            <reverse-related count="x">Dyfed, the Guiding Hand</reverse-related>
             <reverse-related>Excavation Explosion</reverse-related>
             <reverse-related count="3">Fallaji Excavation</reverse-related>
             <reverse-related>Geology Enthusiast</reverse-related>
@@ -10993,6 +10996,7 @@ Creatures you control attack each combat if able.</text>
             <reverse-related>Urza, Powerstone Prodigy</reverse-related>
             <reverse-related>Visions of Phyrexia</reverse-related>
             <reverse-related count="x">Wreck Hunter</reverse-related>
+            <reverse-related count="2">Dyfed, the Guiding Hand</reverse-related>
             <reverse-related>A-Karn, Living Legacy</reverse-related>
             <reverse-related>A-Geology Enthusiast</reverse-related>
             <reverse-related>A-Thran Spider</reverse-related>
@@ -13835,6 +13839,7 @@ Whenever you draw a card, put a +1/+1 counter on this creature.</text>
             <reverse-related>Kin-Tree Nurturer</reverse-related>
             <reverse-related count="3">Revival of the Ancestors</reverse-related>
             <reverse-related>Sinkhole Surveyor</reverse-related>
+            <reverse-related count="3">Confront the Assault</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -20808,12 +20813,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Leonardo Santanna" picURL="https://cards.scryfall.io/large/front/e/1/e1e5dbd5-5fba-4d09-aa27-359505042651.jpg?1789754461" uuid="e1e5dbd5-5fba-4d09-aa27-359505042651" rarity="common" num="1">TFDC</set>
             <token>1</token>
-            <reverse-related>The Book of Exalted Deeds</reverse-related>
-            <reverse-related>Elspeth Resplendent</reverse-related>
-            <reverse-related>Seraphic Steed</reverse-related>
-            <reverse-related>Linvala, the Preserver</reverse-related>
-            <reverse-related>The Pit</reverse-related>
-            <reverse-related>Soul of Emancipation</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -20828,25 +20827,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Magali Villeneuve" picURL="https://cards.scryfall.io/large/front/d/4/d41f6ac8-6aa3-45b8-8ab3-8c6065e842be.jpg?1789754484" uuid="d41f6ac8-6aa3-45b8-8ab3-8c6065e842be" rarity="common" num="2">TFDC</set>
             <token>1</token>
-            <reverse-related>Empyrial Storm</reverse-related>
-            <reverse-related>Seraphic Greatsword</reverse-related>
-            <reverse-related>Angelic Favor</reverse-related>
-            <reverse-related>Saint Traft and Rem Karolus</reverse-related>
-            <reverse-related>Ob Nixilis, the Ascended</reverse-related>
-            <reverse-related>Sigil of the Empty Throne</reverse-related>
-            <reverse-related>Geist of Saint Traft</reverse-related>
-            <reverse-related>Urbis Protector</reverse-related>
-            <reverse-related>Angelic Ascension</reverse-related>
-            <reverse-related>Decree of Justice</reverse-related>
-            <reverse-related>Luminarch Ascension</reverse-related>
-            <reverse-related>Descend upon the Sinful</reverse-related>
-            <reverse-related>Angelic Accord</reverse-related>
-            <reverse-related>Entreat the Angels</reverse-related>
-            <reverse-related>Invocation of Saint Traft</reverse-related>
-            <reverse-related>Moonsilver Spear</reverse-related>
-            <reverse-related>Speaker of the Heavens</reverse-related>
-            <reverse-related>Court of Grace</reverse-related>
-            <reverse-related>Devout Invocation</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -20861,78 +20841,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Ryan Yee" picURL="https://cards.scryfall.io/large/front/9/c/9ca99f61-a1cd-4c61-9e0a-791b5f211f56.jpg?1789754732" uuid="9ca99f61-a1cd-4c61-9e0a-791b5f211f56" rarity="common" num="3">TFDC</set>
             <token>1</token>
-            <reverse-related>Kykar, Zephyr Awakener</reverse-related>
-            <reverse-related>Funeral Pyre</reverse-related>
-            <reverse-related>Haunted Dead</reverse-related>
-            <reverse-related>Blessed Defiance</reverse-related>
-            <reverse-related>Slayer's Plate</reverse-related>
-            <reverse-related>Lingering Souls</reverse-related>
-            <reverse-related>Staff of the Storyteller</reverse-related>
-            <reverse-related>Gallows at Willow Hill</reverse-related>
-            <reverse-related>Kaya the Inexorable</reverse-related>
-            <reverse-related>Nearheath Chaplain</reverse-related>
-            <reverse-related>Oath of the Grey Host</reverse-related>
-            <reverse-related>Ethereal Investigator</reverse-related>
-            <reverse-related>Whispering Wizard</reverse-related>
-            <reverse-related>Spectral Procession</reverse-related>
-            <reverse-related>Abzan Ascendancy</reverse-related>
-            <reverse-related>Benevolent Offering</reverse-related>
-            <reverse-related>King of the Oathbreakers</reverse-related>
-            <reverse-related>Nurturing Presence</reverse-related>
-            <reverse-related>Summoner's Sending</reverse-related>
-            <reverse-related>Triplicate Spirits</reverse-related>
-            <reverse-related>Afterlife</reverse-related>
-            <reverse-related>Field of Souls</reverse-related>
-            <reverse-related>Kirtar's Wrath</reverse-related>
-            <reverse-related>Moorland Haunt</reverse-related>
-            <reverse-related>Hallowed Spiritkeeper</reverse-related>
-            <reverse-related>Requiem Angel</reverse-related>
-            <reverse-related>Spectral Reserves</reverse-related>
-            <reverse-related>Mausoleum Guard</reverse-related>
-            <reverse-related>Occult Epiphany</reverse-related>
-            <reverse-related>Hanged Executioner</reverse-related>
-            <reverse-related>Millicent, Restless Revenant</reverse-related>
-            <reverse-related>Kykar, Wind's Fury</reverse-related>
-            <reverse-related>Priest of the Blessed Graf</reverse-related>
-            <reverse-related>Thalisse, Reverent Medium</reverse-related>
-            <reverse-related>Sanctifier of Souls</reverse-related>
-            <reverse-related>Teysa, Orzhov Scion</reverse-related>
-            <reverse-related>Avacyn's Collar</reverse-related>
-            <reverse-related>Valor of the Worthy</reverse-related>
-            <reverse-related>Brine Comber // Brinebound Gift</reverse-related>
-            <reverse-related>Luminous Angel</reverse-related>
-            <reverse-related>Seize the Soul</reverse-related>
-            <reverse-related>Heron-Blessed Geist</reverse-related>
-            <reverse-related>Doomed Traveler</reverse-related>
-            <reverse-related>Midnight Haunting</reverse-related>
-            <reverse-related>Drogskol Cavalry</reverse-related>
-            <reverse-related>Spirit Cairn</reverse-related>
-            <reverse-related>Bishop of Wings</reverse-related>
-            <reverse-related>Twilight Drover</reverse-related>
-            <reverse-related>Path of the Ghosthunter</reverse-related>
-            <reverse-related>Shadow Summoning</reverse-related>
-            <reverse-related>March of Souls</reverse-related>
-            <reverse-related>Confront the Assault</reverse-related>
-            <reverse-related>Vessel of Ephemera</reverse-related>
-            <reverse-related>Dauntless Cathar</reverse-related>
-            <reverse-related>Ranar the Ever-Watchful</reverse-related>
-            <reverse-related>Custodi Soulbinders</reverse-related>
-            <reverse-related>Alharu, Solemn Ritualist</reverse-related>
-            <reverse-related>Clarion Spirit</reverse-related>
-            <reverse-related>Kaya, Geist Hunter</reverse-related>
-            <reverse-related>Not Forgotten</reverse-related>
-            <reverse-related>Geist-Honored Monk</reverse-related>
-            <reverse-related>Rousing of Souls</reverse-related>
-            <reverse-related>Andúril, Flame of the West</reverse-related>
-            <reverse-related>Haunted Library</reverse-related>
-            <reverse-related>Elgaud Inquisitor</reverse-related>
-            <reverse-related>Thalia's Geistcaller</reverse-related>
-            <reverse-related>Muster the Departed</reverse-related>
-            <reverse-related>Emissary of the Sleepless</reverse-related>
-            <reverse-related>Spirit Bonds</reverse-related>
-            <reverse-related>Transluminant</reverse-related>
-            <reverse-related>Court of Grace</reverse-related>
-            <reverse-related>Sandsteppe Outcast</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -20959,111 +20867,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Anna Steinbauer" picURL="https://cards.scryfall.io/large/front/f/7/f7a49477-b7b5-4f0e-885f-e1d2b580c52e.jpg?1789754539" uuid="f7a49477-b7b5-4f0e-885f-e1d2b580c52e" rarity="common" num="5">TFDC</set>
             <token>1</token>
-            <reverse-related>Waste Not</reverse-related>
-            <reverse-related>Awaken the Erstwhile</reverse-related>
-            <reverse-related>Empty the Pits</reverse-related>
-            <reverse-related>Wight</reverse-related>
-            <reverse-related>Gisa's Bidding</reverse-related>
-            <reverse-related>Oath of Liliana</reverse-related>
-            <reverse-related>Ghoulcaller Gisa</reverse-related>
-            <reverse-related>Bridge from Below</reverse-related>
-            <reverse-related>Shamble Back</reverse-related>
-            <reverse-related>Doomed Dissenter</reverse-related>
-            <reverse-related>The Fourth Sphere</reverse-related>
-            <reverse-related>Ghoulcaller's Accomplice</reverse-related>
-            <reverse-related>Cryptbreaker</reverse-related>
-            <reverse-related>Drana's Chosen</reverse-related>
-            <reverse-related>Rakshasa Gravecaller</reverse-related>
-            <reverse-related>Tymaret Calls the Dead</reverse-related>
-            <reverse-related>Graveyard Marshal</reverse-related>
-            <reverse-related>Open the Graves</reverse-related>
-            <reverse-related>Dying to Serve</reverse-related>
-            <reverse-related>Cryptcaller Chariot</reverse-related>
-            <reverse-related>Embalmed Ascendant</reverse-related>
-            <reverse-related>Acererak the Archlich</reverse-related>
-            <reverse-related>Cradle of the Accursed</reverse-related>
-            <reverse-related>Undead Alchemist</reverse-related>
-            <reverse-related>Midnight Ritual</reverse-related>
-            <reverse-related>Rise from the Tides</reverse-related>
-            <reverse-related>Bone Miser</reverse-related>
-            <reverse-related>Nevinyrral, Urborg Tyrant</reverse-related>
-            <reverse-related>Sidisi, Brood Tyrant</reverse-related>
-            <reverse-related>Archdemon of Unx</reverse-related>
-            <reverse-related>Feast or Famine</reverse-related>
-            <reverse-related>Rotted Ones, Lay Siege</reverse-related>
-            <reverse-related>Hour of Promise</reverse-related>
-            <reverse-related>Risen Necroregent</reverse-related>
-            <reverse-related>Rank Officer</reverse-related>
-            <reverse-related>Stir the Sands</reverse-related>
-            <reverse-related>Undead Servant</reverse-related>
-            <reverse-related>Liliana, Dreadhorde General</reverse-related>
-            <reverse-related>Dread Summons</reverse-related>
-            <reverse-related>Boneclad Necromancer</reverse-related>
-            <reverse-related>Liliana, the Last Hope</reverse-related>
-            <reverse-related>Vile Rebirth</reverse-related>
-            <reverse-related>Endless Ranks of the Dead</reverse-related>
-            <reverse-related>Curse of Disturbance</reverse-related>
-            <reverse-related>Tormod, the Desecrator</reverse-related>
-            <reverse-related>Hildibrand Manderville // Gentleman's Rise</reverse-related>
-            <reverse-related>Cemetery Reaper</reverse-related>
-            <reverse-related>Army of the Damned</reverse-related>
-            <reverse-related>Liliana, Death's Majesty</reverse-related>
-            <reverse-related>Aphemia, the Cacophony</reverse-related>
-            <reverse-related>Drunau Corpse Trawler</reverse-related>
-            <reverse-related>Oglor, Devoted Assistant</reverse-related>
-            <reverse-related>Assemble the Rank and Vile</reverse-related>
-            <reverse-related>Grixis Slavedriver</reverse-related>
-            <reverse-related>Necromancer's Covenant</reverse-related>
-            <reverse-related>Grim Reaper's Scythe</reverse-related>
-            <reverse-related>Necromentia</reverse-related>
-            <reverse-related>Reap the Seagraf</reverse-related>
-            <reverse-related>Liliana's Reaver</reverse-related>
-            <reverse-related>Varina, Lich Queen</reverse-related>
-            <reverse-related>Wand of Orcus</reverse-related>
-            <reverse-related>From Under the Floorboards</reverse-related>
-            <reverse-related>Cellar Door</reverse-related>
-            <reverse-related>Invasion of Innistrad // Deluge of the Dead</reverse-related>
-            <reverse-related>Xathrid Necromancer</reverse-related>
-            <reverse-related>Necrotic Hex</reverse-related>
-            <reverse-related>Field of the Dead</reverse-related>
-            <reverse-related>Lair of the Ashen Idol</reverse-related>
-            <reverse-related>Necromaster Dragon</reverse-related>
-            <reverse-related>Liliana's Devotee</reverse-related>
-            <reverse-related>Liliana, Heretical Healer // Liliana, Defiant Necromancer</reverse-related>
-            <reverse-related>The Necrobloom</reverse-related>
-            <reverse-related>Null Caller</reverse-related>
-            <reverse-related>Syphon Flesh</reverse-related>
-            <reverse-related>Liliana's Mastery</reverse-related>
-            <reverse-related>Sarcomancy</reverse-related>
-            <reverse-related>Zombie Infestation</reverse-related>
-            <reverse-related>Never // Return</reverse-related>
-            <reverse-related>Overseer of the Damned</reverse-related>
-            <reverse-related>Skull Skaab</reverse-related>
-            <reverse-related>Dunes of the Dead</reverse-related>
-            <reverse-related>Gravedig</reverse-related>
-            <reverse-related>Moan of the Unhallowed</reverse-related>
-            <reverse-related>Unscythe, Killer of Kings</reverse-related>
-            <reverse-related>Graf Harvest</reverse-related>
-            <reverse-related>Headless Rider</reverse-related>
-            <reverse-related>Necromancer's Stockpile</reverse-related>
-            <reverse-related>Curse of Shallow Graves</reverse-related>
-            <reverse-related>Maalfeld Twins</reverse-related>
-            <reverse-related>Rotlung Reanimator</reverse-related>
-            <reverse-related>Kalitas, Traitor of Ghet</reverse-related>
-            <reverse-related>Tobias, Doomed Conqueror</reverse-related>
-            <reverse-related>Magus of the Bridge</reverse-related>
-            <reverse-related>Wakedancer</reverse-related>
-            <reverse-related>Havengul Runebinder</reverse-related>
-            <reverse-related>Suspicious Shambler</reverse-related>
-            <reverse-related>Hour of Victory</reverse-related>
-            <reverse-related>Noosegraf Mob</reverse-related>
-            <reverse-related>Grave Titan</reverse-related>
-            <reverse-related>Dark Salvation</reverse-related>
-            <reverse-related>Death Tyrant</reverse-related>
-            <reverse-related>Zahur, Glory's Past</reverse-related>
-            <reverse-related>Captive Audience</reverse-related>
-            <reverse-related>The Book of Vile Darkness</reverse-related>
-            <reverse-related>Diregraf Colossus</reverse-related>
             <reverse-related>Thomil, the Destroyer</reverse-related>
             <tablerow>2</tablerow>
         </card>
@@ -21079,8 +20882,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Even Amundsen" picURL="https://cards.scryfall.io/large/front/a/f/af43624d-90ae-4350-9fce-ca1c5a4cf4ff.jpg?1789754560" uuid="af43624d-90ae-4350-9fce-ca1c5a4cf4ff" rarity="common" num="6">TFDC</set>
             <token>1</token>
-            <reverse-related>Josu Vess, Lich Knight</reverse-related>
-            <reverse-related>Bladewing, Deathless Tyrant</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21095,18 +20896,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Vance Kovacs" picURL="https://cards.scryfall.io/large/front/7/f/7fc0760c-495a-4737-8d9e-4110344af99e.jpg?1789754835" uuid="7fc0760c-495a-4737-8d9e-4110344af99e" rarity="common" num="7">TFDC</set>
             <token>1</token>
-            <reverse-related>Sarkhan Unbroken</reverse-related>
-            <reverse-related>Dragon Trainer</reverse-related>
-            <reverse-related>Dragonback Assault</reverse-related>
-            <reverse-related>The Elder Dragon War</reverse-related>
-            <reverse-related>Dragon Whisperer</reverse-related>
-            <reverse-related>Sarkhan the Masterless</reverse-related>
-            <reverse-related>Broodmate Dragon</reverse-related>
-            <reverse-related>Rohgahh, Kher Keep Overlord</reverse-related>
-            <reverse-related>Dragon Cultist</reverse-related>
-            <reverse-related>Descent of the Dragons</reverse-related>
-            <reverse-related>Sarkhan Vol</reverse-related>
-            <reverse-related>Rith, Liberated Primeval</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21121,24 +20910,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Alex Konstad" picURL="https://cards.scryfall.io/large/front/4/f/4fbb6ef8-cf45-476b-8985-36023b6884ee.jpg?1789754607" uuid="4fbb6ef8-cf45-476b-8985-36023b6884ee" rarity="common" num="8">TFDC</set>
             <token>1</token>
-            <reverse-related>Kiora of Fire and Ashes</reverse-related>
-            <reverse-related>Awaken the Sky Tyrant</reverse-related>
-            <reverse-related>Dragonkin Berserker</reverse-related>
-            <reverse-related>Sarkhan, Fireblood</reverse-related>
-            <reverse-related>Lathliss, Dragon Queen</reverse-related>
-            <reverse-related>Look Skyward and Despair</reverse-related>
-            <reverse-related>Rite of the Dragoncaller</reverse-related>
-            <reverse-related>Draconic Visitor</reverse-related>
-            <reverse-related>Dragon Roost</reverse-related>
-            <reverse-related>Shiv</reverse-related>
-            <reverse-related>Draconic Disciple</reverse-related>
-            <reverse-related>Loot Dispute</reverse-related>
-            <reverse-related>Death by Dragons</reverse-related>
-            <reverse-related>Broodmate Tyrant</reverse-related>
-            <reverse-related>Dragonmaster Outcast</reverse-related>
-            <reverse-related>Skyline Despot</reverse-related>
-            <reverse-related>Day of the Dragons</reverse-related>
-            <reverse-related>Sarkhan the Mad</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21153,9 +20924,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Mark Zug" picURL="https://cards.scryfall.io/large/front/e/3/e36a8e84-b105-4494-b90a-c12cea553045.jpg?1789754582" uuid="e36a8e84-b105-4494-b90a-c12cea553045" rarity="common" num="9">TFDC</set>
             <token>1</token>
-            <reverse-related>Utvara Hellkite</reverse-related>
-            <reverse-related>Mega Flare</reverse-related>
-            <reverse-related>The Misty Mountains Cold</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21169,30 +20937,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Jesper Ejsing" picURL="https://cards.scryfall.io/large/front/c/1/c198b9b4-bde6-45ec-9bc7-ae61adad22b3.jpg?1789754634" uuid="c198b9b4-bde6-45ec-9bc7-ae61adad22b3" rarity="common" num="10">TFDC</set>
             <token>1</token>
-            <reverse-related>Druid of Horns</reverse-related>
-            <reverse-related>Thragtusk</reverse-related>
-            <reverse-related>Garruk Wildspeaker</reverse-related>
-            <reverse-related>Pulse of the Tangle</reverse-related>
-            <reverse-related>Garruk, Primal Hunter</reverse-related>
-            <reverse-related>Wild Endeavor</reverse-related>
-            <reverse-related>Feral Incarnation</reverse-related>
-            <reverse-related>Garruk, Unleashed</reverse-related>
-            <reverse-related>Elder Gargaroth</reverse-related>
-            <reverse-related>Fresh Meat</reverse-related>
-            <reverse-related>Savage Conception</reverse-related>
-            <reverse-related>Radagast, Wizard of Wilds</reverse-related>
-            <reverse-related>Vivien, Monsters' Advocate</reverse-related>
-            <reverse-related>Trumpeting Gnarr</reverse-related>
-            <reverse-related>Beast Within</reverse-related>
-            <reverse-related>Sawtusk Demolisher</reverse-related>
-            <reverse-related>Soul of Zendikar</reverse-related>
-            <reverse-related>The Huntsman's Redemption</reverse-related>
-            <reverse-related>Midsummer Revel</reverse-related>
-            <reverse-related>Somberwald Beastmaster</reverse-related>
-            <reverse-related>Herd Migration</reverse-related>
-            <reverse-related>Curious Herd</reverse-related>
-            <reverse-related>Bringer of the Green Dawn</reverse-related>
-            <reverse-related>Primeval Bounty</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21206,7 +20950,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Svetlin Velinov" picURL="https://cards.scryfall.io/large/front/1/1/11bafc20-499d-42ab-a2d4-8cd656008994.jpg?1789754669" uuid="11bafc20-499d-42ab-a2d4-8cd656008994" rarity="common" num="11">TFDC</set>
             <token>1</token>
-            <reverse-related>Ezuri's Predation</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21221,15 +20964,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Daniel Ljunggren" picURL="https://cards.scryfall.io/large/front/5/5/5547973c-b0df-4103-a657-ac20611bd600.jpg?1789754657" uuid="5547973c-b0df-4103-a657-ac20611bd600" rarity="common" num="12">TFDC</set>
             <token>1</token>
-            <reverse-related>Rotwidow Pack</reverse-related>
-            <reverse-related>Gloomwidow's Feast</reverse-related>
-            <reverse-related>Arasta of the Endless Web</reverse-related>
-            <reverse-related>Ishkanah, Grafwidow</reverse-related>
-            <reverse-related>Twin-Silk Spider</reverse-related>
-            <reverse-related>Arachnogenesis</reverse-related>
-            <reverse-related>Curse of Clinging Webs</reverse-related>
-            <reverse-related>Spider Spawning</reverse-related>
-            <reverse-related>Brood Weaver</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21242,171 +20976,7 @@ This creature can't block.</text>
             </prop>
             <set artist="Clint Lockwood" picURL="https://cards.scryfall.io/large/front/1/4/1481e938-7763-4109-b313-2a21053a82df.jpg?1789754721" uuid="1481e938-7763-4109-b313-2a21053a82df" rarity="common" num="13">TFDC</set>
             <token>1</token>
-            <reverse-related>Syndicate Heavy</reverse-related>
-            <reverse-related>Search the Premises</reverse-related>
-            <reverse-related>No Witnesses</reverse-related>
-            <reverse-related>Sharp-Eyed Rookie</reverse-related>
-            <reverse-related>Hard Evidence</reverse-related>
-            <reverse-related>Dining Room</reverse-related>
-            <reverse-related>Sophina, Spearsage Deserter</reverse-related>
-            <reverse-related>Drag the Canal</reverse-related>
-            <reverse-related>Lonis, Cryptozoologist</reverse-related>
-            <reverse-related>Duggan, Private Detective</reverse-related>
-            <reverse-related>Hold for Questioning</reverse-related>
-            <reverse-related>Loxodon Eavesdropper</reverse-related>
-            <reverse-related>Rory Williams</reverse-related>
-            <reverse-related>June, Bounty Hunter</reverse-related>
-            <reverse-related>Heaven Sent</reverse-related>
-            <reverse-related>Sokka's Sword Training</reverse-related>
-            <reverse-related>Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar</reverse-related>
-            <reverse-related>Toxin Analysis</reverse-related>
-            <reverse-related>Piper Wright, Publick Reporter</reverse-related>
-            <reverse-related>Tamiyo's Journal</reverse-related>
-            <reverse-related>Confront the Unknown</reverse-related>
-            <reverse-related>Ethereal Investigator</reverse-related>
-            <reverse-related>Angelic Sleuth</reverse-related>
-            <reverse-related>True Ancestry</reverse-related>
-            <reverse-related>Hotshot Investigators</reverse-related>
-            <reverse-related>Osgood, Operation Double</reverse-related>
-            <reverse-related>The Third Doctor</reverse-related>
-            <reverse-related>Out Cold</reverse-related>
-            <reverse-related>Follow the Bodies</reverse-related>
-            <reverse-related>Cold Case Cracker</reverse-related>
-            <reverse-related>Kellan, Inquisitive Prodigy // Tail the Suspect</reverse-related>
-            <reverse-related>Library</reverse-related>
-            <reverse-related>Case of the Filched Falcon</reverse-related>
-            <reverse-related>Nyla, Shirshu Sleuth</reverse-related>
-            <reverse-related>Fateful Absence</reverse-related>
-            <reverse-related>Undercover Crocodelf</reverse-related>
-            <reverse-related>Lost Days</reverse-related>
-            <reverse-related>Unshakable Tail</reverse-related>
-            <reverse-related>Messenger Hawk</reverse-related>
-            <reverse-related>The Seventh Doctor</reverse-related>
-            <reverse-related>Dennick, Pious Apprentice // Dennick, Pious Apparition</reverse-related>
-            <reverse-related>Madame Vastra</reverse-related>
-            <reverse-related>They Went This Way</reverse-related>
-            <reverse-related>Kitchen</reverse-related>
-            <reverse-related>April O'Neil, Live on the Scene</reverse-related>
-            <reverse-related>Declaration in Stone</reverse-related>
-            <reverse-related>Press for Answers</reverse-related>
-            <reverse-related>Carnage Interpreter</reverse-related>
-            <reverse-related>Lazav, Wearer of Faces</reverse-related>
-            <reverse-related>Torch the Witness</reverse-related>
-            <reverse-related>Lord Jyscal Guado</reverse-related>
-            <reverse-related>Lonis, Genetics Expert</reverse-related>
-            <reverse-related>Curious Inquiry</reverse-related>
-            <reverse-related>Overencumbered</reverse-related>
-            <reverse-related>Secrets of the Key</reverse-related>
-            <reverse-related>Nick Valentine, Private Eye</reverse-related>
-            <reverse-related>Elmar, Ulvenwald Informant</reverse-related>
-            <reverse-related>Martha Jones</reverse-related>
-            <reverse-related>Sally Sparrow</reverse-related>
-            <reverse-related>Jet's Brainwashing</reverse-related>
-            <reverse-related>Zuko's Exile</reverse-related>
-            <reverse-related>Blu, Mansion Prince</reverse-related>
-            <reverse-related>Tolls of War</reverse-related>
-            <reverse-related>Callous Inspector</reverse-related>
-            <reverse-related>Disorder in the Court</reverse-related>
-            <reverse-related>Erdwal Illuminator</reverse-related>
-            <reverse-related>Funnel-Web Recluse</reverse-related>
-            <reverse-related>Ulvenwald Mysteries</reverse-related>
-            <reverse-related>Eloise, Nephalia Sleuth</reverse-related>
-            <reverse-related>Ongoing Investigation</reverse-related>
-            <reverse-related>Case of the Pilfered Proof</reverse-related>
-            <reverse-related>Daring Sleuth // Bearer of Overwhelming Truths</reverse-related>
-            <reverse-related>Sold Out</reverse-related>
-            <reverse-related>Wernog, Rider's Chaplain</reverse-related>
-            <reverse-related>Floodhound</reverse-related>
-            <reverse-related>Foul Play</reverse-related>
-            <reverse-related>Briarbridge Patrol</reverse-related>
-            <reverse-related>The Chase Is On</reverse-related>
-            <reverse-related>Malcolm, the Eyes</reverse-related>
-            <reverse-related>Obsessive Pursuit</reverse-related>
-            <reverse-related>Study</reverse-related>
-            <reverse-related>Morska, Undersea Sleuth</reverse-related>
-            <reverse-related>Merchant of Truth</reverse-related>
-            <reverse-related>Jace's Scrutiny</reverse-related>
-            <reverse-related>Mistway Spy</reverse-related>
-            <reverse-related>Fae Offering</reverse-related>
-            <reverse-related>Azula, On the Hunt</reverse-related>
-            <reverse-related>James, Wandering Dad // Follow Him</reverse-related>
-            <reverse-related>Conservatory</reverse-related>
-            <reverse-related>Briarbridge Tracker</reverse-related>
-            <reverse-related>Inquisitor Greyfax</reverse-related>
-            <reverse-related>Hall</reverse-related>
-            <reverse-related>Cunning Maneuver</reverse-related>
-            <reverse-related>Fire Nation Warship</reverse-related>
-            <reverse-related>Lounge</reverse-related>
-            <reverse-related>Meddling Youths</reverse-related>
-            <reverse-related>Weirding Wood</reverse-related>
-            <reverse-related>Forensic Gadgeteer</reverse-related>
-            <reverse-related>Air Nomad Legacy</reverse-related>
-            <reverse-related>Confirm Suspicions</reverse-related>
-            <reverse-related>Gone Missing</reverse-related>
-            <reverse-related>Evidence Examiner</reverse-related>
-            <reverse-related>Bygone Bishop</reverse-related>
-            <reverse-related>Billiard Room</reverse-related>
-            <reverse-related>Forecasting Fortune Teller</reverse-related>
-            <reverse-related>Transmutation Font</reverse-related>
-            <reverse-related>Wojek Investigator</reverse-related>
-            <reverse-related>The Rani</reverse-related>
-            <reverse-related>Gleaming Geardrake</reverse-related>
-            <reverse-related>Chalk Outline</reverse-related>
-            <reverse-related>Flotsam // Jetsam</reverse-related>
-            <reverse-related>Serene Sleuth</reverse-related>
-            <reverse-related>Auspicious Arrival</reverse-related>
-            <reverse-related>Fire Nation Raider</reverse-related>
-            <reverse-related>The Fugitive Doctor</reverse-related>
-            <reverse-related>Persuasive Interrogators</reverse-related>
-            <reverse-related>Armed with Proof</reverse-related>
-            <reverse-related>Expose Evil</reverse-related>
-            <reverse-related>Lavinia, Foil to Conspiracy</reverse-related>
-            <reverse-related>The Mechanist, Aerial Artisan</reverse-related>
-            <reverse-related>Knowledge Seeker</reverse-related>
-            <reverse-related>Humble the Brute</reverse-related>
-            <reverse-related>Root Out</reverse-related>
-            <reverse-related>Drownyard Explorers</reverse-related>
-            <reverse-related>Novice Inspector</reverse-related>
-            <reverse-related>Innocent Bystander</reverse-related>
-            <reverse-related>Secret Passage</reverse-related>
-            <reverse-related>Eliminate the Impossible</reverse-related>
-            <reverse-related>Thraben Inspector</reverse-related>
-            <reverse-related>Fugitive of the Judoon</reverse-related>
-            <reverse-related>Ballroom</reverse-related>
-            <reverse-related>Wavesifter</reverse-related>
-            <reverse-related>Thijarian Witness</reverse-related>
-            <reverse-related>Teysa, Opulent Oligarch</reverse-related>
-            <reverse-related>Tamiyo Meets the Story Circle</reverse-related>
-            <reverse-related>Antarctic Research Base</reverse-related>
-            <reverse-related>Foreboding Steamboat</reverse-related>
-            <reverse-related>Sarah Jane Smith</reverse-related>
-            <reverse-related>Inquisitor Eisenhorn</reverse-related>
-            <reverse-related>Homicide Investigator</reverse-related>
-            <reverse-related>Alquist Proft, Master Sleuth</reverse-related>
-            <reverse-related>Ezrim, Agency Chief</reverse-related>
-            <reverse-related>Agent 13, Sharon Carter</reverse-related>
-            <reverse-related>Hostile Investigator</reverse-related>
-            <reverse-related>Trail of Evidence</reverse-related>
-            <reverse-related>Byway Courier</reverse-related>
-            <reverse-related>On the Job</reverse-related>
-            <reverse-related>Detective's Satchel</reverse-related>
-            <reverse-related>Officious Interrogation</reverse-related>
-            <reverse-related>Tireless Tracker</reverse-related>
-            <reverse-related>Havengul Laboratory // Havengul Mystery</reverse-related>
-            <reverse-related>Thorough Investigation</reverse-related>
             <reverse-related>Flitwing, Lyev Detective</reverse-related>
-            <reverse-related>Survive the Night</reverse-related>
-            <reverse-related>Panther Pounce</reverse-related>
-            <reverse-related>Sophia, Dogged Detective</reverse-related>
-            <reverse-related>Resonance Technician</reverse-related>
-            <reverse-related>Deduce</reverse-related>
-            <reverse-related>Innocuous Researcher</reverse-related>
-            <reverse-related>Magnifying Glass</reverse-related>
-            <reverse-related>Academy Manufactor</reverse-related>
-            <reverse-related>Tivit, Seller of Secrets</reverse-related>
-            <reverse-related>Blink</reverse-related>
-            <reverse-related>Raven Eagle</reverse-related>
-            <reverse-related>Fleeting Memories</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21419,17 +20989,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Ryan Pancoast" picURL="https://cards.scryfall.io/large/front/3/4/345a3db8-90f4-4574-8040-e0fa4ea6b3e6.jpg?1789754779" uuid="345a3db8-90f4-4574-8040-e0fa4ea6b3e6" rarity="common" num="14">TFDC</set>
             <token>1</token>
-            <reverse-related>Genesis Chamber</reverse-related>
-            <reverse-related>Origin Spellbomb</reverse-related>
-            <reverse-related>Myr Matrix</reverse-related>
-            <reverse-related>Urtet, Remnant of Memnarch</reverse-related>
-            <reverse-related>Mirrodin Besieged</reverse-related>
-            <reverse-related>Myrsmith</reverse-related>
-            <reverse-related>Myr Turbine</reverse-related>
-            <reverse-related>Myr Battlesphere</reverse-related>
-            <reverse-related>Myr Incubator</reverse-related>
-            <reverse-related>Master's Call</reverse-related>
-            <reverse-related>Memnarch, the Warden</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21443,60 +21002,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Svetlin Velinov" picURL="https://cards.scryfall.io/large/front/3/5/3597cf76-f0db-4d2c-b01c-d518d7c7a764.jpg?1789754755" uuid="3597cf76-f0db-4d2c-b01c-d518d7c7a764" rarity="common" num="15">TFDC</set>
             <token>1</token>
-            <reverse-related>Thopter Assembly</reverse-related>
-            <reverse-related>Nimble Thopterist</reverse-related>
-            <reverse-related>Foundry of the Consuls</reverse-related>
-            <reverse-related>Broadcast Rambler</reverse-related>
-            <reverse-related>Barbed Spike</reverse-related>
-            <reverse-related>Access Denied</reverse-related>
-            <reverse-related>Experimental Aviator</reverse-related>
-            <reverse-related>Thopter Spy Network</reverse-related>
-            <reverse-related>Rangers' Aetherhive</reverse-related>
-            <reverse-related>Thopter Engineer</reverse-related>
-            <reverse-related>Sai, Master Thopterist</reverse-related>
-            <reverse-related>Dovin, Grand Arbiter</reverse-related>
-            <reverse-related>Efficient Construction</reverse-related>
-            <reverse-related>Launch Mishap</reverse-related>
-            <reverse-related>Inspired Sphinx</reverse-related>
-            <reverse-related>Pia Nalaar, Consul of Revival</reverse-related>
-            <reverse-related>Saheeli, Filigree Master</reverse-related>
-            <reverse-related>Whirler Rogue</reverse-related>
-            <reverse-related>Ghirapur Gearcrafter</reverse-related>
-            <reverse-related>Pia Nalaar</reverse-related>
-            <reverse-related>Maverick Thopterist</reverse-related>
-            <reverse-related>Sweep the Skies</reverse-related>
-            <reverse-related>Thopter Pie Network</reverse-related>
-            <reverse-related>Haunt the Network</reverse-related>
-            <reverse-related>Loyal Apprentice</reverse-related>
-            <reverse-related>Saheeli, Jewel of Avishkar</reverse-related>
-            <reverse-related>Pia and Kiran Nalaar</reverse-related>
-            <reverse-related>Fuss // Bother</reverse-related>
-            <reverse-related>Thopter Fabricator</reverse-related>
-            <reverse-related>Fairgrounds Patrol</reverse-related>
-            <reverse-related>Breya's Apprentice</reverse-related>
-            <reverse-related>Stridehangar Automaton</reverse-related>
-            <reverse-related>Surveillance Monitor</reverse-related>
-            <reverse-related>Pia, Determined Rebuilder</reverse-related>
-            <reverse-related>Harried Dronesmith</reverse-related>
-            <reverse-related>Thopter Mechanic</reverse-related>
-            <reverse-related>Retrofitter Foundry</reverse-related>
-            <reverse-related>Aviation Pioneer</reverse-related>
-            <reverse-related>Aspiring Aeronaut</reverse-related>
-            <reverse-related>Thopter Shop</reverse-related>
-            <reverse-related>Camera Launcher</reverse-related>
-            <reverse-related>Etherium Spinner</reverse-related>
-            <reverse-related>Invasion of Kaladesh // Aetherwing, Golden-Scale Flagship</reverse-related>
-            <reverse-related>Whirlermaker</reverse-related>
-            <reverse-related>Deviant Skytech</reverse-related>
-            <reverse-related>Depose // Deploy</reverse-related>
-            <reverse-related>Gadget Technician</reverse-related>
-            <reverse-related>Hangarback Walker</reverse-related>
-            <reverse-related>Saheeli, Consul of Oversight</reverse-related>
-            <reverse-related>Tezzeret, Artifice Master</reverse-related>
-            <reverse-related>Detective's Satchel</reverse-related>
-            <reverse-related>Thopter Squadron</reverse-related>
-            <reverse-related>Filigree Crawler</reverse-related>
-            <reverse-related>Whirler Virtuoso</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21509,373 +21014,6 @@ This creature can't block.</text>
             </prop>
             <set artist="Alayna Danner" picURL="https://cards.scryfall.io/large/front/3/1/3101b6f5-b3a7-43db-9454-9f42b9c34e53.jpg?1789754805" uuid="3101b6f5-b3a7-43db-9454-9f42b9c34e53" rarity="common" num="16">TFDC</set>
             <token>1</token>
-            <reverse-related>Ruthless Knave</reverse-related>
-            <reverse-related>Surly Badgersaur</reverse-related>
-            <reverse-related>Beza, the Bounding Spring</reverse-related>
-            <reverse-related>Gluntch, the Bestower</reverse-related>
-            <reverse-related>Beamtown Beatstick</reverse-related>
-            <reverse-related>Professional Face-Breaker</reverse-related>
-            <reverse-related>Bejeweled Warg</reverse-related>
-            <reverse-related>Don Andres, the Renegade</reverse-related>
-            <reverse-related>Kingpin, Wilson Fisk</reverse-related>
-            <reverse-related>Rapacious Dragon</reverse-related>
-            <reverse-related>Megaton's Fate</reverse-related>
-            <reverse-related>Bloodroot Apothecary</reverse-related>
-            <reverse-related>Treasure Map // Treasure Cove</reverse-related>
-            <reverse-related>Boxing Ring</reverse-related>
-            <reverse-related>Xorn</reverse-related>
-            <reverse-related>Halo Scarab</reverse-related>
-            <reverse-related>Descent into Avernus</reverse-related>
-            <reverse-related>Lotho, Corrupt Shirriff</reverse-related>
-            <reverse-related>Brazen Freebooter</reverse-related>
-            <reverse-related>Most Wanted</reverse-related>
-            <reverse-related>Crossover Collaboration</reverse-related>
-            <reverse-related>Smothering Tithe</reverse-related>
-            <reverse-related>Breeches, Eager Pillager</reverse-related>
-            <reverse-related>Smuggler's Share</reverse-related>
-            <reverse-related>Glittermonger</reverse-related>
-            <reverse-related>Master of Ceremonies</reverse-related>
-            <reverse-related>Lobelia Sackville-Baggins</reverse-related>
-            <reverse-related>Hoard Robber</reverse-related>
-            <reverse-related>Mahadi, Emporium Master</reverse-related>
-            <reverse-related>Wanted Scoundrels</reverse-related>
-            <reverse-related>Prosper, Tome-Bound</reverse-related>
-            <reverse-related>Gleaming Barrier</reverse-related>
-            <reverse-related>Smaug, Wicked Worm</reverse-related>
-            <reverse-related>Rocketeer Boostbuggy</reverse-related>
-            <reverse-related>Alicia Masters, Skilled Sculptor</reverse-related>
-            <reverse-related>Oath of the Grey Host</reverse-related>
-            <reverse-related>An Offer You Can't Refuse</reverse-related>
-            <reverse-related>Captain Lannery Storm</reverse-related>
-            <reverse-related>Goblin Glasswright // Craft with Pride</reverse-related>
-            <reverse-related>Vaan, Street Thief</reverse-related>
-            <reverse-related>Hoard Hauler</reverse-related>
-            <reverse-related>Herald of Hadar</reverse-related>
-            <reverse-related>Undercity Scrounger</reverse-related>
-            <reverse-related>Glóin, Dwarf Emissary</reverse-related>
-            <reverse-related>Exit Through the Grift Shop</reverse-related>
-            <reverse-related>Prosperous Bandit</reverse-related>
-            <reverse-related>Done for the Day</reverse-related>
-            <reverse-related>The Third Doctor</reverse-related>
-            <reverse-related>Meticulous Artisan</reverse-related>
-            <reverse-related>Goldvein Hydra</reverse-related>
-            <reverse-related>Widespread Thieving</reverse-related>
-            <reverse-related>Blooming Blast</reverse-related>
-            <reverse-related>Bilbo, Retired Burglar</reverse-related>
-            <reverse-related>Hullbreacher</reverse-related>
-            <reverse-related>Young Red Dragon // Bathe in Gold</reverse-related>
-            <reverse-related>Buy Your Silence</reverse-related>
-            <reverse-related>Inspired Tinkering</reverse-related>
-            <reverse-related>City of Death</reverse-related>
-            <reverse-related>Fain, the Broker</reverse-related>
-            <reverse-related>Wish Good Luck</reverse-related>
-            <reverse-related>Baeloth Barrityl, Entertainer</reverse-related>
-            <reverse-related>Ant-Man's Army</reverse-related>
-            <reverse-related>Visions of Ruin</reverse-related>
-            <reverse-related>Heap Gate</reverse-related>
-            <reverse-related>Ragavan, Nimble Pilferer</reverse-related>
-            <reverse-related>Puppet Master, String Puller</reverse-related>
-            <reverse-related>The Reaver Cleaver</reverse-related>
-            <reverse-related>Plundering Pirate</reverse-related>
-            <reverse-related>Vraska, Relic Seeker</reverse-related>
-            <reverse-related>The Golden City of Orazca</reverse-related>
-            <reverse-related>Treasure Vault</reverse-related>
-            <reverse-related>Namazu Trader</reverse-related>
-            <reverse-related>Seize the Spotlight</reverse-related>
-            <reverse-related>Magda, Brazen Outlaw</reverse-related>
-            <reverse-related>Luke Cage, Hero for Hire</reverse-related>
-            <reverse-related>Professional Wrestler</reverse-related>
-            <reverse-related>Treasure Chest</reverse-related>
-            <reverse-related>Crack Open</reverse-related>
-            <reverse-related>Malik, Grim Manipulator</reverse-related>
-            <reverse-related>Gadrak, the Crown-Scourge</reverse-related>
-            <reverse-related>Pain Distributor</reverse-related>
-            <reverse-related>Pick-a-Beeble</reverse-related>
-            <reverse-related>Song of Eärendil</reverse-related>
-            <reverse-related>Gold Rush</reverse-related>
-            <reverse-related>Deadly Dispute</reverse-related>
-            <reverse-related>Ignacio of Myra's Marvels</reverse-related>
-            <reverse-related>Heroes for Hire</reverse-related>
-            <reverse-related>Mastermind Plum</reverse-related>
-            <reverse-related>Black Market Tycoon</reverse-related>
-            <reverse-related>Riveteers Requisitioner</reverse-related>
-            <reverse-related>Jewel Thief</reverse-related>
-            <reverse-related>Forging the Tyrite Sword</reverse-related>
-            <reverse-related>Patron of the Arts</reverse-related>
-            <reverse-related>Ancient Copper Dragon</reverse-related>
-            <reverse-related>Unexpected Windfall</reverse-related>
-            <reverse-related>The Western Cloud</reverse-related>
-            <reverse-related>Urabrask // The Great Work</reverse-related>
-            <reverse-related>Deadly Derision</reverse-related>
-            <reverse-related>Marut</reverse-related>
-            <reverse-related>Ruthless Technomancer</reverse-related>
-            <reverse-related>Olivia, Opulent Outlaw</reverse-related>
-            <reverse-related>Spectrox Mines</reverse-related>
-            <reverse-related>New New York</reverse-related>
-            <reverse-related>Kalain, Reclusive Painter</reverse-related>
-            <reverse-related>Pictures of Spider-Man</reverse-related>
-            <reverse-related>Life Insurance</reverse-related>
-            <reverse-related>Mary Read and Anne Bonny</reverse-related>
-            <reverse-related>Redrock Sentinel</reverse-related>
-            <reverse-related>Atsushi, the Blazing Sky</reverse-related>
-            <reverse-related>Diamond Pick-Axe</reverse-related>
-            <reverse-related>Village Pillagers</reverse-related>
-            <reverse-related>Petty Larceny</reverse-related>
-            <reverse-related>Vraska, the Cutting Glare</reverse-related>
-            <reverse-related>Scion of Opulence</reverse-related>
-            <reverse-related>Mines of Moria</reverse-related>
-            <reverse-related>Dori, Bearer of Friends</reverse-related>
-            <reverse-related>Seize the Spoils</reverse-related>
-            <reverse-related>Magmatic Galleon</reverse-related>
-            <reverse-related>Deadeye Plunderers</reverse-related>
-            <reverse-related>Alchemist's Talent</reverse-related>
-            <reverse-related>Dragon-Cursed Halls</reverse-related>
-            <reverse-related>Mine Raider</reverse-related>
-            <reverse-related>Decadent Dragon // Expensive Taste</reverse-related>
-            <reverse-related>Mari, the Killing Quill</reverse-related>
-            <reverse-related>Gilded Ghoda</reverse-related>
-            <reverse-related>Season of the Bold</reverse-related>
-            <reverse-related>Prying Blade</reverse-related>
-            <reverse-related>Brass's Bounty</reverse-related>
-            <reverse-related>Spiteful Repossession</reverse-related>
-            <reverse-related>Skullport Merchant</reverse-related>
-            <reverse-related>Cloud, Ex-SOLDIER</reverse-related>
-            <reverse-related>Swashbuckler Extraordinaire</reverse-related>
-            <reverse-related>RMS Titanic</reverse-related>
-            <reverse-related>Iron Man, Titan of Innovation</reverse-related>
-            <reverse-related>Prized Statue</reverse-related>
-            <reverse-related>Relic Retriever</reverse-related>
-            <reverse-related>Tavern Scoundrel</reverse-related>
-            <reverse-related>Vault Robber</reverse-related>
-            <reverse-related>Gemcutter Buccaneer</reverse-related>
-            <reverse-related>Dockside Extortionist</reverse-related>
-            <reverse-related>Thorin, King of Durin's Folk</reverse-related>
-            <reverse-related>Nuka-Cola Vending Machine</reverse-related>
-            <reverse-related>Prosperous Thief</reverse-related>
-            <reverse-related>Orochi Soul-Reaver</reverse-related>
-            <reverse-related>Pirate's Prize</reverse-related>
-            <reverse-related>Long-Bodied Grey Dog</reverse-related>
-            <reverse-related>Tataru Taru</reverse-related>
-            <reverse-related>Kain, Traitorous Dragoon</reverse-related>
-            <reverse-related>Goldspan Dragon</reverse-related>
-            <reverse-related>Knuckles the Echidna</reverse-related>
-            <reverse-related>Hornswoggle</reverse-related>
-            <reverse-related>Kerblam! Warehouse</reverse-related>
-            <reverse-related>Sarkhan, Dragon Ascendant</reverse-related>
-            <reverse-related>Teval's Judgment</reverse-related>
-            <reverse-related>Storm the Vault // Vault of Catlacan</reverse-related>
-            <reverse-related>Discerning Financier</reverse-related>
-            <reverse-related>Reckless Lackey</reverse-related>
-            <reverse-related>Vazi, Keen Negotiator</reverse-related>
-            <reverse-related>You've Been Caught Stealing</reverse-related>
-            <reverse-related>Exhibition Magician</reverse-related>
-            <reverse-related>Blood Money</reverse-related>
-            <reverse-related>Cataclysmic Prospecting</reverse-related>
-            <reverse-related>Thorin, Company's Leader</reverse-related>
-            <reverse-related>Pirate's Pillage</reverse-related>
-            <reverse-related>Bonehoard Dracosaur</reverse-related>
-            <reverse-related>Stark Industries Executive</reverse-related>
-            <reverse-related>Loot Dispute</reverse-related>
-            <reverse-related>Dire Fleet Hoarder</reverse-related>
-            <reverse-related>Impulsive Pilferer</reverse-related>
-            <reverse-related>Hell to Pay</reverse-related>
-            <reverse-related>Involuntary Employment</reverse-related>
-            <reverse-related>Magda, the Hoardmaster</reverse-related>
-            <reverse-related>Thieves' Tools</reverse-related>
-            <reverse-related>Grim Bounty</reverse-related>
-            <reverse-related>Rankle and Torbran</reverse-related>
-            <reverse-related>Pinkie Pie</reverse-related>
-            <reverse-related>Spell Swindle</reverse-related>
-            <reverse-related>Jolene, the Plunder Queen</reverse-related>
-            <reverse-related>Rev, Tithe Extractor</reverse-related>
-            <reverse-related>Impetuous Lootmonger</reverse-related>
-            <reverse-related>Typhoid Mary, Fractured</reverse-related>
-            <reverse-related>Zhentarim Bandit</reverse-related>
-            <reverse-related>Big Spender</reverse-related>
-            <reverse-related>Goldlust Triad</reverse-related>
-            <reverse-related>Contested Game Ball</reverse-related>
-            <reverse-related>Burakos, Party Leader</reverse-related>
-            <reverse-related>Fae Offering</reverse-related>
-            <reverse-related>Grim Hireling</reverse-related>
-            <reverse-related>Gilded Pinions</reverse-related>
-            <reverse-related>Meet and Greet "Sisay"</reverse-related>
-            <reverse-related>Vault 21: House Gambit</reverse-related>
-            <reverse-related>Tokka &amp; Rahzar, Unsupervised</reverse-related>
-            <reverse-related>Heartless Pillage</reverse-related>
-            <reverse-related>Old Rutstein</reverse-related>
-            <reverse-related>Smoke Spirits' Aid</reverse-related>
-            <reverse-related>Racketeer Boss</reverse-related>
-            <reverse-related>Kellogg, Dangerous Mind</reverse-related>
-            <reverse-related>Goblin Airbrusher</reverse-related>
-            <reverse-related>Gold Pan</reverse-related>
-            <reverse-related>Generous Plunderer</reverse-related>
-            <reverse-related>Reckless Endeavor</reverse-related>
-            <reverse-related>Marching Duodrone</reverse-related>
-            <reverse-related>Cavern-Hoard Dragon</reverse-related>
-            <reverse-related>The Gold Saucer</reverse-related>
-            <reverse-related>Fountainport</reverse-related>
-            <reverse-related>Ticket Tortoise</reverse-related>
-            <reverse-related>Volatile Fault</reverse-related>
-            <reverse-related>Ashling's Command</reverse-related>
-            <reverse-related>Enterprising Scallywag</reverse-related>
-            <reverse-related>Poetic Ingenuity</reverse-related>
-            <reverse-related>Currency Converter</reverse-related>
-            <reverse-related>Magma Opus</reverse-related>
-            <reverse-related>Flick a Coin</reverse-related>
-            <reverse-related>The Belligerent</reverse-related>
-            <reverse-related>Treasure Dredger</reverse-related>
-            <reverse-related>Prosperous Pirates</reverse-related>
-            <reverse-related>Charming Scoundrel</reverse-related>
-            <reverse-related>Spiked Pit Trap</reverse-related>
-            <reverse-related>Piggy Bank</reverse-related>
-            <reverse-related>Storm-Kiln Artist</reverse-related>
-            <reverse-related>North Pole Research Base</reverse-related>
-            <reverse-related>Noggle Robber</reverse-related>
-            <reverse-related>Ganax, Astral Hunter</reverse-related>
-            <reverse-related>Ramirez DePietro, Pillager</reverse-related>
-            <reverse-related>Prosperous Partnership</reverse-related>
-            <reverse-related>Hit the Mother Lode</reverse-related>
-            <reverse-related>Contract Hero</reverse-related>
-            <reverse-related>Big Score</reverse-related>
-            <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
-            <reverse-related>Ognis, the Dragon's Lash</reverse-related>
-            <reverse-related>Pitiless Plunderer</reverse-related>
-            <reverse-related>Contract Killing</reverse-related>
-            <reverse-related>Corsair Captain</reverse-related>
-            <reverse-related>Locke, Treasure Hunter</reverse-related>
-            <reverse-related>Sanar, Unfinished Genius // Wild Idea</reverse-related>
-            <reverse-related>Ancestors' Aid</reverse-related>
-            <reverse-related>You Find a Cursed Idol</reverse-related>
-            <reverse-related>Shiny Impetus</reverse-related>
-            <reverse-related>Tireless Provisioner</reverse-related>
-            <reverse-related>Indulge // Excess</reverse-related>
-            <reverse-related>Setzer, Wandering Gambler</reverse-related>
-            <reverse-related>Warren Soultrader</reverse-related>
-            <reverse-related>Monologue Tax</reverse-related>
-            <reverse-related>Guild Artisan</reverse-related>
-            <reverse-related>Fake Your Own Death</reverse-related>
-            <reverse-related>Kheru Goldkeeper</reverse-related>
-            <reverse-related>Cutthroat Negotiator</reverse-related>
-            <reverse-related>Scuzzback Scrounger</reverse-related>
-            <reverse-related>Safana, Calimport Cutthroat</reverse-related>
-            <reverse-related>Great Train Heist</reverse-related>
-            <reverse-related>Killmonger, Ruthless Usurper</reverse-related>
-            <reverse-related>Sonic the Hedgehog</reverse-related>
-            <reverse-related>Edward Kenway</reverse-related>
-            <reverse-related>Sword of Wealth and Power</reverse-related>
-            <reverse-related>Ultimate Green Goblin</reverse-related>
-            <reverse-related>Furnace Reins</reverse-related>
-            <reverse-related>Erestor of the Council</reverse-related>
-            <reverse-related>Reckoner Bankbuster // Reckoner Bankbuster</reverse-related>
-            <reverse-related>Patient Naturalist</reverse-related>
-            <reverse-related>Jewel-Eyed Cobra</reverse-related>
-            <reverse-related>Flamekin Gildweaver</reverse-related>
-            <reverse-related>Korvold and the Noble Thief</reverse-related>
-            <reverse-related>Excavation Technique</reverse-related>
-            <reverse-related>Misfortune Teller</reverse-related>
-            <reverse-related>Rashmi and Ragavan</reverse-related>
-            <reverse-related>Gleaming Splendor</reverse-related>
-            <reverse-related>Fable of the Mirror-Breaker // Reflection of Kiki-Jiki</reverse-related>
-            <reverse-related>Prizefight</reverse-related>
-            <reverse-related>Centrifuge</reverse-related>
-            <reverse-related>Goldvein Pick</reverse-related>
-            <reverse-related>Death to Our Enemies</reverse-related>
-            <reverse-related>Battle Angels of Tyr</reverse-related>
-            <reverse-related>Strike It Rich</reverse-related>
-            <reverse-related>Careening Mine Cart</reverse-related>
-            <reverse-related>Bank Job</reverse-related>
-            <reverse-related>Boneyard Desecrator</reverse-related>
-            <reverse-related>Emissary Green</reverse-related>
-            <reverse-related>Sailor of Means</reverse-related>
-            <reverse-related>The Misty Mountains Cold</reverse-related>
-            <reverse-related>Smaug the Magnificent</reverse-related>
-            <reverse-related>Dungeoneer's Pack</reverse-related>
-            <reverse-related>Luxurious Locomotive</reverse-related>
-            <reverse-related>Swarming of Moria</reverse-related>
-            <reverse-related>Depths of Desire</reverse-related>
-            <reverse-related>Magic Pot</reverse-related>
-            <reverse-related>Smashing Success</reverse-related>
-            <reverse-related>Jan Jansen, Chaos Crafter</reverse-related>
-            <reverse-related>Revel in Riches</reverse-related>
-            <reverse-related>Tempting Contract</reverse-related>
-            <reverse-related>Orcrist, Goblin-cleaver</reverse-related>
-            <reverse-related>Gala Greeters</reverse-related>
-            <reverse-related>Smaug the Impenetrable</reverse-related>
-            <reverse-related>Stimulus Package</reverse-related>
-            <reverse-related>Axgard Artisan</reverse-related>
-            <reverse-related>Galadriel, Gift-Giver</reverse-related>
-            <reverse-related>Bootleggers' Stash</reverse-related>
-            <reverse-related>Black Market Connections</reverse-related>
-            <reverse-related>Wily Goblin</reverse-related>
-            <reverse-related>Daily Bugle Newspaper</reverse-related>
-            <reverse-related>Dihada, Binder of Wills</reverse-related>
-            <reverse-related>Forsworn Paladin</reverse-related>
-            <reverse-related>Ziatora, the Incinerator</reverse-related>
-            <reverse-related>My Wealth Will Bury You</reverse-related>
-            <reverse-related>Greedy Freebooter</reverse-related>
-            <reverse-related>Culmination of Studies</reverse-related>
-            <reverse-related>Mr. House, President and CEO</reverse-related>
-            <reverse-related>The Balrog of Moria</reverse-related>
-            <reverse-related>Rose Room Treasurer</reverse-related>
-            <reverse-related>Sidequest: Hunt the Mark // Yiazmat, Ultimate Mark</reverse-related>
-            <reverse-related>Coin of Mastery</reverse-related>
-            <reverse-related>Instrument of the Bards</reverse-related>
-            <reverse-related>Luck Bobblehead</reverse-related>
-            <reverse-related>Avengers: Under Siege</reverse-related>
-            <reverse-related>Henry Wu, InGen Geneticist</reverse-related>
-            <reverse-related>Plundering Barbarian</reverse-related>
-            <reverse-related>Prosperous Innkeeper</reverse-related>
-            <reverse-related>Ingenious Mastery</reverse-related>
-            <reverse-related>Burdened Aerialist</reverse-related>
-            <reverse-related>Covetous Elegy</reverse-related>
-            <reverse-related>The Ghoul, Gunslinger</reverse-related>
-            <reverse-related>Lara Croft, Tomb Raider</reverse-related>
-            <reverse-related>There and Back Again</reverse-related>
-            <reverse-related>J. Jonah Jameson</reverse-related>
-            <reverse-related>Old Gnawbone</reverse-related>
-            <reverse-related>Redcap Thief</reverse-related>
-            <reverse-related>Prompto Argentum</reverse-related>
-            <reverse-related>Gonti, Night Minister</reverse-related>
-            <reverse-related>The Sackville-Bagginses</reverse-related>
-            <reverse-related>Shambling Ghast</reverse-related>
-            <reverse-related>Ancient Adamantoise</reverse-related>
-            <reverse-related>Monument to Endurance</reverse-related>
-            <reverse-related>Grabby Giant // That's Mine</reverse-related>
-            <reverse-related>Gorbag of Minas Morgul</reverse-related>
-            <reverse-related>Bottle-Cap Blast</reverse-related>
-            <reverse-related>Elemental Masterpiece</reverse-related>
-            <reverse-related>Bill Ferny, Bree Swindler</reverse-related>
-            <reverse-related>Common Crook</reverse-related>
-            <reverse-related>Reckless Ransacking</reverse-related>
-            <reverse-related>The Matrix of Time</reverse-related>
-            <reverse-related>Rain of Riches</reverse-related>
-            <reverse-related>Bilbo's Gambit</reverse-related>
-            <reverse-related>Undercity Dire Rat</reverse-related>
-            <reverse-related>Casey &amp; Raph, Hotheads</reverse-related>
-            <reverse-related>Zidane, Tantalus Thief</reverse-related>
-            <reverse-related>Ant-Man, Elusive Avenger</reverse-related>
-            <reverse-related>Academy Manufactor</reverse-related>
-            <reverse-related>Noble's Purse</reverse-related>
-            <reverse-related>Collector's Vault</reverse-related>
-            <reverse-related>Tivit, Seller of Secrets</reverse-related>
-            <reverse-related>Sudden Breakthrough</reverse-related>
-            <reverse-related>Trove of Temptation</reverse-related>
-            <reverse-related>Chira, All In</reverse-related>
-            <reverse-related>Gimli of the Glittering Caves</reverse-related>
-            <reverse-related>Evin, Waterdeep Opportunist</reverse-related>
-            <reverse-related>Bucknard's Everfull Purse</reverse-related>
-            <reverse-related>Galazeth Prismari</reverse-related>
-            <reverse-related>Jared Carthalion</reverse-related>
-            <reverse-related>Prismari Command</reverse-related>
-            <reverse-related>Improvised Weaponry</reverse-related>
-            <reverse-related>Sticky Fingers</reverse-related>
-            <reverse-related>Hoarding Ogre</reverse-related>
-            <reverse-related>Jolene, Plundering Pugilist</reverse-related>
-            <reverse-related>Kamachal, Ship's Mascot</reverse-related>
-            <reverse-related>Spiteful Banditry</reverse-related>
-            <reverse-related>Invasion of Ergamon // Truga Cliffcharger</reverse-related>
-            <reverse-related>Summon: Yojimbo</reverse-related>
-            <reverse-related>Creative Outburst</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21889,57 +21027,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Volkan BaÃƒÆ’Ã¢â‚¬Â¡Ãƒâ€šÃ‚Âµa" picURL="https://cards.scryfall.io/large/front/8/c/8c82a25a-8896-44ff-9897-5dbeabdf8f8b.jpg?1789754507" uuid="8c82a25a-8896-44ff-9897-5dbeabdf8f8b" rarity="common" num="17">TFDC</set>
             <token>1</token>
-            <reverse-related>Custodi Lich</reverse-related>
-            <reverse-related>Court of Ire</reverse-related>
-            <reverse-related>Palace Jailer</reverse-related>
-            <reverse-related>Grave Venerations</reverse-related>
-            <reverse-related>Court of Garenbrig</reverse-related>
-            <reverse-related>Keeper of Keys</reverse-related>
-            <reverse-related>Entourage of Trest</reverse-related>
-            <reverse-related>Court of Cunning</reverse-related>
-            <reverse-related>Forth Eorlingas!</reverse-related>
-            <reverse-related>Regal Sliver</reverse-related>
-            <reverse-related>Starscream, Power Hungry // Starscream, Seeker Leader</reverse-related>
-            <reverse-related>Oath of Eorl</reverse-related>
-            <reverse-related>Champions of Minas Tirith</reverse-related>
-            <reverse-related>Faramir, Steward of Gondor</reverse-related>
-            <reverse-related>Emberwilde Captain</reverse-related>
-            <reverse-related>Éomer, King of Rohan</reverse-related>
-            <reverse-related>Court of Locthwain</reverse-related>
-            <reverse-related>Archon of Coronation</reverse-related>
-            <reverse-related>Court of Ambition</reverse-related>
-            <reverse-related>Denethor, Stone Seer</reverse-related>
-            <reverse-related>Chief Magistrate of Mercadia</reverse-related>
-            <reverse-related>Regal Behemoth</reverse-related>
-            <reverse-related>Court of Embereth</reverse-related>
-            <reverse-related>Throne of the High City</reverse-related>
-            <reverse-related>Knights of the Black Rose</reverse-related>
-            <reverse-related>Archivist of Gondor</reverse-related>
-            <reverse-related>Thorn of the Black Rose</reverse-related>
-            <reverse-related>Court of Vantress</reverse-related>
-            <reverse-related>Azure Fleet Admiral</reverse-related>
-            <reverse-related>Jared Carthalion, True Heir</reverse-related>
-            <reverse-related>Throne Warden</reverse-related>
-            <reverse-related>Dawnglade Regent</reverse-related>
-            <reverse-related>Court of Ardenvale</reverse-related>
-            <reverse-related>Aragorn, King of Gondor</reverse-related>
-            <reverse-related>Fealty to the Realm</reverse-related>
-            <reverse-related>Skyline Despot</reverse-related>
-            <reverse-related>Feast of Succession</reverse-related>
-            <reverse-related>Paliano</reverse-related>
-            <reverse-related>Staunch Throneguard</reverse-related>
-            <reverse-related>Palace Sentinels</reverse-related>
-            <reverse-related>Crimson Fleet Commodore</reverse-related>
-            <reverse-related>Queen Marchesa</reverse-related>
-            <reverse-related>Coin of Fate</reverse-related>
-            <reverse-related>Marchesa's Decree</reverse-related>
-            <reverse-related>Court of Bounty</reverse-related>
-            <reverse-related>Fall from Favor</reverse-related>
-            <reverse-related>Canal Courier</reverse-related>
-            <reverse-related>Protector of the Crown</reverse-related>
-            <reverse-related>Court of Grace</reverse-related>
-            <reverse-related>Crown of Gondor</reverse-related>
-            <reverse-related>Crown-Hunter Hireling</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21951,20 +21038,23 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>2/2</pt>
             </prop>
             <set artist="Elizabeth PeirÃƒÆ’Ã‚Â³" picURL="https://cards.scryfall.io/large/front/8/f/8f4534d8-2783-484f-8ebf-a47b1cc4c6df.jpg?1789734318" uuid="8f4534d8-2783-484f-8ebf-a47b1cc4c6df" rarity="common" num="1">TFRA</set>
-            <token>1</token>
-            <reverse-related>Fatehold Chronologist // Peer Review</reverse-related>
-            <reverse-related>Command the Stage</reverse-related>
-            <reverse-related>Hexhaven Battalion</reverse-related>
-            <reverse-related>Semester Foreseer // Peer Review</reverse-related>
-            <reverse-related>Germinate Recruits</reverse-related>
-            <reverse-related>Heartstring Puller</reverse-related>
-            <reverse-related>Prudent Fateseer // Peer Review</reverse-related>
-            <reverse-related>Ajani Unrelenting</reverse-related>
-            <reverse-related>Stingerquill Charm</reverse-related>
             <reverse-related>Recursive Recruitment</reverse-related>
-            <reverse-related>Ingris Stingerquill</reverse-related>
-            <reverse-related>Way of the Healer</reverse-related>
+            <reverse-related>Hexhaven Battalion</reverse-related>
+            <reverse-related>Germinate Recruits</reverse-related>
+            <token>1</token>
+            <reverse-related count="x">Germinate Recruits</reverse-related>
+            <reverse-related count="x">Hexhaven Battalion</reverse-related>
+            <reverse-related>Semester Foreseer // Peer Review</reverse-related>
+            <reverse-related>Command the Stage</reverse-related>
+            <reverse-related>Heartstring Puller</reverse-related>
             <reverse-related>Craftwork Crusher</reverse-related>
+            <reverse-related>Fatehold Chronologist // Peer Review</reverse-related>
+            <reverse-related>Ingris Stingerquill</reverse-related>
+            <reverse-related>Prudent Fateseer // Peer Review</reverse-related>
+            <reverse-related count="x">Recursive Recruitment</reverse-related>
+            <reverse-related>Stingerquill Charm</reverse-related>
+            <reverse-related>Way of the Healer</reverse-related>
+            <reverse-related>Ajani Unrelenting</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21980,7 +21070,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <set artist="Diego Gisbert" picURL="https://cards.scryfall.io/large/front/7/8/7801c326-d740-4cec-9268-05348ace8302.jpg?1789735461" uuid="7801c326-d740-4cec-9268-05348ace8302" rarity="common" num="2">TFRA</set>
             <token>1</token>
             <reverse-related>Ajani Resolute</reverse-related>
-            <reverse-related>Ajani, Strength of the Pride</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -22025,41 +21114,41 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Manuel CastaÃƒÆ’Ã‚Â±ÃƒÆ’Ã‚Â³n" picURL="https://cards.scryfall.io/large/front/8/d/8d1e424f-6407-4f8c-bed2-eaf148237c81.jpg?1789738324" uuid="8d1e424f-6407-4f8c-bed2-eaf148237c81" rarity="common" num="5">TFRA</set>
             <token>1</token>
-            <reverse-related>Theorist's Proxy</reverse-related>
-            <reverse-related>Protege's Awakening</reverse-related>
-            <reverse-related>Avatar of Burgeoning Echoes</reverse-related>
-            <reverse-related>Way of the Warlord</reverse-related>
-            <reverse-related>Hexhaven Battalion</reverse-related>
-            <reverse-related>Fatehold Charm</reverse-related>
-            <reverse-related>Solve for Disappointment</reverse-related>
-            <reverse-related>Theorist's Sanctum</reverse-related>
-            <reverse-related>Sanctum Lurker</reverse-related>
             <reverse-related>Academic Ascent</reverse-related>
-            <reverse-related>Rewrite Regrets</reverse-related>
-            <reverse-related>Way of the Wildspeaker</reverse-related>
-            <reverse-related>Way of the Deathbringer</reverse-related>
-            <reverse-related>Arcane Amphisbaena</reverse-related>
-            <reverse-related>Way of the Pyromancer</reverse-related>
-            <reverse-related>Tam's Resistance</reverse-related>
-            <reverse-related>Way of the Paradox</reverse-related>
-            <reverse-related>Vraska's Final Mercy</reverse-related>
-            <reverse-related>Way of the Cryomancer</reverse-related>
-            <reverse-related>Plan for All Outcomes</reverse-related>
-            <reverse-related>Inspired Tethermage</reverse-related>
-            <reverse-related>Jace's Machinations</reverse-related>
-            <reverse-related>Way of the Mind Sculptor</reverse-related>
-            <reverse-related>Mindseeker Oculus</reverse-related>
-            <reverse-related>Repurposed Enforcer</reverse-related>
-            <reverse-related>Jace, Reality Sculptor</reverse-related>
             <reverse-related>Campus Crier</reverse-related>
-            <reverse-related>Way of the Healer</reverse-related>
-            <reverse-related>Way of the Mentor</reverse-related>
+            <reverse-related>Hexhaven Battalion</reverse-related>
+            <reverse-related>Repurposed Enforcer</reverse-related>
+            <reverse-related>Countersculpt</reverse-related>
+            <reverse-related>Jace's Machinations</reverse-related>
+            <reverse-related>Mindseeker Oculus</reverse-related>
+            <reverse-related>Plan for All Outcomes</reverse-related>
+            <reverse-related>Protege's Awakening</reverse-related>
+            <reverse-related>Theorist's Proxy</reverse-related>
             <reverse-related>Overwrite the Multiverse</reverse-related>
+            <reverse-related>Rewrite Regrets</reverse-related>
+            <reverse-related>Sanctum Lurker</reverse-related>
+            <reverse-related>Solve for Disappointment</reverse-related>
+            <reverse-related>Vraska's Final Mercy</reverse-related>
             <reverse-related>No Admittance</reverse-related>
             <reverse-related>Violent Echoes</reverse-related>
+            <reverse-related>Arcane Amphisbaena</reverse-related>
+            <reverse-related>Inspired Tethermage</reverse-related>
+            <reverse-related>Avatar of Burgeoning Echoes</reverse-related>
+            <reverse-related>Fatehold Charm</reverse-related>
+            <reverse-related>Tam's Resistance</reverse-related>
             <reverse-related>Keeper of the Quiet Hour</reverse-related>
+            <reverse-related>Theorist's Sanctum</reverse-related>
+            <reverse-related>Way of the Healer</reverse-related>
+            <reverse-related>Way of the Mentor</reverse-related>
+            <reverse-related>Jace, Reality Sculptor</reverse-related>
+            <reverse-related>Way of the Cryomancer</reverse-related>
+            <reverse-related>Way of the Mind Sculptor</reverse-related>
+            <reverse-related>Way of the Deathbringer</reverse-related>
             <reverse-related>Way of the Necromancer</reverse-related>
-            <reverse-related>Countersculpt</reverse-related>
+            <reverse-related>Way of the Pyromancer</reverse-related>
+            <reverse-related>Way of the Warlord</reverse-related>
+            <reverse-related>Way of the Paradox</reverse-related>
+            <reverse-related>Way of the Wildspeaker</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -22089,24 +21178,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="LoÃƒÆ’Ã‚Â¯c Canavaggia" picURL="https://cards.scryfall.io/large/front/9/9/991a5840-adc7-45b5-8d5f-b24dae384bab.jpg?1789734473" uuid="991a5840-adc7-45b5-8d5f-b24dae384bab" rarity="common" num="7">TFRA</set>
             <token>1</token>
-            <reverse-related>Kiora of Fire and Ashes</reverse-related>
-            <reverse-related>Awaken the Sky Tyrant</reverse-related>
-            <reverse-related>Dragonkin Berserker</reverse-related>
-            <reverse-related>Sarkhan, Fireblood</reverse-related>
-            <reverse-related>Lathliss, Dragon Queen</reverse-related>
-            <reverse-related>Look Skyward and Despair</reverse-related>
-            <reverse-related>Rite of the Dragoncaller</reverse-related>
             <reverse-related>Draconic Visitor</reverse-related>
-            <reverse-related>Dragon Roost</reverse-related>
-            <reverse-related>Shiv</reverse-related>
-            <reverse-related>Draconic Disciple</reverse-related>
-            <reverse-related>Loot Dispute</reverse-related>
-            <reverse-related>Death by Dragons</reverse-related>
-            <reverse-related>Broodmate Tyrant</reverse-related>
-            <reverse-related>Dragonmaster Outcast</reverse-related>
-            <reverse-related>Skyline Despot</reverse-related>
-            <reverse-related>Day of the Dragons</reverse-related>
-            <reverse-related>Sarkhan the Mad</reverse-related>
+            <reverse-related>Kiora of Fire and Ashes</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -22121,11 +21194,11 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Simon Dominic" picURL="https://cards.scryfall.io/large/front/8/5/859bda9a-fa90-4ad3-b0c1-6fc62e27c12f.jpg?1789736256" uuid="859bda9a-fa90-4ad3-b0c1-6fc62e27c12f" rarity="common" num="8">TFRA</set>
             <token>1</token>
-            <reverse-related>Garruk, Curse Breaker</reverse-related>
-            <reverse-related>Garruk, Veiled Butcher</reverse-related>
-            <reverse-related>Way of the Wildspeaker</reverse-related>
-            <reverse-related>Way of the Deathbringer</reverse-related>
             <reverse-related>Bestial Incursion</reverse-related>
+            <reverse-related>Garruk, Veiled Butcher</reverse-related>
+            <reverse-related>Way of the Deathbringer</reverse-related>
+            <reverse-related>Garruk, Curse Breaker</reverse-related>
+            <reverse-related>Way of the Wildspeaker</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -22169,11 +21242,11 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <set artist="Tianxing Xu" picURL="https://cards.scryfall.io/large/front/e/b/eb4bf635-04d7-4994-9f70-4ff573a767e7.jpg?1789966278" uuid="eb4bf635-04d7-4994-9f70-4ff573a767e7" rarity="common" num="11">TFRA</set>
             <reverse-related count="2">Tenured Tethermage</reverse-related>
             <token>1</token>
-            <reverse-related>Aerid Konstrari</reverse-related>
-            <reverse-related>Tenured Tethermage</reverse-related>
-            <reverse-related>Hungering Puppetbeast</reverse-related>
-            <reverse-related>Konstrari Improviser // Soul Tether</reverse-related>
             <reverse-related>Heartwood Crafter // Soul Tether</reverse-related>
+            <reverse-related>Hungering Puppetbeast</reverse-related>
+            <reverse-related>Aerid Konstrari</reverse-related>
+            <reverse-related>Konstrari Improviser // Soul Tether</reverse-related>
+            <reverse-related count="x">Tenured Tethermage</reverse-related>
             <reverse-related>Woodwork Prodigy // Soul Tether</reverse-related>
             <tablerow>2</tablerow>
         </card>
@@ -22215,60 +21288,9 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Diego Gisbert" picURL="https://cards.scryfall.io/large/front/b/f/bfd6132f-c96b-4ce0-ac4d-c46356afc767.jpg?1789735223" uuid="bfd6132f-c96b-4ce0-ac4d-c46356afc767" rarity="common" num="14">TFRA</set>
             <token>1</token>
-            <reverse-related>Thopter Assembly</reverse-related>
-            <reverse-related>Nimble Thopterist</reverse-related>
-            <reverse-related>Foundry of the Consuls</reverse-related>
-            <reverse-related>Broadcast Rambler</reverse-related>
-            <reverse-related>Barbed Spike</reverse-related>
-            <reverse-related>Access Denied</reverse-related>
-            <reverse-related>Experimental Aviator</reverse-related>
-            <reverse-related>Thopter Spy Network</reverse-related>
-            <reverse-related>Rangers' Aetherhive</reverse-related>
-            <reverse-related>Thopter Engineer</reverse-related>
-            <reverse-related>Sai, Master Thopterist</reverse-related>
-            <reverse-related>Dovin, Grand Arbiter</reverse-related>
-            <reverse-related>Efficient Construction</reverse-related>
-            <reverse-related>Launch Mishap</reverse-related>
-            <reverse-related>Inspired Sphinx</reverse-related>
-            <reverse-related>Pia Nalaar, Consul of Revival</reverse-related>
-            <reverse-related>Saheeli, Filigree Master</reverse-related>
-            <reverse-related>Whirler Rogue</reverse-related>
-            <reverse-related>Ghirapur Gearcrafter</reverse-related>
-            <reverse-related>Pia Nalaar</reverse-related>
-            <reverse-related>Maverick Thopterist</reverse-related>
-            <reverse-related>Sweep the Skies</reverse-related>
-            <reverse-related>Thopter Pie Network</reverse-related>
-            <reverse-related>Haunt the Network</reverse-related>
-            <reverse-related>Loyal Apprentice</reverse-related>
-            <reverse-related>Saheeli, Jewel of Avishkar</reverse-related>
-            <reverse-related>Pia and Kiran Nalaar</reverse-related>
-            <reverse-related>Fuss // Bother</reverse-related>
-            <reverse-related>Thopter Fabricator</reverse-related>
-            <reverse-related>Fairgrounds Patrol</reverse-related>
-            <reverse-related>Breya's Apprentice</reverse-related>
-            <reverse-related>Stridehangar Automaton</reverse-related>
-            <reverse-related>Surveillance Monitor</reverse-related>
-            <reverse-related>Pia, Determined Rebuilder</reverse-related>
-            <reverse-related>Harried Dronesmith</reverse-related>
-            <reverse-related>Thopter Mechanic</reverse-related>
-            <reverse-related>Retrofitter Foundry</reverse-related>
-            <reverse-related>Aviation Pioneer</reverse-related>
-            <reverse-related>Aspiring Aeronaut</reverse-related>
-            <reverse-related>Thopter Shop</reverse-related>
-            <reverse-related>Camera Launcher</reverse-related>
-            <reverse-related>Etherium Spinner</reverse-related>
-            <reverse-related>Invasion of Kaladesh // Aetherwing, Golden-Scale Flagship</reverse-related>
-            <reverse-related>Whirlermaker</reverse-related>
-            <reverse-related>Deviant Skytech</reverse-related>
-            <reverse-related>Depose // Deploy</reverse-related>
-            <reverse-related>Gadget Technician</reverse-related>
-            <reverse-related>Hangarback Walker</reverse-related>
             <reverse-related>Saheeli, Consul of Oversight</reverse-related>
-            <reverse-related>Tezzeret, Artifice Master</reverse-related>
-            <reverse-related>Detective's Satchel</reverse-related>
-            <reverse-related>Thopter Squadron</reverse-related>
-            <reverse-related>Filigree Crawler</reverse-related>
-            <reverse-related>Whirler Virtuoso</reverse-related>
+            <reverse-related>Pia, Determined Rebuilder</reverse-related>
+            <reverse-related>Saheeli, Jewel of Avishkar</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -22281,373 +21303,9 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Alayna Danner" picURL="https://cards.scryfall.io/large/front/0/3/03992f88-7a15-4234-9bed-b7617d7ff09c.jpg?1789735245" uuid="03992f88-7a15-4234-9bed-b7617d7ff09c" rarity="common" num="15">TFRA</set>
             <token>1</token>
-            <reverse-related>Ruthless Knave</reverse-related>
-            <reverse-related>Surly Badgersaur</reverse-related>
-            <reverse-related>Beza, the Bounding Spring</reverse-related>
-            <reverse-related>Gluntch, the Bestower</reverse-related>
-            <reverse-related>Beamtown Beatstick</reverse-related>
-            <reverse-related>Professional Face-Breaker</reverse-related>
-            <reverse-related>Bejeweled Warg</reverse-related>
-            <reverse-related>Don Andres, the Renegade</reverse-related>
-            <reverse-related>Kingpin, Wilson Fisk</reverse-related>
-            <reverse-related>Rapacious Dragon</reverse-related>
-            <reverse-related>Megaton's Fate</reverse-related>
-            <reverse-related>Bloodroot Apothecary</reverse-related>
-            <reverse-related>Treasure Map // Treasure Cove</reverse-related>
-            <reverse-related>Boxing Ring</reverse-related>
-            <reverse-related>Xorn</reverse-related>
-            <reverse-related>Halo Scarab</reverse-related>
-            <reverse-related>Descent into Avernus</reverse-related>
-            <reverse-related>Lotho, Corrupt Shirriff</reverse-related>
-            <reverse-related>Brazen Freebooter</reverse-related>
-            <reverse-related>Most Wanted</reverse-related>
-            <reverse-related>Crossover Collaboration</reverse-related>
-            <reverse-related>Smothering Tithe</reverse-related>
-            <reverse-related>Breeches, Eager Pillager</reverse-related>
-            <reverse-related>Smuggler's Share</reverse-related>
-            <reverse-related>Glittermonger</reverse-related>
-            <reverse-related>Master of Ceremonies</reverse-related>
-            <reverse-related>Lobelia Sackville-Baggins</reverse-related>
-            <reverse-related>Hoard Robber</reverse-related>
-            <reverse-related>Mahadi, Emporium Master</reverse-related>
-            <reverse-related>Wanted Scoundrels</reverse-related>
-            <reverse-related>Prosper, Tome-Bound</reverse-related>
-            <reverse-related>Gleaming Barrier</reverse-related>
-            <reverse-related>Smaug, Wicked Worm</reverse-related>
-            <reverse-related>Rocketeer Boostbuggy</reverse-related>
-            <reverse-related>Alicia Masters, Skilled Sculptor</reverse-related>
-            <reverse-related>Oath of the Grey Host</reverse-related>
-            <reverse-related>An Offer You Can't Refuse</reverse-related>
-            <reverse-related>Captain Lannery Storm</reverse-related>
-            <reverse-related>Goblin Glasswright // Craft with Pride</reverse-related>
-            <reverse-related>Vaan, Street Thief</reverse-related>
-            <reverse-related>Hoard Hauler</reverse-related>
-            <reverse-related>Herald of Hadar</reverse-related>
-            <reverse-related>Undercity Scrounger</reverse-related>
-            <reverse-related>Glóin, Dwarf Emissary</reverse-related>
-            <reverse-related>Exit Through the Grift Shop</reverse-related>
-            <reverse-related>Prosperous Bandit</reverse-related>
-            <reverse-related>Done for the Day</reverse-related>
-            <reverse-related>The Third Doctor</reverse-related>
-            <reverse-related>Meticulous Artisan</reverse-related>
-            <reverse-related>Goldvein Hydra</reverse-related>
-            <reverse-related>Widespread Thieving</reverse-related>
-            <reverse-related>Blooming Blast</reverse-related>
-            <reverse-related>Bilbo, Retired Burglar</reverse-related>
-            <reverse-related>Hullbreacher</reverse-related>
-            <reverse-related>Young Red Dragon // Bathe in Gold</reverse-related>
-            <reverse-related>Buy Your Silence</reverse-related>
-            <reverse-related>Inspired Tinkering</reverse-related>
-            <reverse-related>City of Death</reverse-related>
-            <reverse-related>Fain, the Broker</reverse-related>
-            <reverse-related>Wish Good Luck</reverse-related>
-            <reverse-related>Baeloth Barrityl, Entertainer</reverse-related>
-            <reverse-related>Ant-Man's Army</reverse-related>
-            <reverse-related>Visions of Ruin</reverse-related>
-            <reverse-related>Heap Gate</reverse-related>
-            <reverse-related>Ragavan, Nimble Pilferer</reverse-related>
-            <reverse-related>Puppet Master, String Puller</reverse-related>
-            <reverse-related>The Reaver Cleaver</reverse-related>
-            <reverse-related>Plundering Pirate</reverse-related>
-            <reverse-related>Vraska, Relic Seeker</reverse-related>
-            <reverse-related>The Golden City of Orazca</reverse-related>
-            <reverse-related>Treasure Vault</reverse-related>
-            <reverse-related>Namazu Trader</reverse-related>
-            <reverse-related>Seize the Spotlight</reverse-related>
-            <reverse-related>Magda, Brazen Outlaw</reverse-related>
-            <reverse-related>Luke Cage, Hero for Hire</reverse-related>
-            <reverse-related>Professional Wrestler</reverse-related>
-            <reverse-related>Treasure Chest</reverse-related>
-            <reverse-related>Crack Open</reverse-related>
-            <reverse-related>Malik, Grim Manipulator</reverse-related>
-            <reverse-related>Gadrak, the Crown-Scourge</reverse-related>
-            <reverse-related>Pain Distributor</reverse-related>
-            <reverse-related>Pick-a-Beeble</reverse-related>
-            <reverse-related>Song of Eärendil</reverse-related>
-            <reverse-related>Gold Rush</reverse-related>
-            <reverse-related>Deadly Dispute</reverse-related>
-            <reverse-related>Ignacio of Myra's Marvels</reverse-related>
-            <reverse-related>Heroes for Hire</reverse-related>
-            <reverse-related>Mastermind Plum</reverse-related>
-            <reverse-related>Black Market Tycoon</reverse-related>
-            <reverse-related>Riveteers Requisitioner</reverse-related>
-            <reverse-related>Jewel Thief</reverse-related>
-            <reverse-related>Forging the Tyrite Sword</reverse-related>
-            <reverse-related>Patron of the Arts</reverse-related>
-            <reverse-related>Ancient Copper Dragon</reverse-related>
-            <reverse-related>Unexpected Windfall</reverse-related>
-            <reverse-related>The Western Cloud</reverse-related>
-            <reverse-related>Urabrask // The Great Work</reverse-related>
-            <reverse-related>Deadly Derision</reverse-related>
-            <reverse-related>Marut</reverse-related>
-            <reverse-related>Ruthless Technomancer</reverse-related>
-            <reverse-related>Olivia, Opulent Outlaw</reverse-related>
-            <reverse-related>Spectrox Mines</reverse-related>
-            <reverse-related>New New York</reverse-related>
-            <reverse-related>Kalain, Reclusive Painter</reverse-related>
-            <reverse-related>Pictures of Spider-Man</reverse-related>
-            <reverse-related>Life Insurance</reverse-related>
-            <reverse-related>Mary Read and Anne Bonny</reverse-related>
-            <reverse-related>Redrock Sentinel</reverse-related>
-            <reverse-related>Atsushi, the Blazing Sky</reverse-related>
-            <reverse-related>Diamond Pick-Axe</reverse-related>
-            <reverse-related>Village Pillagers</reverse-related>
-            <reverse-related>Petty Larceny</reverse-related>
             <reverse-related>Vraska, the Cutting Glare</reverse-related>
-            <reverse-related>Scion of Opulence</reverse-related>
-            <reverse-related>Mines of Moria</reverse-related>
-            <reverse-related>Dori, Bearer of Friends</reverse-related>
-            <reverse-related>Seize the Spoils</reverse-related>
-            <reverse-related>Magmatic Galleon</reverse-related>
-            <reverse-related>Deadeye Plunderers</reverse-related>
-            <reverse-related>Alchemist's Talent</reverse-related>
-            <reverse-related>Dragon-Cursed Halls</reverse-related>
-            <reverse-related>Mine Raider</reverse-related>
-            <reverse-related>Decadent Dragon // Expensive Taste</reverse-related>
-            <reverse-related>Mari, the Killing Quill</reverse-related>
-            <reverse-related>Gilded Ghoda</reverse-related>
-            <reverse-related>Season of the Bold</reverse-related>
-            <reverse-related>Prying Blade</reverse-related>
-            <reverse-related>Brass's Bounty</reverse-related>
-            <reverse-related>Spiteful Repossession</reverse-related>
-            <reverse-related>Skullport Merchant</reverse-related>
-            <reverse-related>Cloud, Ex-SOLDIER</reverse-related>
-            <reverse-related>Swashbuckler Extraordinaire</reverse-related>
-            <reverse-related>RMS Titanic</reverse-related>
-            <reverse-related>Iron Man, Titan of Innovation</reverse-related>
-            <reverse-related>Prized Statue</reverse-related>
-            <reverse-related>Relic Retriever</reverse-related>
-            <reverse-related>Tavern Scoundrel</reverse-related>
-            <reverse-related>Vault Robber</reverse-related>
-            <reverse-related>Gemcutter Buccaneer</reverse-related>
-            <reverse-related>Dockside Extortionist</reverse-related>
-            <reverse-related>Thorin, King of Durin's Folk</reverse-related>
-            <reverse-related>Nuka-Cola Vending Machine</reverse-related>
-            <reverse-related>Prosperous Thief</reverse-related>
-            <reverse-related>Orochi Soul-Reaver</reverse-related>
-            <reverse-related>Pirate's Prize</reverse-related>
-            <reverse-related>Long-Bodied Grey Dog</reverse-related>
-            <reverse-related>Tataru Taru</reverse-related>
-            <reverse-related>Kain, Traitorous Dragoon</reverse-related>
-            <reverse-related>Goldspan Dragon</reverse-related>
-            <reverse-related>Knuckles the Echidna</reverse-related>
-            <reverse-related>Hornswoggle</reverse-related>
-            <reverse-related>Kerblam! Warehouse</reverse-related>
-            <reverse-related>Sarkhan, Dragon Ascendant</reverse-related>
-            <reverse-related>Teval's Judgment</reverse-related>
-            <reverse-related>Storm the Vault // Vault of Catlacan</reverse-related>
-            <reverse-related>Discerning Financier</reverse-related>
-            <reverse-related>Reckless Lackey</reverse-related>
-            <reverse-related>Vazi, Keen Negotiator</reverse-related>
-            <reverse-related>You've Been Caught Stealing</reverse-related>
-            <reverse-related>Exhibition Magician</reverse-related>
-            <reverse-related>Blood Money</reverse-related>
-            <reverse-related>Cataclysmic Prospecting</reverse-related>
-            <reverse-related>Thorin, Company's Leader</reverse-related>
-            <reverse-related>Pirate's Pillage</reverse-related>
-            <reverse-related>Bonehoard Dracosaur</reverse-related>
-            <reverse-related>Stark Industries Executive</reverse-related>
-            <reverse-related>Loot Dispute</reverse-related>
-            <reverse-related>Dire Fleet Hoarder</reverse-related>
-            <reverse-related>Impulsive Pilferer</reverse-related>
-            <reverse-related>Hell to Pay</reverse-related>
-            <reverse-related>Involuntary Employment</reverse-related>
-            <reverse-related>Magda, the Hoardmaster</reverse-related>
-            <reverse-related>Thieves' Tools</reverse-related>
-            <reverse-related>Grim Bounty</reverse-related>
-            <reverse-related>Rankle and Torbran</reverse-related>
-            <reverse-related>Pinkie Pie</reverse-related>
-            <reverse-related>Spell Swindle</reverse-related>
-            <reverse-related>Jolene, the Plunder Queen</reverse-related>
-            <reverse-related>Rev, Tithe Extractor</reverse-related>
-            <reverse-related>Impetuous Lootmonger</reverse-related>
-            <reverse-related>Typhoid Mary, Fractured</reverse-related>
-            <reverse-related>Zhentarim Bandit</reverse-related>
-            <reverse-related>Big Spender</reverse-related>
-            <reverse-related>Goldlust Triad</reverse-related>
-            <reverse-related>Contested Game Ball</reverse-related>
-            <reverse-related>Burakos, Party Leader</reverse-related>
-            <reverse-related>Fae Offering</reverse-related>
-            <reverse-related>Grim Hireling</reverse-related>
-            <reverse-related>Gilded Pinions</reverse-related>
-            <reverse-related>Meet and Greet "Sisay"</reverse-related>
-            <reverse-related>Vault 21: House Gambit</reverse-related>
-            <reverse-related>Tokka &amp; Rahzar, Unsupervised</reverse-related>
-            <reverse-related>Heartless Pillage</reverse-related>
-            <reverse-related>Old Rutstein</reverse-related>
-            <reverse-related>Smoke Spirits' Aid</reverse-related>
-            <reverse-related>Racketeer Boss</reverse-related>
-            <reverse-related>Kellogg, Dangerous Mind</reverse-related>
-            <reverse-related>Goblin Airbrusher</reverse-related>
-            <reverse-related>Gold Pan</reverse-related>
-            <reverse-related>Generous Plunderer</reverse-related>
-            <reverse-related>Reckless Endeavor</reverse-related>
-            <reverse-related>Marching Duodrone</reverse-related>
-            <reverse-related>Cavern-Hoard Dragon</reverse-related>
-            <reverse-related>The Gold Saucer</reverse-related>
-            <reverse-related>Fountainport</reverse-related>
-            <reverse-related>Ticket Tortoise</reverse-related>
-            <reverse-related>Volatile Fault</reverse-related>
-            <reverse-related>Ashling's Command</reverse-related>
-            <reverse-related>Enterprising Scallywag</reverse-related>
-            <reverse-related>Poetic Ingenuity</reverse-related>
             <reverse-related>Currency Converter</reverse-related>
-            <reverse-related>Magma Opus</reverse-related>
-            <reverse-related>Flick a Coin</reverse-related>
-            <reverse-related>The Belligerent</reverse-related>
-            <reverse-related>Treasure Dredger</reverse-related>
-            <reverse-related>Prosperous Pirates</reverse-related>
-            <reverse-related>Charming Scoundrel</reverse-related>
-            <reverse-related>Spiked Pit Trap</reverse-related>
-            <reverse-related>Piggy Bank</reverse-related>
-            <reverse-related>Storm-Kiln Artist</reverse-related>
-            <reverse-related>North Pole Research Base</reverse-related>
-            <reverse-related>Noggle Robber</reverse-related>
-            <reverse-related>Ganax, Astral Hunter</reverse-related>
-            <reverse-related>Ramirez DePietro, Pillager</reverse-related>
-            <reverse-related>Prosperous Partnership</reverse-related>
-            <reverse-related>Hit the Mother Lode</reverse-related>
-            <reverse-related>Contract Hero</reverse-related>
-            <reverse-related>Big Score</reverse-related>
-            <reverse-related>Malcolm, Keen-Eyed Navigator</reverse-related>
-            <reverse-related>Ognis, the Dragon's Lash</reverse-related>
-            <reverse-related>Pitiless Plunderer</reverse-related>
-            <reverse-related>Contract Killing</reverse-related>
-            <reverse-related>Corsair Captain</reverse-related>
-            <reverse-related>Locke, Treasure Hunter</reverse-related>
-            <reverse-related>Sanar, Unfinished Genius // Wild Idea</reverse-related>
-            <reverse-related>Ancestors' Aid</reverse-related>
-            <reverse-related>You Find a Cursed Idol</reverse-related>
-            <reverse-related>Shiny Impetus</reverse-related>
-            <reverse-related>Tireless Provisioner</reverse-related>
-            <reverse-related>Indulge // Excess</reverse-related>
-            <reverse-related>Setzer, Wandering Gambler</reverse-related>
-            <reverse-related>Warren Soultrader</reverse-related>
-            <reverse-related>Monologue Tax</reverse-related>
-            <reverse-related>Guild Artisan</reverse-related>
-            <reverse-related>Fake Your Own Death</reverse-related>
-            <reverse-related>Kheru Goldkeeper</reverse-related>
-            <reverse-related>Cutthroat Negotiator</reverse-related>
-            <reverse-related>Scuzzback Scrounger</reverse-related>
-            <reverse-related>Safana, Calimport Cutthroat</reverse-related>
-            <reverse-related>Great Train Heist</reverse-related>
-            <reverse-related>Killmonger, Ruthless Usurper</reverse-related>
-            <reverse-related>Sonic the Hedgehog</reverse-related>
-            <reverse-related>Edward Kenway</reverse-related>
-            <reverse-related>Sword of Wealth and Power</reverse-related>
-            <reverse-related>Ultimate Green Goblin</reverse-related>
-            <reverse-related>Furnace Reins</reverse-related>
-            <reverse-related>Erestor of the Council</reverse-related>
-            <reverse-related>Reckoner Bankbuster // Reckoner Bankbuster</reverse-related>
-            <reverse-related>Patient Naturalist</reverse-related>
-            <reverse-related>Jewel-Eyed Cobra</reverse-related>
-            <reverse-related>Flamekin Gildweaver</reverse-related>
-            <reverse-related>Korvold and the Noble Thief</reverse-related>
-            <reverse-related>Excavation Technique</reverse-related>
-            <reverse-related>Misfortune Teller</reverse-related>
-            <reverse-related>Rashmi and Ragavan</reverse-related>
-            <reverse-related>Gleaming Splendor</reverse-related>
-            <reverse-related>Fable of the Mirror-Breaker // Reflection of Kiki-Jiki</reverse-related>
-            <reverse-related>Prizefight</reverse-related>
-            <reverse-related>Centrifuge</reverse-related>
-            <reverse-related>Goldvein Pick</reverse-related>
-            <reverse-related>Death to Our Enemies</reverse-related>
-            <reverse-related>Battle Angels of Tyr</reverse-related>
-            <reverse-related>Strike It Rich</reverse-related>
-            <reverse-related>Careening Mine Cart</reverse-related>
-            <reverse-related>Bank Job</reverse-related>
-            <reverse-related>Boneyard Desecrator</reverse-related>
-            <reverse-related>Emissary Green</reverse-related>
-            <reverse-related>Sailor of Means</reverse-related>
-            <reverse-related>The Misty Mountains Cold</reverse-related>
-            <reverse-related>Smaug the Magnificent</reverse-related>
-            <reverse-related>Dungeoneer's Pack</reverse-related>
-            <reverse-related>Luxurious Locomotive</reverse-related>
-            <reverse-related>Swarming of Moria</reverse-related>
-            <reverse-related>Depths of Desire</reverse-related>
-            <reverse-related>Magic Pot</reverse-related>
-            <reverse-related>Smashing Success</reverse-related>
-            <reverse-related>Jan Jansen, Chaos Crafter</reverse-related>
-            <reverse-related>Revel in Riches</reverse-related>
-            <reverse-related>Tempting Contract</reverse-related>
-            <reverse-related>Orcrist, Goblin-cleaver</reverse-related>
-            <reverse-related>Gala Greeters</reverse-related>
-            <reverse-related>Smaug the Impenetrable</reverse-related>
-            <reverse-related>Stimulus Package</reverse-related>
-            <reverse-related>Axgard Artisan</reverse-related>
-            <reverse-related>Galadriel, Gift-Giver</reverse-related>
-            <reverse-related>Bootleggers' Stash</reverse-related>
-            <reverse-related>Black Market Connections</reverse-related>
-            <reverse-related>Wily Goblin</reverse-related>
-            <reverse-related>Daily Bugle Newspaper</reverse-related>
-            <reverse-related>Dihada, Binder of Wills</reverse-related>
-            <reverse-related>Forsworn Paladin</reverse-related>
-            <reverse-related>Ziatora, the Incinerator</reverse-related>
-            <reverse-related>My Wealth Will Bury You</reverse-related>
-            <reverse-related>Greedy Freebooter</reverse-related>
-            <reverse-related>Culmination of Studies</reverse-related>
-            <reverse-related>Mr. House, President and CEO</reverse-related>
-            <reverse-related>The Balrog of Moria</reverse-related>
-            <reverse-related>Rose Room Treasurer</reverse-related>
-            <reverse-related>Sidequest: Hunt the Mark // Yiazmat, Ultimate Mark</reverse-related>
-            <reverse-related>Coin of Mastery</reverse-related>
-            <reverse-related>Instrument of the Bards</reverse-related>
-            <reverse-related>Luck Bobblehead</reverse-related>
-            <reverse-related>Avengers: Under Siege</reverse-related>
-            <reverse-related>Henry Wu, InGen Geneticist</reverse-related>
-            <reverse-related>Plundering Barbarian</reverse-related>
-            <reverse-related>Prosperous Innkeeper</reverse-related>
-            <reverse-related>Ingenious Mastery</reverse-related>
-            <reverse-related>Burdened Aerialist</reverse-related>
-            <reverse-related>Covetous Elegy</reverse-related>
-            <reverse-related>The Ghoul, Gunslinger</reverse-related>
-            <reverse-related>Lara Croft, Tomb Raider</reverse-related>
-            <reverse-related>There and Back Again</reverse-related>
-            <reverse-related>J. Jonah Jameson</reverse-related>
-            <reverse-related>Old Gnawbone</reverse-related>
-            <reverse-related>Redcap Thief</reverse-related>
-            <reverse-related>Prompto Argentum</reverse-related>
-            <reverse-related>Gonti, Night Minister</reverse-related>
-            <reverse-related>The Sackville-Bagginses</reverse-related>
-            <reverse-related>Shambling Ghast</reverse-related>
-            <reverse-related>Ancient Adamantoise</reverse-related>
-            <reverse-related>Monument to Endurance</reverse-related>
-            <reverse-related>Grabby Giant // That's Mine</reverse-related>
-            <reverse-related>Gorbag of Minas Morgul</reverse-related>
-            <reverse-related>Bottle-Cap Blast</reverse-related>
-            <reverse-related>Elemental Masterpiece</reverse-related>
-            <reverse-related>Bill Ferny, Bree Swindler</reverse-related>
-            <reverse-related>Common Crook</reverse-related>
-            <reverse-related>Reckless Ransacking</reverse-related>
-            <reverse-related>The Matrix of Time</reverse-related>
-            <reverse-related>Rain of Riches</reverse-related>
-            <reverse-related>Bilbo's Gambit</reverse-related>
-            <reverse-related>Undercity Dire Rat</reverse-related>
-            <reverse-related>Casey &amp; Raph, Hotheads</reverse-related>
-            <reverse-related>Zidane, Tantalus Thief</reverse-related>
-            <reverse-related>Ant-Man, Elusive Avenger</reverse-related>
-            <reverse-related>Academy Manufactor</reverse-related>
-            <reverse-related>Noble's Purse</reverse-related>
-            <reverse-related>Collector's Vault</reverse-related>
-            <reverse-related>Tivit, Seller of Secrets</reverse-related>
-            <reverse-related>Sudden Breakthrough</reverse-related>
-            <reverse-related>Trove of Temptation</reverse-related>
             <reverse-related>Chira, All In</reverse-related>
-            <reverse-related>Gimli of the Glittering Caves</reverse-related>
-            <reverse-related>Evin, Waterdeep Opportunist</reverse-related>
-            <reverse-related>Bucknard's Everfull Purse</reverse-related>
-            <reverse-related>Galazeth Prismari</reverse-related>
-            <reverse-related>Jared Carthalion</reverse-related>
-            <reverse-related>Prismari Command</reverse-related>
-            <reverse-related>Improvised Weaponry</reverse-related>
-            <reverse-related>Sticky Fingers</reverse-related>
-            <reverse-related>Hoarding Ogre</reverse-related>
-            <reverse-related>Jolene, Plundering Pugilist</reverse-related>
-            <reverse-related>Kamachal, Ship's Mascot</reverse-related>
-            <reverse-related>Spiteful Banditry</reverse-related>
-            <reverse-related>Invasion of Ergamon // Truga Cliffcharger</reverse-related>
-            <reverse-related>Summon: Yojimbo</reverse-related>
-            <reverse-related>Creative Outburst</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -22701,25 +21359,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="HarkalÃƒÂ© LinaÃƒÂ¯" picURL="https://cards.scryfall.io/large/front/1/1/1159d02c-0291-42de-91e6-e9a49d5ed968.jpg?1789737317" uuid="1159d02c-0291-42de-91e6-e9a49d5ed968" rarity="common" num="1">TFRC</set>
             <token>1</token>
-            <reverse-related>Empyrial Storm</reverse-related>
-            <reverse-related>Seraphic Greatsword</reverse-related>
-            <reverse-related>Angelic Favor</reverse-related>
-            <reverse-related>Saint Traft and Rem Karolus</reverse-related>
             <reverse-related>Ob Nixilis, the Ascended</reverse-related>
-            <reverse-related>Sigil of the Empty Throne</reverse-related>
-            <reverse-related>Geist of Saint Traft</reverse-related>
-            <reverse-related>Urbis Protector</reverse-related>
-            <reverse-related>Angelic Ascension</reverse-related>
-            <reverse-related>Decree of Justice</reverse-related>
-            <reverse-related>Luminarch Ascension</reverse-related>
-            <reverse-related>Descend upon the Sinful</reverse-related>
-            <reverse-related>Angelic Accord</reverse-related>
-            <reverse-related>Entreat the Angels</reverse-related>
-            <reverse-related>Invocation of Saint Traft</reverse-related>
-            <reverse-related>Moonsilver Spear</reverse-related>
-            <reverse-related>Speaker of the Heavens</reverse-related>
-            <reverse-related>Court of Grace</reverse-related>
-            <reverse-related>Devout Invocation</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -22734,7 +21374,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Michele Giorgi" picURL="https://cards.scryfall.io/large/front/f/5/f5d782a4-6726-4d64-9977-82ea2ab77e0f.jpg?1789737199" uuid="f5d782a4-6726-4d64-9977-82ea2ab77e0f" rarity="common" num="2">TFRC</set>
             <token>1</token>
-            <reverse-related>Overlord of the Mistmoors</reverse-related>
+            <reverse-related count="x">Overlord of the Mistmoors</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -22748,89 +21388,9 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Magali Villeneuve" picURL="https://cards.scryfall.io/large/front/a/5/a58c2fc3-c07f-4f06-a9d5-1d0fe3dbde1f.jpg?1789737284" uuid="a58c2fc3-c07f-4f06-a9d5-1d0fe3dbde1f" rarity="common" num="3">TFRC</set>
             <token>1</token>
-            <reverse-related>Phyrexian Warhorse</reverse-related>
-            <reverse-related>Elspeth, Sun's Champion</reverse-related>
-            <reverse-related>S.H.I.E.L.D. Helicarrier</reverse-related>
-            <reverse-related>First Response</reverse-related>
-            <reverse-related>Throne of Empires</reverse-related>
-            <reverse-related>Deploy to the Front</reverse-related>
-            <reverse-related>Yes Man, Personal Securitron</reverse-related>
-            <reverse-related>Baird, Argivian Recruiter</reverse-related>
-            <reverse-related>Heidegger, Shinra Executive</reverse-related>
-            <reverse-related>Entrapment Maneuver</reverse-related>
-            <reverse-related>Captain America, Liberator</reverse-related>
-            <reverse-related>Security Detail</reverse-related>
-            <reverse-related>Undercellar Sweep</reverse-related>
-            <reverse-related>Martial Coup</reverse-related>
-            <reverse-related>Sergeant-at-Arms</reverse-related>
-            <reverse-related>Alistair, the Brigadier</reverse-related>
-            <reverse-related>Launch the Fleet</reverse-related>
-            <reverse-related>Benalish Commander</reverse-related>
-            <reverse-related>Torsten, Founder of Benalia</reverse-related>
-            <reverse-related>Precinct Captain</reverse-related>
-            <reverse-related>SOLDIER Military Program</reverse-related>
+            <reverse-related count="x">Elspeth, Sun's Champion</reverse-related>
+            <reverse-related count="x">Martial Coup</reverse-related>
             <reverse-related>Grizzlegom, Hurloon Hero</reverse-related>
-            <reverse-related>Scout the Wilderness</reverse-related>
-            <reverse-related>Murder Investigation</reverse-related>
-            <reverse-related>Hero of Bladehold</reverse-related>
-            <reverse-related>Captain's Call</reverse-related>
-            <reverse-related>Basri Ket</reverse-related>
-            <reverse-related>Keeper of the Accord</reverse-related>
-            <reverse-related>Tura Kennerüd, Skyknight</reverse-related>
-            <reverse-related>Prava of the Steel Legion</reverse-related>
-            <reverse-related>Evangel of Heliod</reverse-related>
-            <reverse-related>Company Commander</reverse-related>
-            <reverse-related>Raise the Alarm</reverse-related>
-            <reverse-related>Queen Allenal of Ruadach</reverse-related>
-            <reverse-related>Elspeth Tirel</reverse-related>
-            <reverse-related>Knight-Captain of Eos</reverse-related>
-            <reverse-related>Keldon Strike Team</reverse-related>
-            <reverse-related>Timely Reinforcements</reverse-related>
-            <reverse-related>Decree of Justice</reverse-related>
-            <reverse-related>Bant Sojourners</reverse-related>
-            <reverse-related>Mobilization</reverse-related>
-            <reverse-related>Veteran Soldier</reverse-related>
-            <reverse-related>Even the Odds</reverse-related>
-            <reverse-related>Okoye, Dora Milaje Leader</reverse-related>
-            <reverse-related>Charisma Bobblehead</reverse-related>
-            <reverse-related>Protect the Negotiators</reverse-related>
-            <reverse-related>You're Confronted by Robbers</reverse-related>
-            <reverse-related>Lieutenants of the Guard</reverse-related>
-            <reverse-related>Defiler of Faith</reverse-related>
-            <reverse-related>Kjeldoran Outpost</reverse-related>
-            <reverse-related>Akroan Horse</reverse-related>
-            <reverse-related>Skyknight Vanguard</reverse-related>
-            <reverse-related>Elspeth's Talent</reverse-related>
-            <reverse-related>Stormfront Riders</reverse-related>
-            <reverse-related>Captain of the Watch</reverse-related>
-            <reverse-related>UNIT Headquarters</reverse-related>
-            <reverse-related>Lena, Selfless Champion</reverse-related>
-            <reverse-related>Wakandan Shield Guard</reverse-related>
-            <reverse-related>Ancestral Blade</reverse-related>
-            <reverse-related>Ironroot Warlord</reverse-related>
-            <reverse-related>Black Panther, Vanguard</reverse-related>
-            <reverse-related>Attended Knight</reverse-related>
-            <reverse-related>Alliance of Arms</reverse-related>
-            <reverse-related>S.H.I.E.L.D. Deployment Drone</reverse-related>
-            <reverse-related>Kate Stewart</reverse-related>
-            <reverse-related>Heroic Reinforcements</reverse-related>
-            <reverse-related>Argivian Cavalier</reverse-related>
-            <reverse-related>Kimoyo Beads</reverse-related>
-            <reverse-related>Abdel Adrian, Gorion's Ward</reverse-related>
-            <reverse-related>Midnight Angel Armor</reverse-related>
-            <reverse-related>Historian's Boon</reverse-related>
-            <reverse-related>Secure Detention</reverse-related>
-            <reverse-related>Horn of Valhalla // Ysgard's Call</reverse-related>
-            <reverse-related>Darien, King of Kjeldor</reverse-related>
-            <reverse-related>Recruitment Drive</reverse-related>
-            <reverse-related>Secure the Scene</reverse-related>
-            <reverse-related>Royal Talon Fighter Jet</reverse-related>
-            <reverse-related>Recruit the Worthy</reverse-related>
-            <reverse-related>King Darien XLVIII</reverse-related>
-            <reverse-related>Resolute Reinforcements</reverse-related>
-            <reverse-related>Elspeth, Knight-Errant</reverse-related>
-            <reverse-related>Memorial to Glory</reverse-related>
-            <reverse-related>Elspeth, Storm Slayer</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -22845,78 +21405,9 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Kim Sokol" picURL="https://cards.scryfall.io/large/front/0/6/06a96ac2-94a4-4b1c-a3c5-add1a3112cb2.jpg?1789737345" uuid="06a96ac2-94a4-4b1c-a3c5-add1a3112cb2" rarity="common" num="4">TFRC</set>
             <token>1</token>
-            <reverse-related>Kykar, Zephyr Awakener</reverse-related>
-            <reverse-related>Funeral Pyre</reverse-related>
-            <reverse-related>Haunted Dead</reverse-related>
-            <reverse-related>Blessed Defiance</reverse-related>
-            <reverse-related>Slayer's Plate</reverse-related>
-            <reverse-related>Lingering Souls</reverse-related>
+            <reverse-related count="x">Lingering Souls</reverse-related>
             <reverse-related>Staff of the Storyteller</reverse-related>
-            <reverse-related>Gallows at Willow Hill</reverse-related>
-            <reverse-related>Kaya the Inexorable</reverse-related>
-            <reverse-related>Nearheath Chaplain</reverse-related>
-            <reverse-related>Oath of the Grey Host</reverse-related>
-            <reverse-related>Ethereal Investigator</reverse-related>
-            <reverse-related>Whispering Wizard</reverse-related>
-            <reverse-related>Spectral Procession</reverse-related>
-            <reverse-related>Abzan Ascendancy</reverse-related>
-            <reverse-related>Benevolent Offering</reverse-related>
-            <reverse-related>King of the Oathbreakers</reverse-related>
-            <reverse-related>Nurturing Presence</reverse-related>
-            <reverse-related>Summoner's Sending</reverse-related>
-            <reverse-related>Triplicate Spirits</reverse-related>
-            <reverse-related>Afterlife</reverse-related>
-            <reverse-related>Field of Souls</reverse-related>
-            <reverse-related>Kirtar's Wrath</reverse-related>
-            <reverse-related>Moorland Haunt</reverse-related>
-            <reverse-related>Hallowed Spiritkeeper</reverse-related>
-            <reverse-related>Requiem Angel</reverse-related>
-            <reverse-related>Spectral Reserves</reverse-related>
-            <reverse-related>Mausoleum Guard</reverse-related>
             <reverse-related>Occult Epiphany</reverse-related>
-            <reverse-related>Hanged Executioner</reverse-related>
-            <reverse-related>Millicent, Restless Revenant</reverse-related>
-            <reverse-related>Kykar, Wind's Fury</reverse-related>
-            <reverse-related>Priest of the Blessed Graf</reverse-related>
-            <reverse-related>Thalisse, Reverent Medium</reverse-related>
-            <reverse-related>Sanctifier of Souls</reverse-related>
-            <reverse-related>Teysa, Orzhov Scion</reverse-related>
-            <reverse-related>Avacyn's Collar</reverse-related>
-            <reverse-related>Valor of the Worthy</reverse-related>
-            <reverse-related>Brine Comber // Brinebound Gift</reverse-related>
-            <reverse-related>Luminous Angel</reverse-related>
-            <reverse-related>Seize the Soul</reverse-related>
-            <reverse-related>Heron-Blessed Geist</reverse-related>
-            <reverse-related>Doomed Traveler</reverse-related>
-            <reverse-related>Midnight Haunting</reverse-related>
-            <reverse-related>Drogskol Cavalry</reverse-related>
-            <reverse-related>Spirit Cairn</reverse-related>
-            <reverse-related>Bishop of Wings</reverse-related>
-            <reverse-related>Twilight Drover</reverse-related>
-            <reverse-related>Path of the Ghosthunter</reverse-related>
-            <reverse-related>Shadow Summoning</reverse-related>
-            <reverse-related>March of Souls</reverse-related>
-            <reverse-related>Confront the Assault</reverse-related>
-            <reverse-related>Vessel of Ephemera</reverse-related>
-            <reverse-related>Dauntless Cathar</reverse-related>
-            <reverse-related>Ranar the Ever-Watchful</reverse-related>
-            <reverse-related>Custodi Soulbinders</reverse-related>
-            <reverse-related>Alharu, Solemn Ritualist</reverse-related>
-            <reverse-related>Clarion Spirit</reverse-related>
-            <reverse-related>Kaya, Geist Hunter</reverse-related>
-            <reverse-related>Not Forgotten</reverse-related>
-            <reverse-related>Geist-Honored Monk</reverse-related>
-            <reverse-related>Rousing of Souls</reverse-related>
-            <reverse-related>Andúril, Flame of the West</reverse-related>
-            <reverse-related>Haunted Library</reverse-related>
-            <reverse-related>Elgaud Inquisitor</reverse-related>
-            <reverse-related>Thalia's Geistcaller</reverse-related>
-            <reverse-related>Muster the Departed</reverse-related>
-            <reverse-related>Emissary of the Sleepless</reverse-related>
-            <reverse-related>Spirit Bonds</reverse-related>
-            <reverse-related>Transluminant</reverse-related>
-            <reverse-related>Court of Grace</reverse-related>
-            <reverse-related>Sandsteppe Outcast</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -22930,16 +21421,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Ryan Barger" picURL="https://cards.scryfall.io/large/front/2/d/2dde64e7-dff3-4495-9649-d4b1e91f1cf3.jpg?1789737362" uuid="2dde64e7-dff3-4495-9649-d4b1e91f1cf3" rarity="common" num="5">TFRC</set>
             <token>1</token>
-            <reverse-related>Najeela, the Blade-Blossom</reverse-related>
-            <reverse-related>Regna, the Redeemer</reverse-related>
-            <reverse-related>Mardu Charm</reverse-related>
-            <reverse-related>Blaring Recruiter</reverse-related>
-            <reverse-related>Take Up Arms</reverse-related>
-            <reverse-related>The Cave of Skulls</reverse-related>
-            <reverse-related>Herald of Anafenza</reverse-related>
-            <reverse-related>Secure the Wastes</reverse-related>
-            <reverse-related>The War Games</reverse-related>
-            <reverse-related>Mardu Hordechief</reverse-related>
+            <reverse-related count="x">Secure the Wastes</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -22968,10 +21450,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Maria Poliakova" picURL="https://cards.scryfall.io/large/front/0/5/0526330e-40eb-4c5f-b0f5-5489839e5f44.jpg?1789737431" uuid="0526330e-40eb-4c5f-b0f5-5489839e5f44" rarity="common" num="7">TFRC</set>
             <token>1</token>
-            <reverse-related>Girder Goons</reverse-related>
-            <reverse-related>Waste Management</reverse-related>
             <reverse-related>Currency Converter</reverse-related>
-            <reverse-related>Misfortune Teller</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -22986,29 +21465,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <set artist="David Astruga" picURL="https://cards.scryfall.io/large/front/1/4/14474e29-27a4-475a-9d2c-eb1d6c146421.jpg?1789737477" uuid="14474e29-27a4-475a-9d2c-eb1d6c146421" rarity="common" num="8">TFRC</set>
             <token>1</token>
             <reverse-related>Dreadhorde Invasion</reverse-related>
-            <reverse-related>Bleeding Edge</reverse-related>
-            <reverse-related>Eternal Skylord</reverse-related>
-            <reverse-related>Widespread Brutality</reverse-related>
-            <reverse-related>Toll of the Invasion</reverse-related>
-            <reverse-related>Crush Dissent</reverse-related>
-            <reverse-related>Dreadhorde Twins</reverse-related>
-            <reverse-related>Invade the City</reverse-related>
-            <reverse-related>Honor the God-Pharaoh</reverse-related>
-            <reverse-related>Vizier of the Scorpion</reverse-related>
-            <reverse-related>Enter the God-Eternals</reverse-related>
-            <reverse-related>Invading Manticore</reverse-related>
-            <reverse-related>Lazotep Reaver</reverse-related>
-            <reverse-related>Callous Dismissal</reverse-related>
-            <reverse-related>Grim Initiate</reverse-related>
-            <reverse-related>Herald of the Dreadhorde</reverse-related>
-            <reverse-related>Lazotep Plating</reverse-related>
-            <reverse-related>Aven Eternal</reverse-related>
-            <reverse-related>Mindless Conscription</reverse-related>
-            <reverse-related>Lazotep Chancellor</reverse-related>
-            <reverse-related>Angrath, Captain of Chaos</reverse-related>
-            <reverse-related>Relentless Advance</reverse-related>
-            <reverse-related>Gleaming Overseer</reverse-related>
-            <reverse-related>Commence the Endgame</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -23022,70 +21478,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Paolo Parente" picURL="https://cards.scryfall.io/large/front/0/c/0c7f299e-4774-4e8b-bb0e-db27d57d2621.jpg?1789737534" uuid="0c7f299e-4774-4e8b-bb0e-db27d57d2621" rarity="common" num="9">TFRC</set>
             <token>1</token>
-            <reverse-related>Box of Free-Range Goblins</reverse-related>
-            <reverse-related>Goblin Gathering</reverse-related>
-            <reverse-related>Blast from the Past</reverse-related>
-            <reverse-related>Legion Warboss</reverse-related>
-            <reverse-related>Squee, Dubious Monarch</reverse-related>
-            <reverse-related>Goblin Goliath</reverse-related>
-            <reverse-related>Kathari Bomber</reverse-related>
-            <reverse-related>Mogg Alarm</reverse-related>
-            <reverse-related>Goblin Rabblemaster</reverse-related>
-            <reverse-related>Goblin Offensive</reverse-related>
-            <reverse-related>Survey the Wreckage</reverse-related>
-            <reverse-related>Underfoot Underdogs</reverse-related>
-            <reverse-related>Empty the Warrens</reverse-related>
-            <reverse-related>Warbreak Trumpeter</reverse-related>
-            <reverse-related>Goblinslide</reverse-related>
-            <reverse-related>Goblin Marshal</reverse-related>
-            <reverse-related>Sling-Gang Lieutenant</reverse-related>
-            <reverse-related>Tin Street Cadet</reverse-related>
-            <reverse-related>Goblin Morningstar</reverse-related>
             <reverse-related>Windcrag Siege</reverse-related>
-            <reverse-related>Ib Halfheart, Goblin Tactician</reverse-related>
-            <reverse-related>Krenko, Mob Boss</reverse-related>
-            <reverse-related>Swarming Goblins</reverse-related>
-            <reverse-related>Rulik Mons, Warren Chief</reverse-related>
-            <reverse-related>You See a Pair of Goblins</reverse-related>
-            <reverse-related>Goblin Negotiation</reverse-related>
-            <reverse-related>Goblin Surprise</reverse-related>
-            <reverse-related>A Killer Among Us</reverse-related>
-            <reverse-related>Goblin Gang Leader</reverse-related>
-            <reverse-related>Mogg War Marshal</reverse-related>
-            <reverse-related>Searslicer Goblin</reverse-related>
-            <reverse-related>Goblin Instigator</reverse-related>
-            <reverse-related>Ainok Strike Leader</reverse-related>
-            <reverse-related>Ponyback Brigade</reverse-related>
-            <reverse-related>Krenko, Baron of Tin Street</reverse-related>
-            <reverse-related>Jund</reverse-related>
-            <reverse-related>Goblin Rally</reverse-related>
-            <reverse-related>Krenko's Command</reverse-related>
-            <reverse-related>Siege-Gang Lieutenant</reverse-related>
-            <reverse-related>Garbage Elemental</reverse-related>
-            <reverse-related>Hordeling Outburst</reverse-related>
-            <reverse-related>Mardu Ascendancy</reverse-related>
-            <reverse-related>Frontline Rush</reverse-related>
-            <reverse-related>Ardoz, Cobbler of War</reverse-related>
-            <reverse-related>Pashalik Mons</reverse-related>
-            <reverse-related>Goblin Warrens</reverse-related>
-            <reverse-related>Rasputin, the Oneiromancer</reverse-related>
-            <reverse-related>Neriv, Crackling Vanguard</reverse-related>
-            <reverse-related>Howlsquad Heavy</reverse-related>
-            <reverse-related>Mogg Infestation</reverse-related>
-            <reverse-related>Dragon Fodder</reverse-related>
-            <reverse-related>Goblin Assault</reverse-related>
-            <reverse-related>General Kreat, the Boltbringer</reverse-related>
-            <reverse-related>Siege-Gang Commander</reverse-related>
-            <reverse-related>Battle Cry Goblin</reverse-related>
-            <reverse-related>Krenko, Tin Street Kingpin</reverse-related>
-            <reverse-related>Hunted Phantasm</reverse-related>
-            <reverse-related>Kuldotha Rebirth</reverse-related>
-            <reverse-related>Den of the Bugbear</reverse-related>
-            <reverse-related>Beetleback Chief</reverse-related>
-            <reverse-related>Sarpadian Empires, Vol. VII</reverse-related>
-            <reverse-related>Goblin War Party</reverse-related>
-            <reverse-related>Gift Horse</reverse-related>
-            <reverse-related>Goblin Traprunner</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -23100,9 +21493,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <set artist="Paolo Parente" picURL="https://cards.scryfall.io/large/front/d/0/d0d630b2-1e42-4cf7-bfa1-36d5c135877b.jpg?1789737548" uuid="d0d630b2-1e42-4cf7-bfa1-36d5c135877b" rarity="common" num="10">TFRC</set>
             <token>1</token>
             <reverse-related>Kher Keep</reverse-related>
-            <reverse-related>Prossh, Skyraider of Kher</reverse-related>
-            <reverse-related>Rosnakht, Heir of Rohgahh</reverse-related>
-            <reverse-related>Rohgahh, Kher Keep Overlord</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -23116,29 +21506,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Maria Poliakova" picURL="https://cards.scryfall.io/large/front/b/7/b7171de9-476d-4bfa-8cc0-b4fbc168cf4d.jpg?1789737561" uuid="b7171de9-476d-4bfa-8cc0-b4fbc168cf4d" rarity="common" num="11">TFRC</set>
             <token>1</token>
-            <reverse-related>Courier's Briefcase</reverse-related>
-            <reverse-related>Master of Ceremonies</reverse-related>
-            <reverse-related>Rope Line Attendant</reverse-related>
-            <reverse-related>Rabble Rousing</reverse-related>
-            <reverse-related>Halo Fountain</reverse-related>
-            <reverse-related>Cabaretti Charm</reverse-related>
-            <reverse-related>Warm Welcome</reverse-related>
-            <reverse-related>Boss's Chauffeur</reverse-related>
-            <reverse-related>Citizen's Crowbar</reverse-related>
-            <reverse-related>Phabine, Boss's Confidant</reverse-related>
-            <reverse-related>Sanctuary Warden</reverse-related>
-            <reverse-related>Origin of the Hulk</reverse-related>
-            <reverse-related>Exhibition Magician</reverse-related>
-            <reverse-related>Rakish Revelers</reverse-related>
-            <reverse-related>Darling of the Masses</reverse-related>
-            <reverse-related>Prosperous Partnership</reverse-related>
-            <reverse-related>Luxurious Libation</reverse-related>
-            <reverse-related>Indulge // Excess</reverse-related>
-            <reverse-related>Kitt Kanto, Mayhem Diva</reverse-related>
-            <reverse-related>Scepter of Celebration</reverse-related>
-            <reverse-related>Stimulus Package</reverse-related>
-            <reverse-related>Grand Crescendo</reverse-related>
-            <reverse-related>Caldaia Guardian</reverse-related>
+            <reverse-related count="x">Grand Crescendo</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -23169,38 +21537,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Johann Bodin" picURL="https://cards.scryfall.io/large/front/7/b/7b7f2e3a-ec43-4408-affd-a09338566ce3.jpg?1789599993" uuid="7b7f2e3a-ec43-4408-affd-a09338566ce3" rarity="common" num="13">TFRC</set>
             <token>1</token>
-            <reverse-related>Phyrexian Awakening</reverse-related>
-            <reverse-related>Marauding Dreadship</reverse-related>
-            <reverse-related>Glistening Dawn</reverse-related>
-            <reverse-related>Corruption of Towashi</reverse-related>
-            <reverse-related>Tangled Skyline</reverse-related>
-            <reverse-related>Merciless Repurposing</reverse-related>
-            <reverse-related>Progenitor Exarch</reverse-related>
-            <reverse-related>Ichor Drinker</reverse-related>
-            <reverse-related>Essence of Orthodoxy</reverse-related>
-            <reverse-related>Blighted Burgeoning</reverse-related>
-            <reverse-related>Injector Crocodile</reverse-related>
-            <reverse-related>Elesh Norn // The Argent Etchings</reverse-related>
-            <reverse-related>Compleated Huntmaster</reverse-related>
-            <reverse-related>Eyes of Gitaxias</reverse-related>
-            <reverse-related>Converter Beast</reverse-related>
-            <reverse-related>Chrome Host Seedshark</reverse-related>
-            <reverse-related>Sunder the Gateway</reverse-related>
-            <reverse-related>Norn's Inquisitor</reverse-related>
-            <reverse-related>Sculpted Perfection</reverse-related>
-            <reverse-related>Searing Barb</reverse-related>
-            <reverse-related>Glissa, Herald of Predation</reverse-related>
-            <reverse-related>Assimilate Essence</reverse-related>
-            <reverse-related>Brimaz, Blight of Oreskos</reverse-related>
-            <reverse-related>Tiller of Flesh</reverse-related>
-            <reverse-related>Elvish Vatkeeper</reverse-related>
-            <reverse-related>Furnace Gremlin</reverse-related>
-            <reverse-related>Gift of Compleation</reverse-related>
-            <reverse-related>Infected Defector</reverse-related>
-            <reverse-related>Bloated Processor</reverse-related>
-            <reverse-related>Excise the Imperfect</reverse-related>
-            <reverse-related>Traumatic Revelation</reverse-related>
-            <reverse-related>Blight Titan</reverse-related>
             <reverse-related>Sunfall</reverse-related>
             <tablerow>2</tablerow>
         </card>
@@ -23214,19 +21550,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Francesca Baerald" picURL="https://cards.scryfall.io/large/front/9/1/91613970-c25c-4959-b5b0-b6e2a7657634.jpg?1789737819" uuid="91613970-c25c-4959-b5b0-b6e2a7657634" rarity="common" num="14">TFRC</set>
             <token>1</token>
-            <reverse-related>Topography Tracker</reverse-related>
-            <reverse-related>Fanatical Offering</reverse-related>
-            <reverse-related>Cartographer's Companion</reverse-related>
-            <reverse-related>Landlore Navigator</reverse-related>
-            <reverse-related>Brackish Blunder</reverse-related>
-            <reverse-related>Spyglass Siren</reverse-related>
-            <reverse-related>Get Lost</reverse-related>
-            <reverse-related>Storm Fleet Negotiator</reverse-related>
-            <reverse-related>Kellan, Daring Traveler // Journey On</reverse-related>
             <reverse-related>Restless Anchorage</reverse-related>
-            <reverse-related>Worldwalker Helm</reverse-related>
-            <reverse-related>Sentinel of the Nameless City</reverse-related>
-            <reverse-related>Waterwind Scout</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -23239,17 +21563,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Michele Giorgi" picURL="https://cards.scryfall.io/large/front/e/4/e41f83c6-c20f-455a-b630-5fad99fa54ad.jpg?1789737643" uuid="e41f83c6-c20f-455a-b630-5fad99fa54ad" rarity="common" num="15">TFRC</set>
             <token>1</token>
-            <reverse-related>Genesis Chamber</reverse-related>
-            <reverse-related>Origin Spellbomb</reverse-related>
-            <reverse-related>Myr Matrix</reverse-related>
-            <reverse-related>Urtet, Remnant of Memnarch</reverse-related>
-            <reverse-related>Mirrodin Besieged</reverse-related>
-            <reverse-related>Myrsmith</reverse-related>
-            <reverse-related>Myr Turbine</reverse-related>
-            <reverse-related>Myr Battlesphere</reverse-related>
-            <reverse-related>Myr Incubator</reverse-related>
-            <reverse-related>Master's Call</reverse-related>
-            <reverse-related>Memnarch, the Warden</reverse-related>
+            <reverse-related count="x">Memnarch, the Warden</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -23265,17 +21579,7 @@ This creature can't block.</text>
             <set artist="Oriana Menendez" picURL="https://cards.scryfall.io/large/front/e/9/e9c68c64-f3b9-45b7-83d1-bd1439a49942.jpg?1789737661" uuid="e9c68c64-f3b9-45b7-83d1-bd1439a49942" rarity="common" num="16">TFRC</set>
             <token>1</token>
             <reverse-related>Skrelv's Hive</reverse-related>
-            <reverse-related>Mirrex</reverse-related>
-            <reverse-related>Stinging Hivemaster</reverse-related>
-            <reverse-related>Ria Ivor, Bane of Bladehold</reverse-related>
-            <reverse-related>Vishgraz, the Doomhive</reverse-related>
-            <reverse-related>Basilica Shepherd</reverse-related>
-            <reverse-related>Indoctrination Attendant</reverse-related>
-            <reverse-related>Crawling Chorus</reverse-related>
-            <reverse-related>White Sun's Twilight</reverse-related>
-            <reverse-related>Mite Overseer</reverse-related>
-            <reverse-related>Infested Fleshcutter</reverse-related>
-            <reverse-related>Charge of the Mites</reverse-related>
+            <reverse-related count="x">White Sun's Twilight</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -23289,57 +21593,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Lauren Ayrey" picURL="https://cards.scryfall.io/large/front/1/1/11608fa5-2c53-4008-ad82-555380f5e6f1.jpg?1789799963" uuid="11608fa5-2c53-4008-ad82-555380f5e6f1" rarity="common" num="17">TFRC</set>
             <token>1</token>
-            <reverse-related>Custodi Lich</reverse-related>
-            <reverse-related>Court of Ire</reverse-related>
-            <reverse-related>Palace Jailer</reverse-related>
-            <reverse-related>Grave Venerations</reverse-related>
-            <reverse-related>Court of Garenbrig</reverse-related>
-            <reverse-related>Keeper of Keys</reverse-related>
-            <reverse-related>Entourage of Trest</reverse-related>
-            <reverse-related>Court of Cunning</reverse-related>
-            <reverse-related>Forth Eorlingas!</reverse-related>
-            <reverse-related>Regal Sliver</reverse-related>
-            <reverse-related>Starscream, Power Hungry // Starscream, Seeker Leader</reverse-related>
-            <reverse-related>Oath of Eorl</reverse-related>
-            <reverse-related>Champions of Minas Tirith</reverse-related>
-            <reverse-related>Faramir, Steward of Gondor</reverse-related>
-            <reverse-related>Emberwilde Captain</reverse-related>
-            <reverse-related>Éomer, King of Rohan</reverse-related>
-            <reverse-related>Court of Locthwain</reverse-related>
-            <reverse-related>Archon of Coronation</reverse-related>
-            <reverse-related>Court of Ambition</reverse-related>
-            <reverse-related>Denethor, Stone Seer</reverse-related>
-            <reverse-related>Chief Magistrate of Mercadia</reverse-related>
-            <reverse-related>Regal Behemoth</reverse-related>
-            <reverse-related>Court of Embereth</reverse-related>
-            <reverse-related>Throne of the High City</reverse-related>
-            <reverse-related>Knights of the Black Rose</reverse-related>
-            <reverse-related>Archivist of Gondor</reverse-related>
-            <reverse-related>Thorn of the Black Rose</reverse-related>
-            <reverse-related>Court of Vantress</reverse-related>
-            <reverse-related>Azure Fleet Admiral</reverse-related>
-            <reverse-related>Jared Carthalion, True Heir</reverse-related>
-            <reverse-related>Throne Warden</reverse-related>
-            <reverse-related>Dawnglade Regent</reverse-related>
-            <reverse-related>Court of Ardenvale</reverse-related>
-            <reverse-related>Aragorn, King of Gondor</reverse-related>
-            <reverse-related>Fealty to the Realm</reverse-related>
-            <reverse-related>Skyline Despot</reverse-related>
-            <reverse-related>Feast of Succession</reverse-related>
-            <reverse-related>Paliano</reverse-related>
-            <reverse-related>Staunch Throneguard</reverse-related>
-            <reverse-related>Palace Sentinels</reverse-related>
-            <reverse-related>Crimson Fleet Commodore</reverse-related>
-            <reverse-related>Queen Marchesa</reverse-related>
-            <reverse-related>Coin of Fate</reverse-related>
-            <reverse-related>Marchesa's Decree</reverse-related>
-            <reverse-related>Court of Bounty</reverse-related>
-            <reverse-related>Fall from Favor</reverse-related>
-            <reverse-related>Canal Courier</reverse-related>
-            <reverse-related>Protector of the Crown</reverse-related>
-            <reverse-related>Court of Grace</reverse-related>
-            <reverse-related>Crown of Gondor</reverse-related>
-            <reverse-related>Crown-Hunter Hireling</reverse-related>
+            <reverse-related count="x">Chief Magistrate of Mercadia</reverse-related>
             <tablerow>2</tablerow>
         </card>
         <card>
