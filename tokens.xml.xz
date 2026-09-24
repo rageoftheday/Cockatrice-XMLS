@@ -2304,8 +2304,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <reverse-related>Courier's Briefcase</reverse-related>
             <reverse-related>Darling of the Masses</reverse-related>
             <reverse-related>Exhibition Magician</reverse-related>
-            <reverse-related count="x">Grand Crescendo</reverse-related>
-            <reverse-related>Halo Fountain</reverse-related>
+<reverse-related>Halo Fountain</reverse-related>
             <reverse-related count="x">Indulge // Excess</reverse-related>
             <reverse-related>Kitt Kanto, Mayhem Diva</reverse-related>
             <reverse-related>Luxurious Libation</reverse-related>
