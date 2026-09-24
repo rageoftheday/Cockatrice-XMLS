@@ -398,7 +398,6 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <reverse-related>Sigil of the Empty Throne</reverse-related>
             <reverse-related>Speaker of the Heavens</reverse-related>
             <reverse-related>Urbis Protector</reverse-related>
-            <reverse-related>Ob Nixilis, the Ascended</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -2304,7 +2303,6 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <reverse-related>Courier's Briefcase</reverse-related>
             <reverse-related>Darling of the Masses</reverse-related>
             <reverse-related>Exhibition Magician</reverse-related>
-            <reverse-related count="x">Grand Crescendo</reverse-related>
             <reverse-related>Halo Fountain</reverse-related>
             <reverse-related count="x">Indulge // Excess</reverse-related>
             <reverse-related>Kitt Kanto, Mayhem Diva</reverse-related>
@@ -2521,7 +2519,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Fire Nation Raider</reverse-related>
             <reverse-related>Fire Nation Warship</reverse-related>
             <reverse-related>Fleeting Memories</reverse-related>
-            <reverse-related count="x">Flitwing, Lyev Detective</reverse-related>
             <reverse-related>Floodhound</reverse-related>
             <reverse-related>Flotsam // Jetsam</reverse-related>
             <reverse-related>Follow the Bodies</reverse-related>
@@ -2643,6 +2640,7 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Wojek Investigator</reverse-related>
             <reverse-related count="x" exclude="exclude">Wojek Investigator</reverse-related>
             <reverse-related>Zuko's Exile</reverse-related>
+            <reverse-related count="x">Flitwing, Lyev Detective</reverse-related>
             <reverse-related>In the Pale Moonlight</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
@@ -5430,7 +5428,6 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related count="x" exclude="exclude">Insatiable Frugivore</reverse-related>
             <reverse-related>Intrepid Trufflesnout // Go Hog Wild</reverse-related>
             <reverse-related exclude="exclude">Iroh, Tea Master</reverse-related>
-            <reverse-related count="x">Jandor, Fortuned Traveler</reverse-related>
             <reverse-related count="x">Killer Service</reverse-related>
             <reverse-related>Late to Dinner</reverse-related>
             <reverse-related>Leaves from the Vine</reverse-related>
@@ -5438,7 +5435,6 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Lucky the Pizza Dog</reverse-related>
             <reverse-related>Madame Vastra</reverse-related>
             <reverse-related>Many Partings</reverse-related>
-            <reverse-related>Meatsqueak, Hoard Lord</reverse-related>
             <reverse-related>Meriadoc Brandybuck</reverse-related>
             <reverse-related>Michelangelo, the Heart</reverse-related>
             <reverse-related>Midnight Snack</reverse-related>
@@ -5453,7 +5449,6 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Oko, Thief of Crowns</reverse-related>
             <reverse-related>Old Flitterfang</reverse-related>
             <reverse-related count="2">Orchard Strider</reverse-related>
-            <reverse-related>Overcooked</reverse-related>
             <reverse-related>Overencumbered</reverse-related>
             <reverse-related count="x=2">Party Dude</reverse-related>
             <reverse-related>Pawpatch Formation</reverse-related>
@@ -5531,6 +5526,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Tasteful Offering</reverse-related>
             <reverse-related>The Zonian Brawler</reverse-related>
             <reverse-related count="x">Trash Panda</reverse-related>
+            <reverse-related>Meatsqueak, Hoard Lord</reverse-related>
             <reverse-related>The Companion of the Wilds</reverse-related>
             <reverse-related>Bram, Baguette Brawler</reverse-related>
             <reverse-related>The Cookout Creator</reverse-related>
@@ -5542,6 +5538,7 @@ When this creature enters, target creature you control gains flying until end of
             <reverse-related>Oyaminartok, Polar Werebear</reverse-related>
             <reverse-related>Bilbo, Fellow Conspirator</reverse-related>
             <reverse-related>The Caffeinated Runner</reverse-related>
+            <reverse-related>Overcooked</reverse-related>
             <reverse-related count="2">Potatoes</reverse-related>
             <reverse-related>Bin Chicken</reverse-related>
             <reverse-related count="2">Urza's Hot Dog Stand</reverse-related>
@@ -6169,7 +6166,6 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
             <reverse-related count="x">Swarming Goblins</reverse-related>
             <reverse-related>Underfoot Underdogs</reverse-related>
             <reverse-related count="x">Warbreak Trumpeter</reverse-related>
-            <reverse-related>Windcrag Siege</reverse-related>
             <reverse-related count="2">You See a Pair of Goblins</reverse-related>
             <reverse-related>A-Rulik Mons, Warren Chief</reverse-related>
             <reverse-related>Blast from the Past</reverse-related>
@@ -6204,7 +6200,6 @@ At the beginning of your upkeep, this creature deals 1 damage to you.</text>
                 <pt>2/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/7/2/72230a1b-90ba-4564-9164-90cffdf34b93.jpg?1577661705" uuid="72230a1b-90ba-4564-9164-90cffdf34b93" num="6">GK2</set>
-            <reverse-related>Chief Magistrate of Mercadia</reverse-related>
             <reverse-related>Rakdos Guildmage</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -7988,7 +7983,6 @@ Equip {2}</text>
                 <pt>2/1</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/b/8/b802aea8-0ca3-4d2c-a8ef-a80e16729c9b.jpg?1726236464" uuid="b802aea8-0ca3-4d2c-a8ef-a80e16729c9b" num="5">DSK</set>
-            <reverse-related count="2">Overlord of the Mistmoors</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -8448,7 +8442,6 @@ Flanking</text>
             <set picURL="https://cards.scryfall.io/large/front/3/c/3c9bfd0a-9a31-4191-a615-a747cbca2015.jpg?1675456020" uuid="3c9bfd0a-9a31-4191-a615-a747cbca2015" num="35">CLB</set>
             <set picURL="https://cards.scryfall.io/large/front/4/f/4f4e8e64-7caa-4d98-8e20-0a4a20056143.jpg?1641306038" uuid="4f4e8e64-7caa-4d98-8e20-0a4a20056143" num="9">TSR</set>
             <set picURL="https://cards.scryfall.io/large/front/d/f/dfc03591-1114-4e36-a397-0bb3db8a153c.jpg?1562702392" uuid="dfc03591-1114-4e36-a397-0bb3db8a153c" num="10">A25</set>
-            <reverse-related>Kher Keep</reverse-related>
             <reverse-related count="x">Prossh, Skyraider of Kher</reverse-related>
             <reverse-related>Rohgahh, Kher Keep Overlord</reverse-related>
             <reverse-related count="x" exclude="exclude">Rohgahh, Kher Keep Overlord</reverse-related>
@@ -8851,7 +8844,6 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <reverse-related>Fanatical Offering</reverse-related>
             <reverse-related count="2">Get Lost</reverse-related>
             <reverse-related count="x">Kellan, Daring Traveler // Journey On</reverse-related>
-            <reverse-related>Restless Anchorage</reverse-related>
             <reverse-related>Sentinel of the Nameless City</reverse-related>
             <reverse-related>Spyglass Siren</reverse-related>
             <reverse-related count="x">Storm Fleet Negotiator</reverse-related>
@@ -8860,6 +8852,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
             <reverse-related>Worldwalker Helm</reverse-related>
             <reverse-related>Fblthp: Completely, Utterly, Totally Lost</reverse-related>
             <reverse-related>Landlore Navigator</reverse-related>
+            <reverse-related>Restless Anchorage</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -8982,7 +8975,6 @@ Flying, vigilance, trample, lifelink, haste</text>
             <reverse-related>A Killer Among Us</reverse-related>
             <reverse-related>Daughter of the Deep</reverse-related>
             <reverse-related>Emperor Mihail II</reverse-related>
-            <reverse-related count="x">Grandmother Goby</reverse-related>
             <reverse-related>Lullmage Mentor</reverse-related>
             <reverse-related count="x">Namor the Sub-Mariner</reverse-related>
             <reverse-related>Namor, Atlantean King</reverse-related>
@@ -9597,7 +9589,6 @@ A card with morph can be turned face up any time for its morph cost.)</text>
             <reverse-related>Origin Spellbomb</reverse-related>
             <reverse-related>Urtet, Remnant of Memnarch</reverse-related>
             <reverse-related>Ghalma the Shaper</reverse-related>
-            <reverse-related count="2">Memnarch, the Warden</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -10555,10 +10546,8 @@ This creature can't block.</text>
             <reverse-related>Mirrex</reverse-related>
             <reverse-related>Mite Overseer</reverse-related>
             <reverse-related count="x">Ria Ivor, Bane of Bladehold</reverse-related>
-            <reverse-related>Skrelv's Hive</reverse-related>
             <reverse-related>Stinging Hivemaster</reverse-related>
             <reverse-related count="3">Vishgraz, the Doomhive</reverse-related>
-            <reverse-related count="x">White Sun's Twilight</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -11629,7 +11618,6 @@ Equip {1}</text>
             <set picURL="https://cards.scryfall.io/large/front/8/0/80244f4b-3361-4776-a72b-1b0d70c7e855.jpg?1775827426" uuid="80244f4b-3361-4776-a72b-1b0d70c7e855" num="10">SOC</set>
             <set picURL="https://cards.scryfall.io/large/front/2/4/245c0d1e-7bf5-4115-b018-cbeaccdfaf77.jpg?1712319623" uuid="245c0d1e-7bf5-4115-b018-cbeaccdfaf77" num="9">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/0/6/06e503b9-a822-4c42-b478-1f598bc5941d.jpg?1674337917" uuid="06e503b9-a822-4c42-b478-1f598bc5941d" num="7">SNC</set>
-            <reverse-related>Currency Converter</reverse-related>
             <reverse-related>Girder Goons</reverse-related>
             <reverse-related>Misfortune Teller</reverse-related>
             <reverse-related count="x">Waste Management</reverse-related>
@@ -11760,7 +11748,7 @@ Equip {1}</text>
                 <cmc>0</cmc>
             </prop>
             <set picURL="">MBC</set>
-            <reverse-related count="x">Zagorka, Mother of Sanctum</reverse-related>
+            <reverse-related>Zagorka, Mother of Sanctum</reverse-related>
             <token>1</token>
             <tablerow>0</tablerow>
         </card>
@@ -12296,7 +12284,6 @@ Deathtouch</text>
             <set picURL="https://cards.scryfall.io/large/front/8/b/8b32dec0-a3b6-4f64-9c02-2248ae33647c.jpg?1726237068" uuid="8b32dec0-a3b6-4f64-9c02-2248ae33647c" num="4">DSC</set>
             <set picURL="https://cards.scryfall.io/large/front/1/8/18d590bd-1fa6-4a38-9297-6601b1b704d5.jpg?1712319572" uuid="18d590bd-1fa6-4a38-9297-6601b1b704d5" num="6">OTC</set>
             <set picURL="https://cards.scryfall.io/large/front/3/0/30d12226-6417-4b98-beb5-89a36c774141.jpg?1681080954" uuid="30d12226-6417-4b98-beb5-89a36c774141" num="7">IKO</set>
-            <reverse-related>Shark Typhoon</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -12837,12 +12824,10 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
             <reverse-related count="3">Elspeth's Talent</reverse-related>
             <reverse-related>Elspeth, Knight-Errant</reverse-related>
             <reverse-related count="2">Elspeth, Storm Slayer</reverse-related>
-            <reverse-related count="3">Elspeth, Sun's Champion</reverse-related>
             <reverse-related count="x">Entrapment Maneuver</reverse-related>
             <reverse-related count="x">Evangel of Heliod</reverse-related>
             <reverse-related count="3">Even the Odds</reverse-related>
             <reverse-related>First Response</reverse-related>
-            <reverse-related count="x">Grizzlegom, Hurloon Hero</reverse-related>
             <reverse-related count="x">Heidegger, Shinra Executive</reverse-related>
             <reverse-related count="2">Hero of Bladehold</reverse-related>
             <reverse-related count="2">Heroic Reinforcements</reverse-related>
@@ -12861,7 +12846,6 @@ When enchanted creature dies, it deals 1 damage to its controller and you create
             <reverse-related count="x">Launch the Fleet</reverse-related>
             <reverse-related count="x">Lena, Selfless Champion</reverse-related>
             <reverse-related count="x">Lieutenants of the Guard</reverse-related>
-            <reverse-related count="x">Martial Coup</reverse-related>
             <reverse-related count="2">Memorial to Glory</reverse-related>
             <reverse-related attach="attach">Midnight Angel Armor</reverse-related>
             <reverse-related>Mobilization</reverse-related>
@@ -13448,7 +13432,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related count="2">Kirtar's Wrath</reverse-related>
             <reverse-related>Kykar, Wind's Fury</reverse-related>
             <reverse-related>Kykar, Zephyr Awakener</reverse-related>
-            <reverse-related count="2">Lingering Souls</reverse-related>
             <reverse-related>Luminous Angel</reverse-related>
             <reverse-related count="x">March of Souls</reverse-related>
             <reverse-related count="2">Mausoleum Guard</reverse-related>
@@ -13461,7 +13444,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related>Not Forgotten</reverse-related>
             <reverse-related>Nurturing Presence</reverse-related>
             <reverse-related count="3" exclude="exclude">Oath of the Grey Host</reverse-related>
-            <reverse-related count="x">Occult Epiphany</reverse-related>
             <reverse-related count="x">Path of the Ghosthunter</reverse-related>
             <reverse-related>Priest of the Blessed Graf</reverse-related>
             <reverse-related>Ranar the Ever-Watchful</reverse-related>
@@ -13476,7 +13458,6 @@ At the beginning of the end step, sacrifice Spark Elemental.</text>
             <reverse-related count="2">Spectral Reserves</reverse-related>
             <reverse-related>Spirit Bonds</reverse-related>
             <reverse-related>Spirit Cairn</reverse-related>
-            <reverse-related>Staff of the Storyteller</reverse-related>
             <reverse-related>Summoner's Sending</reverse-related>
             <reverse-related>Teysa, Orzhov Scion</reverse-related>
             <reverse-related>Thalia's Geistcaller</reverse-related>
@@ -14833,7 +14814,6 @@ The Void attacks each combat if able.</text>
             <reverse-related count="x">Cavern-Hoard Dragon</reverse-related>
             <reverse-related count="3">Centrifuge</reverse-related>
             <reverse-related>Charming Scoundrel</reverse-related>
-            <reverse-related>Chira, All In</reverse-related>
             <reverse-related>City of Death</reverse-related>
             <reverse-related count="2">Cloud, Ex-SOLDIER</reverse-related>
             <reverse-related>Coin of Mastery</reverse-related>
@@ -14848,7 +14828,6 @@ The Void attacks each combat if able.</text>
             <reverse-related exclude="exclude">Creative Outburst</reverse-related>
             <reverse-related>Crossover Collaboration</reverse-related>
             <reverse-related count="x">Culmination of Studies</reverse-related>
-            <reverse-related>Currency Converter</reverse-related>
             <reverse-related count="x">Cutthroat Negotiator</reverse-related>
             <reverse-related>Daily Bugle Newspaper</reverse-related>
             <reverse-related>Deadeye Plunderers</reverse-related>
@@ -15179,6 +15158,7 @@ The Void attacks each combat if able.</text>
             <reverse-related>Kamachal, Ship's Mascot</reverse-related>
             <reverse-related count="2">Chaos Balor</reverse-related>
             <reverse-related>Crucias, Titan of the Waves</reverse-related>
+            <reverse-related>Chira, All In</reverse-related>
             <reverse-related>Impetuous Lootmonger</reverse-related>
             <reverse-related count="2">A-Most Wanted</reverse-related>
             <reverse-related count="x">Tax Taker</reverse-related>
@@ -15203,6 +15183,7 @@ The Void attacks each combat if able.</text>
             <reverse-related>A-Exhibition Magician</reverse-related>
             <reverse-related>Mana Max, Afterburner</reverse-related>
             <reverse-related>Vraska, the Cutting Glare</reverse-related>
+            <reverse-related>Currency Converter</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -16090,7 +16071,6 @@ Whenever you cast a creature spell, note one of its creature types that hasn't b
             <reverse-related>Mardu Hordechief</reverse-related>
             <reverse-related count="x">Najeela, the Blade-Blossom</reverse-related>
             <reverse-related count="2">Regna, the Redeemer</reverse-related>
-            <reverse-related count="x">Secure the Wastes</reverse-related>
             <reverse-related count="3">Take Up Arms</reverse-related>
             <reverse-related count="2">The Cave of Skulls</reverse-related>
             <reverse-related count="3">The War Games</reverse-related>
@@ -16707,7 +16687,6 @@ Equip {1}</text>
             <reverse-related>Callous Dismissal</reverse-related>
             <reverse-related>Commence the Endgame</reverse-related>
             <reverse-related>Crush Dissent</reverse-related>
-            <reverse-related>Dreadhorde Invasion</reverse-related>
             <reverse-related>Dreadhorde Twins</reverse-related>
             <reverse-related>Enter the God-Eternals</reverse-related>
             <reverse-related>Eternal Skylord</reverse-related>
@@ -17022,7 +17001,6 @@ Equip {1}</text>
             <reverse-related>The Fourth Sphere</reverse-related>
             <reverse-related exclude="exclude">The Necrobloom</reverse-related>
             <reverse-related count="x" exclude="exclude">The Necrobloom</reverse-related>
-            <reverse-related>Thomil, the Destroyer</reverse-related>
             <reverse-related count="x">Tobias, Doomed Conqueror</reverse-related>
             <reverse-related>Tormod, the Desecrator</reverse-related>
             <reverse-related>Tymaret Calls the Dead</reverse-related>
@@ -17553,7 +17531,7 @@ Throne of the Dead Three ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã�
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/3/1/3143984b-9798-4062-9a91-8ee139c3448e.jpg?1689710301" uuid="3143984b-9798-4062-9a91-8ee139c3448e" num="79">CMM</set>
             <set picURL="https://cards.scryfall.io/large/front/5/0/50ce1db3-417c-4c22-84e5-c463addde476.jpg?1562639801" uuid="50ce1db3-417c-4c22-84e5-c463addde476" num="10">KLD</set>
-            <reverse-related exclude="exclude">Chandra, Torch of Defiance</reverse-related>
+            <reverse-related>Chandra, Torch of Defiance</reverse-related>
             <token>1</token>
             <tablerow>1</tablerow>
         </card>
@@ -19601,7 +19579,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>Azure Fleet Admiral</reverse-related>
             <reverse-related>Canal Courier</reverse-related>
             <reverse-related>Champions of Minas Tirith</reverse-related>
-            <reverse-related exclude="exclude">Chief Magistrate of Mercadia</reverse-related>
             <reverse-related>Coin of Fate</reverse-related>
             <reverse-related>Court of Ambition</reverse-related>
             <reverse-related>Court of Ardenvale</reverse-related>
@@ -20822,6 +20799,7 @@ This creature can't block.</text>
                 <pt>4/4</pt>
             </prop>
             <set artist="Magali Villeneuve" picURL="https://cards.scryfall.io/large/front/d/4/d41f6ac8-6aa3-45b8-8ab3-8c6065e842be.jpg?1789754484" uuid="d41f6ac8-6aa3-45b8-8ab3-8c6065e842be" rarity="common" num="2">TFDC</set>
+            <reverse-related>Ob Nixilis, the Ascended</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -20836,6 +20814,9 @@ This creature can't block.</text>
                 <pt>1/1</pt>
             </prop>
             <set artist="Ryan Yee" picURL="https://cards.scryfall.io/large/front/9/c/9ca99f61-a1cd-4c61-9e0a-791b5f211f56.jpg?1789754732" uuid="9ca99f61-a1cd-4c61-9e0a-791b5f211f56" rarity="common" num="3">TFDC</set>
+            <reverse-related>Staff of the Storyteller</reverse-related>
+            <reverse-related count="x">Occult Epiphany</reverse-related>
+            <reverse-related count="2">Lingering Souls</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -20905,6 +20886,7 @@ This creature can't block.</text>
                 <pt>5/5</pt>
             </prop>
             <set artist="Alex Konstad" picURL="https://cards.scryfall.io/large/front/4/f/4fbb6ef8-cf45-476b-8985-36023b6884ee.jpg?1789754607" uuid="4fbb6ef8-cf45-476b-8985-36023b6884ee" rarity="common" num="8">TFDC</set>
+            <reverse-related>Kiora of Fire and Ashes</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -20984,6 +20966,7 @@ This creature can't block.</text>
                 <pt>1/1</pt>
             </prop>
             <set artist="Ryan Pancoast" picURL="https://cards.scryfall.io/large/front/3/4/345a3db8-90f4-4574-8040-e0fa4ea6b3e6.jpg?1789754779" uuid="345a3db8-90f4-4574-8040-e0fa4ea6b3e6" rarity="common" num="14">TFDC</set>
+            <reverse-related count="2">Memnarch, the Warden</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -20997,6 +20980,9 @@ This creature can't block.</text>
                 <pt>1/1</pt>
             </prop>
             <set artist="Svetlin Velinov" picURL="https://cards.scryfall.io/large/front/3/5/3597cf76-f0db-4d2c-b01c-d518d7c7a764.jpg?1789754755" uuid="3597cf76-f0db-4d2c-b01c-d518d7c7a764" rarity="common" num="15">TFDC</set>
+            <reverse-related>Pia, Determined Rebuilder</reverse-related>
+            <reverse-related>Saheeli, Jewel of Avishkar</reverse-related>
+            <reverse-related>Saheeli, Consul of Oversight</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21171,8 +21157,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="LoÃƒÆ’Ã‚Â¯c Canavaggia" picURL="https://cards.scryfall.io/large/front/9/9/991a5840-adc7-45b5-8d5f-b24dae384bab.jpg?1789734473" uuid="991a5840-adc7-45b5-8d5f-b24dae384bab" rarity="common" num="7">TFRA</set>
             <reverse-related>Draconic Visitor</reverse-related>
-            <reverse-related>Kiora of Fire and Ashes</reverse-related>
-            <token>1</token>
+<token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21279,10 +21264,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Diego Gisbert" picURL="https://cards.scryfall.io/large/front/b/f/bfd6132f-c96b-4ce0-ac4d-c46356afc767.jpg?1789735223" uuid="bfd6132f-c96b-4ce0-ac4d-c46356afc767" rarity="common" num="14">TFRA</set>
-            <reverse-related>Saheeli, Consul of Oversight</reverse-related>
-            <reverse-related>Pia, Determined Rebuilder</reverse-related>
-            <reverse-related>Saheeli, Jewel of Avishkar</reverse-related>
-            <token>1</token>
+<token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21350,12 +21332,11 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>4/4</pt>
             </prop>
             <set artist="HarkalÃƒÂ© LinaÃƒÂ¯" picURL="https://cards.scryfall.io/large/front/1/1/1159d02c-0291-42de-91e6-e9a49d5ed968.jpg?1789737317" uuid="1159d02c-0291-42de-91e6-e9a49d5ed968" rarity="common" num="1">TFRC</set>
-            <reverse-related>Ob Nixilis, the Ascended</reverse-related>
-            <token>1</token>
+<token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
-            <name>Insect Token</name>
+            <name>Insect Token (TFRC)</name>
             <text>Flying</text>
             <prop>
                 <colors>W</colors>
@@ -21396,10 +21377,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Kim Sokol" picURL="https://cards.scryfall.io/large/front/0/6/06a96ac2-94a4-4b1c-a3c5-add1a3112cb2.jpg?1789737345" uuid="06a96ac2-94a4-4b1c-a3c5-add1a3112cb2" rarity="common" num="4">TFRC</set>
-            <reverse-related count="2">Lingering Souls</reverse-related>
-            <reverse-related>Staff of the Storyteller</reverse-related>
-            <reverse-related>Occult Epiphany</reverse-related>
-            <token>1</token>
+<token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21554,8 +21532,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <pt>1/1</pt>
             </prop>
             <set artist="Michele Giorgi" picURL="https://cards.scryfall.io/large/front/e/4/e41f83c6-c20f-455a-b630-5fad99fa54ad.jpg?1789737643" uuid="e41f83c6-c20f-455a-b630-5fad99fa54ad" rarity="common" num="15">TFRC</set>
-            <reverse-related count="2">Memnarch, the Warden</reverse-related>
-            <token>1</token>
+<token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -21584,7 +21561,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
                 <cmc>0</cmc>
             </prop>
             <set artist="Lauren Ayrey" picURL="https://cards.scryfall.io/large/front/1/1/11608fa5-2c53-4008-ad82-555380f5e6f1.jpg?1789799963" uuid="11608fa5-2c53-4008-ad82-555380f5e6f1" rarity="common" num="17">TFRC</set>
-            <reverse-related count="x">Chief Magistrate of Mercadia</reverse-related>
+            <reverse-related>Chief Magistrate of Mercadia</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21613,13 +21590,13 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             </prop>
             <set artist="Javier Charro" picURL="https://cards.scryfall.io/large/front/f/4/f4e87a11-b3b1-47b2-bd73-f4c78d6fbe6c.jpg?1783902813" uuid="f4e87a11-b3b1-47b2-bd73-f4c78d6fbe6c" rarity="common" num="17">TMSC</set>
             <reverse-related>Sphinx of False Conclusions</reverse-related>
-            <reverse-related>Face Yourself</reverse-related>
+            <reverse-related count="x">Face Yourself</reverse-related>
             <reverse-related>Uldaros Theorix</reverse-related>
-            <reverse-related>Venser, Fervent Forger</reverse-related>
-            <reverse-related>Miss Highwater</reverse-related>
-            <reverse-related>Chief Magistrate of Mercadia</reverse-related>
+            <reverse-related count="2">Venser, Fervent Forger</reverse-related>
+            <reverse-related count="x">Miss Highwater</reverse-related>
+            <reverse-related count="x">Chief Magistrate of Mercadia</reverse-related>
             <reverse-related>Elda, Conjurer of Spectacle</reverse-related>
-            <reverse-related>Uugguu, the Omniplasm</reverse-related>
+            <reverse-related count="2">Uugguu, the Omniplasm</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
