@@ -11975,7 +11975,7 @@ Equip {1}</text>
                 <maintype>Land</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set picURL="">MBC</set>
+            <set picURL="">CTOK</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CTokens/Sanctum.jpeg?v=e625dcc1423e0a736c8cf1713b50744f45b95d51678e4e6a5c1010f61ba1aebf" uuid="e05909a1-ab9f-a03b-7e26-95ae9cd2ee54">CTOK</set>
             <reverse-related>Zagorka, Mother of Sanctum</reverse-related>
             <token>1</token>
