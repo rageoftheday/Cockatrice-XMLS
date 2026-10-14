@@ -1797,13 +1797,7 @@ For more information see: https://company.wizards.com/en/legal/fancontentpolicy
             <releasedate>2017-04-15</releasedate>
             <priority>20</priority>
         </set>
-        <set>
-            <name>NAU</name>
-            <longname>Nauctis: The Sunken Realm</longname>
-            <settype>Expansion</settype>
-            <releasedate>2027-02-05</releasedate>
-            <priority>10</priority>
-        </set>
+        
         <set>
             <name>PBOK</name>
             <longname>Betrayers of Kamigawa Promos</longname>
@@ -6509,23 +6503,47 @@ For more information see: https://company.wizards.com/en/legal/fancontentpolicy
             <priority>10</priority>
         </set>
     <set>
+            <name>CUST</name>
+            <longname>Custom Art</longname>
+            <settype>Custom</settype>
+            <priority>200</priority>
+        </set><set>
       <name>DCE</name>
       <longname>DiceRolls</longname>
       <settype />
-    </set>
-        <set>
-            <name>CUST</name>
-            <longname>CUST</longname>
-            <settype>Custom</settype>
-            <priority>200</priority>
-        </set>
-        <set>
+    </set><set>
             <name>KHCUST</name>
-            <longname>KHCUST</longname>
+            <longname>Kingdom Hearts Custom</longname>
             <settype>Custom</settype>
             <priority>200</priority>
         </set>
-    </sets>
+        <set>
+            <name>CTOK</name>
+            <longname>Custom Tokens</longname>
+            <settype>Custom</settype>
+            <priority>200</priority>
+        </set>
+        <set>
+            <name>TMDD</name>
+            <longname>Marvel: Darkhold Destiny Tokens</longname>
+            <settype>Token</settype>
+            <releasedate>2027-04-09</releasedate>
+            <priority>30</priority>
+        </set>
+        <set>
+            <name>TNAU</name>
+            <longname>Nauctis: The Sunken Realm Tokens</longname>
+            <settype>Token</settype>
+            <releasedate>2027-02-05</releasedate>
+            <priority>30</priority>
+        </set>
+        <set>
+            <name>TTRK</name>
+            <longname>Star Trek Tokens</longname>
+            <settype>Token</settype>
+            <releasedate>2026-11-13</releasedate>
+            <priority>30</priority>
+        </set></sets>
     <cards>
         <card>
             <name>Urdnan, Dromoka Warrior</name>
@@ -307652,6 +307670,7 @@ Landfall — Whenever a land you control enters, you may draw a card.</text>
             <set num="CMR-365" uuid="197f1c07-e570-42f9-9cb1-bf67634d765d" rarity="mythic" artist="Viktor Titov">PLST</set>
             <set num="1873" uuid="acf375d1-6355-458c-bae2-3ae3770da53b" rarity="mythic" artist="Stephen Andrade">SLD</set>
             <set num="1873" uuid="acf375d1-6355-458c-bae2-3ae3770da53b" rarity="mythic" artist="Scott Okumura">SLD</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CUST/Aesi%2C%20Tyrant%20of%20Gyre%20Strait.jpg?v=197acb41554acc6c551ee88c6e540ec0bae886a9" uuid="5459cac7-cd78-faeb-10ff-23efde44e1ee">CUST</set>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -1060873,5 +1060892,29 @@ Descend 8 — At the beginning of your upkeep, if there are eight or more perman
       </prop>
       <tablerow>1</tablerow>
       <text>DICE 20</text>
-    </card></cards>
+    </card><card>
+            <name>Aesi, Tyrant of Gyre Strait-1</name>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Custom Card</type>
+                <maintype>Other</maintype>
+            </prop>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CUST/Aesi%2C%20Tyrant%20of%20Gyre%20Strait-1.jpg?v=500516942987e8d6e2d542cc38deddeb6815610e" uuid="2956c6bb-0e91-9e45-039a-d9e8d3990170">CUST</set>
+            <tablerow>1</tablerow>
+            <text />
+        </card><card>
+            <name>Aesi, Tyrant of Gyre Strait-2</name>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Custom Card</type>
+                <maintype>Other</maintype>
+            </prop>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CUST/Aesi%2C%20Tyrant%20of%20Gyre%20Strait-2.jpg?v=0fbaf09cf142f37beb8d3ce28ffda61e59b1a520" uuid="676f64fb-cc9d-685e-7f71-e1ec5abbca7c">CUST</set>
+            <tablerow>1</tablerow>
+            <text />
+        </card></cards>
 </cockatrice_carddatabase>
