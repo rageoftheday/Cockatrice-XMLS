@@ -21220,7 +21220,7 @@ This creature can't block.</text>
                 <maintype>Token</maintype>
                 <cmc>0</cmc>
             </prop>
-            <set artist="Javier Charro" picURL="https://cards.scryfall.io/large/front/f/4/f4e87a11-b3b1-47b2-bd73-f4c78d6fbe6c.jpg?1783902813" uuid="f4e87a11-b3b1-47b2-bd73-f4c78d6fbe6c" rarity="common" num="17">TMSC</set>
+            <set artist="David Palumbo" picURL="https://cards.scryfall.io/large/front/4/b/4b976756-e988-4211-95c2-0e3587118488.jpg?1791939754" uuid="4b976756-e988-4211-95c2-0e3587118488" rarity="common" num="TBLC-1">PLST</set>
             <reverse-related count="x">Miss Highwater</reverse-related>
             <reverse-related count="x">Chief Magistrate of Mercadia</reverse-related>
             <reverse-related>Elda, Conjurer of Spectacle</reverse-related>
