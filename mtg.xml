@@ -307670,8 +307670,7 @@ Landfall — Whenever a land you control enters, you may draw a card.</text>
             <set num="CMR-365" uuid="197f1c07-e570-42f9-9cb1-bf67634d765d" rarity="mythic" artist="Viktor Titov">PLST</set>
             <set num="1873" uuid="acf375d1-6355-458c-bae2-3ae3770da53b" rarity="mythic" artist="Stephen Andrade">SLD</set>
             <set num="1873" uuid="acf375d1-6355-458c-bae2-3ae3770da53b" rarity="mythic" artist="Scott Okumura">SLD</set>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CUST/Aesi%2C%20Tyrant%20of%20Gyre%20Strait.jpg?v=197acb41554acc6c551ee88c6e540ec0bae886a9" uuid="5459cac7-cd78-faeb-10ff-23efde44e1ee">CUST</set>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CUST/Aesi%2C%20Tyrant%20of%20Gyre%20Strait_1.jpg?v=500516942987e8d6e2d542cc38deddeb6815610e" uuid="f6ee1a8a-1825-3402-d545-188c554269cc">CUST</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CUST/Aesi%2C%20Tyrant%20of%20Gyre%20Strait.jpg?v=500516942987e8d6e2d542cc38deddeb6815610e" uuid="5459cac7-cd78-faeb-10ff-23efde44e1ee">CUST</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CUST/Aesi%2C%20Tyrant%20of%20Gyre%20Strait_2.jpg?v=0fbaf09cf142f37beb8d3ce28ffda61e59b1a520" uuid="49377783-c900-74f4-4d7a-1741da8aaa3d">CUST</set>
             <tablerow>2</tablerow>
         </card>
