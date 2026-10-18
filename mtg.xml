@@ -1061225,7 +1061225,7 @@ Whenever this enchantment or another enchantment you control enters, until end o
       <text>DICE 20</text>
     </card><card>
             <name>GG</name>
-            <set rarity="common">RNDM</set>
+            <set rarity="common">DCE</set>
             <prop>
                 <colors />
                 <manacost>0</manacost>
