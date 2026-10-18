@@ -1061235,5 +1061235,29 @@ Whenever this enchantment or another enchantment you control enters, until end o
       </prop>
       <tablerow>1</tablerow>
       <text>GG</text>
-    </card><card>    
+    </card><card>
+      <name>PP</name>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/PP.jpg?v=5385a3feb4309662c4316e4197de7b869eb9c3b7" uuid="76e395dc-56b8-adfd-e990-635e36cf6f01">DCE</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Pass Priority</text>
+    </card><card>
+      <name>RESP</name>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/RESP.jpg?v=63d2a5f1b752292aca282c2bc0a12958df7a6326" uuid="e97d6161-d7a2-ebdb-f06e-7986c5ebe04d">DCE</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Response</text>
+    </card></cards>
 </cockatrice_carddatabase>
