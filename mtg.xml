@@ -1061224,17 +1061224,16 @@ Whenever this enchantment or another enchantment you control enters, until end o
       <tablerow>1</tablerow>
       <text>DICE 20</text>
     </card><card>
-            <name>GG</name>
-            <set rarity="common">DCE</set>
-            <prop>
-                <colors />
-                <manacost>0</manacost>
-                <cmc>0</cmc>
-                <type>Token</type>
-                <maintype>Creature</maintype>
-            </prop>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/GG.jpg?v=82c08e58a74dbd153bd94398f931e23c781ba690" uuid="58694704-deb0-3e03-70c7-6488bcbd785b">DCE</set>
-            <tablerow>1</tablerow>
-            <text>GG</text>
-        </card></cards>
+      <name>GG</name>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/GG.jpg?v=82c08e58a74dbd153bd94398f931e23c781ba690" uuid="58694704-deb0-3e03-70c7-6488bcbd785b">DCE</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>GG</text>
+    </card><card>    
 </cockatrice_carddatabase>
