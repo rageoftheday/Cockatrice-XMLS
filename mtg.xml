@@ -6214,7 +6214,6 @@ For more information see: https://company.wizards.com/en/legal/fancontentpolicy
             <releasedate>2022-11-18</releasedate>
             <priority>30</priority>
         </set>
-        
         <set>
             <name>F14</name>
             <longname>Friday Night Magic 2014</longname>
@@ -6502,16 +6501,18 @@ For more information see: https://company.wizards.com/en/legal/fancontentpolicy
             <releasedate>2021-09-24</releasedate>
             <priority>30</priority>
         </set>
-    <set>
+        <set>
             <name>CUST</name>
             <longname>Custom Art</longname>
             <settype>Custom</settype>
             <priority>200</priority>
-        </set><set>
-      <name>DCE</name>
-      <longname>DiceRolls</longname>
-      <settype>CUSTOM</settype>
-    </set><set>
+        </set>
+        <set>
+            <name>DCE</name>
+            <longname>DiceRolls</longname>
+            <settype>CUSTOM</settype>
+        </set>
+        <set>
             <name>KHCUST</name>
             <longname>Kingdom Hearts Custom</longname>
             <settype>Custom</settype>
@@ -6543,7 +6544,8 @@ For more information see: https://company.wizards.com/en/legal/fancontentpolicy
             <settype>Token</settype>
             <releasedate>2026-11-13</releasedate>
             <priority>30</priority>
-        </set></sets>
+        </set>
+    </sets>
     <cards>
         <card>
             <name>Garland, Knight of Cornelia</name>
@@ -65756,6 +65758,8 @@ Federation — When Saavik enters, she deals X damage to target attacking or blo
                 <maintype>Creature</maintype>
             </prop>
             <set artist="Mushk Rizvi" uuid="3783c530-a2da-4dc1-811a-0a9a412c8e78" num="33" rarity="uncommon" picURL="https://cards.scryfall.io/large/front/3/7/3783c530-a2da-4dc1-811a-0a9a412c8e78.jpg?1785981363">TRK</set>
+            <set artist="Jack Hughes" picURL="https://cards.scryfall.io/large/front/a/f/af3c4a7f-c7cb-422f-8eab-730de8f5c599.jpg?1792508778" uuid="af3c4a7f-c7cb-422f-8eab-730de8f5c599" rarity="uncommon" num="406">TRK</set>
+            <set artist="Jack Hughes" picURL="https://cards.scryfall.io/large/front/7/6/766eead5-0f5d-4bd5-a3ad-8795b0960bc6.jpg?1792509108" uuid="766eead5-0f5d-4bd5-a3ad-8795b0960bc6" rarity="uncommon" num="530">TRK</set>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -129446,6 +129450,9 @@ Draw a card.</text>
                 <maintype>Sorcery</maintype>
             </prop>
             <set artist="Matt Stewart" uuid="81d88257-466d-4729-862f-591885b3d875" num="125" rarity="uncommon" picURL="https://cards.scryfall.io/large/front/8/1/81d88257-466d-4729-862f-591885b3d875.jpg?1785981518">TRK</set>
+            <set artist="Gal Or" picURL="https://cards.scryfall.io/large/front/a/0/a092e283-24d5-47ec-a9cf-7d589a3121a4.jpg?1792508637" uuid="a092e283-24d5-47ec-a9cf-7d589a3121a4" rarity="uncommon" num="338">TRK</set>
+            <set artist="Jurijus Chitrovas" picURL="https://cards.scryfall.io/large/front/e/6/e6707e65-388b-4579-8c8d-77307b8208c1.jpg?1792508754" uuid="e6707e65-388b-4579-8c8d-77307b8208c1" rarity="uncommon" num="378">TRK</set>
+            <set artist="Jurijus Chitrovas" picURL="https://cards.scryfall.io/large/front/e/a/ea664a07-fac6-4703-8fd2-f3f3d7257b60.jpg?1792509085" uuid="ea664a07-fac6-4703-8fd2-f3f3d7257b60" rarity="uncommon" num="512">TRK</set>
             <tablerow>3</tablerow>
         </card>
         <card>
@@ -148585,6 +148592,7 @@ Pact Boon — Whenever you play a card from exile, create a Treasure token.</tex
             <set artist="Yongjae Choi" uuid="35cd0122-0b38-4aae-84cd-4d5a8e2ae2f5" num="AFC-2" rarity="mythic">PLST</set>
             <set artist="Yongjae Choi" uuid="ea3eabb6-4774-418f-b073-8d09de212592" num="92798" rarity="mythic">PRM</set>
             <set artist="Ian Permana" uuid="8213f299-0f6e-499f-ba8e-7e297965d482" num="2496" rarity="mythic">SLD</set>
+            <related>Treasure Token</related>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -201574,6 +201582,9 @@ In You, All Things Are Possible — Whenever one or more artifact creatures you 
             <set artist="Adam Paquette" muid="491933" uuid="701aefd4-074a-47b8-88a3-32fb90b09dee" num="276" rarity="common">ZNR</set>
             <set artist="Chase Stone" muid="491934" uuid="c89b3c3a-3dba-47b3-9620-d4dd754a59e6" num="277" rarity="common">ZNR</set>
             <set artist="Sam Burley" muid="495101" uuid="3c6a38dd-e8f5-420f-9576-66937c71286b" num="383" rarity="common">ZNR</set>
+            <set artist="Rytis Sabaliauskas" picURL="https://cards.scryfall.io/large/front/8/7/87908c55-4ac4-4b57-a8ee-a28640a18f0f.jpg?1792508574" uuid="87908c55-4ac4-4b57-a8ee-a28640a18f0f" rarity="common" num="310">TRK</set>
+            <set artist="Pablo Mendoza" picURL="https://cards.scryfall.io/large/front/8/1/81564344-1c9b-4fac-8a7d-682f57331d61.jpg?1792508606" uuid="81564344-1c9b-4fac-8a7d-682f57331d61" rarity="common" num="315">TRK</set>
+            <set artist="Rytis Sabaliauskas" picURL="https://cards.scryfall.io/large/front/9/5/95409599-e700-4e16-bea2-bc7b607f9cc4.jpg?1792509004" uuid="95409599-e700-4e16-bea2-bc7b607f9cc4" rarity="common" num="485">TRK</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -236887,6 +236898,7 @@ Landfall — Whenever a land you control enters, put two +1/+1 counters on targe
                 <maintype>Creature</maintype>
             </prop>
             <set artist="Carlos C Diaz" uuid="18bb2edd-8dee-4714-a707-6542b6ebbd53" num="218" rarity="uncommon" picURL="https://cards.scryfall.io/large/front/1/8/18bb2edd-8dee-4714-a707-6542b6ebbd53.jpg?1786005573">TRK</set>
+            <set artist="Carlos C Diaz" picURL="https://cards.scryfall.io/large/front/d/1/d15242ea-4460-4804-ba0e-09cb7f24bc50.jpg?1792509201" uuid="d15242ea-4460-4804-ba0e-09cb7f24bc50" rarity="uncommon" num="575">TRK</set>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -243103,6 +243115,7 @@ Creatures you control with trample have "You may have this creature assign its c
                 <maintype>Creature</maintype>
             </prop>
             <set artist="Andrey Kuzinskiy" uuid="a4734c59-ff41-47ac-bbb4-c8c3bf052fe6" num="115" rarity="uncommon" picURL="https://cards.scryfall.io/large/front/a/4/a4734c59-ff41-47ac-bbb4-c8c3bf052fe6.jpg?1785981497">TRK</set>
+            <set artist="Andrey Kuzinskiy" picURL="https://cards.scryfall.io/large/front/b/d/bdfb5e42-1950-4dd8-b1d6-21170ec93159.jpg?1792509192" uuid="bdfb5e42-1950-4dd8-b1d6-21170ec93159" rarity="uncommon" num="573">TRK</set>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -299398,6 +299411,8 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
             <set artist="James Paick" muid="425807" uuid="168ff6af-877a-4842-8efa-254fd27bdf7e" num="36" rarity="special">MPS</set>
             <set artist="Lars Grant-West" muid="457132" uuid="67bf3b19-1037-4157-8f28-11edbb7b4545" num="U28" rarity="mythic">PUMA</set>
             <set artist="Lars Grant-West" muid="456823" uuid="f1e2b69e-b06b-46a5-ac57-a6a180eeecc7" num="227" rarity="rare">UMA</set>
+            <set artist="David Álvarez" picURL="https://cards.scryfall.io/large/front/e/f/ef2d8db7-3f86-4d87-97ca-368444dc7f16.jpg?1792508441" uuid="ef2d8db7-3f86-4d87-97ca-368444dc7f16" rarity="rare" num="264">TRK</set>
+            <set artist="David Álvarez" picURL="https://cards.scryfall.io/large/front/7/e/7e8f0912-a8c5-44ce-b39b-eb0f63da07a4.jpg?1792508985" uuid="7e8f0912-a8c5-44ce-b39b-eb0f63da07a4" rarity="rare" num="480">TRK</set>
             <tablerow>1</tablerow>
         </card>
         <card>
@@ -413535,6 +413550,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
                 <maintype>Creature</maintype>
             </prop>
             <set artist="John Tyler Christopher" uuid="4f2d1830-baea-4735-b029-cb8c0b538d83" num="189" rarity="common" picURL="https://cards.scryfall.io/large/front/4/f/4f2d1830-baea-4735-b029-cb8c0b538d83.jpg?1785981563">TRK</set>
+            <set artist="John Tyler Christopher" picURL="https://cards.scryfall.io/large/front/9/3/934612d6-1809-46cf-a917-5a32718bddd2.jpg?1792509204" uuid="934612d6-1809-46cf-a917-5a32718bddd2" rarity="common" num="574">TRK</set>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -446542,6 +446558,7 @@ When this artifact enters, exile target nonland permanent an opponent controls u
                 <maintype>Artifact</maintype>
             </prop>
             <set artist="Pablo Mendoza" uuid="0faeffee-bb07-4b9d-8cdd-e9731bbd2396" num="22" rarity="common" picURL="https://cards.scryfall.io/large/front/0/f/0faeffee-bb07-4b9d-8cdd-e9731bbd2396.jpg?1785981349">TRK</set>
+            <set artist="Pablo Mendoza" picURL="https://cards.scryfall.io/large/front/1/f/1f564242-e841-4f70-9d48-36ff410a25c4.jpg?1792509183" uuid="1f564242-e841-4f70-9d48-36ff410a25c4" rarity="common" num="571">TRK</set>
             <tablerow>1</tablerow>
         </card>
         <card>
@@ -453367,6 +453384,8 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
                 <maintype>Artifact</maintype>
             </prop>
             <set artist="Tony Foti" uuid="888e6e0f-43c3-4516-88ff-8a8d814478d4" num="94" rarity="uncommon" picURL="https://cards.scryfall.io/large/front/8/8/888e6e0f-43c3-4516-88ff-8a8d814478d4.jpg?1785981448">TRK</set>
+            <set artist="Eugene Maslovski" picURL="https://cards.scryfall.io/large/front/b/f/bf6c66c7-4795-4ab0-be98-65c771a7ef01.jpg?1792508834" uuid="bf6c66c7-4795-4ab0-be98-65c771a7ef01" rarity="uncommon" num="426">TRK</set>
+            <set artist="Eugene Maslovski" picURL="https://cards.scryfall.io/large/front/9/c/9cece6b4-1257-40c2-adc1-52409cafbf41.jpg?1792508873" uuid="9cece6b4-1257-40c2-adc1-52409cafbf41" rarity="uncommon" num="436">TRK</set>
             <tablerow>1</tablerow>
         </card>
         <card>
@@ -462297,6 +462316,9 @@ Enchanted creature gets +3/+3 and has "At the beginning of your upkeep, put a -1
             <set artist="Slawomir Maniak" muid="491930" uuid="26142ae3-5aa1-4b9b-989a-21c0e4e5089d" num="273" rarity="common">ZNR</set>
             <set artist="Adam Paquette" muid="491931" uuid="418335b2-398f-499e-92ad-8d21a5a5b69f" num="274" rarity="common">ZNR</set>
             <set artist="Adam Paquette" muid="495100" uuid="1967d4a8-6cc4-4a4d-9d24-93257de35e6d" num="382" rarity="common">ZNR</set>
+            <set artist="Rytis Sabaliauskas" picURL="https://cards.scryfall.io/large/front/b/4/b4e1965a-dbab-4edb-ada9-43898c57c5fe.jpg?1792508572" uuid="b4e1965a-dbab-4edb-ada9-43898c57c5fe" rarity="common" num="309">TRK</set>
+            <set artist="Pablo Mendoza" picURL="https://cards.scryfall.io/large/front/e/0/e046c0ef-0af3-4f48-8329-7d659e7d1a89.jpg?1792508595" uuid="e046c0ef-0af3-4f48-8329-7d659e7d1a89" rarity="common" num="314">TRK</set>
+            <set artist="Rytis Sabaliauskas" picURL="https://cards.scryfall.io/large/front/a/7/a75fe304-8764-4868-8ee8-d5fb094386c0.jpg?1792508999" uuid="a75fe304-8764-4868-8ee8-d5fb094386c0" rarity="common" num="484">TRK</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -507733,6 +507755,9 @@ Return each artifact and creature card with mana value X from your graveyard to 
             <set artist="Adam Paquette" muid="491924" uuid="5665190e-ea2a-498e-9c4f-f0bc514bd80c" num="267" rarity="common">ZNR</set>
             <set artist="Chris Rahn" muid="491925" uuid="5d918248-85ff-4fea-ac91-aa5466dd2829" num="268" rarity="common">ZNR</set>
             <set artist="Adam Paquette" muid="495098" uuid="ae92e656-6c9d-48c3-a238-5a11c2c62ec8" num="380" rarity="common">ZNR</set>
+            <set artist="Paulius Daščioras" picURL="https://cards.scryfall.io/large/front/6/b/6b2fba64-b85f-42bc-991e-4bb6201b78fb.jpg?1792550972" uuid="6b2fba64-b85f-42bc-991e-4bb6201b78fb" rarity="common" num="307">TRK</set>
+            <set artist="Shahab Alizadeh" picURL="https://cards.scryfall.io/large/front/b/7/b741bbf0-40b3-4ee7-9844-cecc64cb0840.jpg?1792508584" uuid="b741bbf0-40b3-4ee7-9844-cecc64cb0840" rarity="common" num="312">TRK</set>
+            <set artist="Paulius Daščioras" picURL="https://cards.scryfall.io/large/front/5/b/5b5385bf-54b3-4885-84c9-a383a4b95a5b.jpg?1792550983" uuid="5b5385bf-54b3-4885-84c9-a383a4b95a5b" rarity="common" num="482">TRK</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -544859,6 +544884,8 @@ Flying</text>
                 <maintype>Instant</maintype>
             </prop>
             <set artist="Monztre" uuid="e2b350b2-0eda-4c2b-b9d6-b58ab4848545" num="111" rarity="common" picURL="https://cards.scryfall.io/large/front/e/2/e2b350b2-0eda-4c2b-b9d6-b58ab4848545.jpg?1785981483">TRK</set>
+            <set artist="Darius Zablockis" picURL="https://cards.scryfall.io/large/front/c/e/ce59648a-dc9d-494d-ba5e-97e8d4636017.jpg?1792508832" uuid="ce59648a-dc9d-494d-ba5e-97e8d4636017" rarity="common" num="428">TRK</set>
+            <set artist="Darius Zablockis" picURL="https://cards.scryfall.io/large/front/3/c/3c2a5428-a557-435e-b226-96159e9f16e7.jpg?1792508874" uuid="3c2a5428-a557-435e-b226-96159e9f16e7" rarity="common" num="438">TRK</set>
             <tablerow>3</tablerow>
         </card>
         <card>
@@ -717457,6 +717484,7 @@ Whenever Wasitora deals combat damage to a player, that player sacrifices a crea
                 <maintype>Creature</maintype>
             </prop>
             <set artist="Alex Negrea" uuid="207c4369-220a-4eff-81dc-65872d6fc264" num="54" rarity="uncommon" picURL="https://cards.scryfall.io/large/front/2/0/207c4369-220a-4eff-81dc-65872d6fc264.jpg?1785981397">TRK</set>
+            <set artist="Marija Tiurina" picURL="https://cards.scryfall.io/large/front/a/a/aabf7d12-f802-422e-a57c-24f5a2858c83.jpg?1792508646" uuid="aabf7d12-f802-422e-a57c-24f5a2858c83" rarity="uncommon" num="345">TRK</set>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -742103,6 +742131,9 @@ Flurry — Whenever you cast your second spell each turn, copy that spell if it 
             <set artist="Adam Paquette" muid="491936" uuid="184a9654-ce17-4378-b52b-fb6efbbf042f" num="279" rarity="common">ZNR</set>
             <set artist="Tianhua X" muid="491937" uuid="e2ef9b74-481b-424b-8e33-f0b910f66370" num="280" rarity="common">ZNR</set>
             <set artist="Adam Paquette" muid="495102" uuid="2b90e88b-60a3-4d1d-bb8c-14633e5005a5" num="384" rarity="common">ZNR</set>
+            <set artist="Bengt Hampus Viklander" picURL="https://cards.scryfall.io/large/front/f/0/f026379b-f00f-4897-b03f-dd164d69b925.jpg?1792508583" uuid="f026379b-f00f-4897-b03f-dd164d69b925" rarity="common" num="311">TRK</set>
+            <set artist="Shahab Alizadeh" picURL="https://cards.scryfall.io/large/front/c/7/c7ca6a54-f4e9-45f0-abb0-db14922cf157.jpg?1792508605" uuid="c7ca6a54-f4e9-45f0-abb0-db14922cf157" rarity="common" num="316">TRK</set>
+            <set artist="Bengt Hampus Viklander" picURL="https://cards.scryfall.io/large/front/1/7/17923ce1-56db-4f18-b6a7-fda2eca7edbd.jpg?1792509015" uuid="17923ce1-56db-4f18-b6a7-fda2eca7edbd" rarity="common" num="486">TRK</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -912022,6 +912053,9 @@ Equip {1}</text>
             <set artist="Anna Steinbauer" muid="491927" uuid="bb695ab9-72dc-4b07-b42d-e2109a5254b6" num="270" rarity="common">ZNR</set>
             <set artist="Tianhua X" muid="491928" uuid="1ba4b3ad-1aef-44d3-889a-aedd9e070975" num="271" rarity="common">ZNR</set>
             <set artist="Tianhua X" muid="495099" uuid="589a324f-4466-4d4a-8cfb-806a041d7c1f" num="381" rarity="common">ZNR</set>
+            <set artist="Guglielmo Bonis" picURL="https://cards.scryfall.io/large/front/1/c/1c5b534a-128f-4235-8f69-646a55ae4d67.jpg?1792508563" uuid="1c5b534a-128f-4235-8f69-646a55ae4d67" rarity="common" num="308">TRK</set>
+            <set artist="Pablo Mendoza" picURL="https://cards.scryfall.io/large/front/e/e/ee2e4482-afad-41ae-9e1a-120e805c4563.jpg?1792508595" uuid="ee2e4482-afad-41ae-9e1a-120e805c4563" rarity="common" num="313">TRK</set>
+            <set artist="Guglielmo Bonis" picURL="https://cards.scryfall.io/large/front/a/0/a0a6038e-f812-415d-b54a-0229d338e969.jpg?1792508994" uuid="a0a6038e-f812-415d-b54a-0229d338e969" rarity="common" num="483">TRK</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -929433,6 +929467,7 @@ Whenever you cast a historic spell, untap Traxos. (Artifacts, legendaries, and S
                 <maintype>Creature</maintype>
             </prop>
             <set artist="Javier Charro" uuid="16281200-4660-4871-afd2-d4720e6a3197" num="97" rarity="common" picURL="https://cards.scryfall.io/large/front/1/6/16281200-4660-4871-afd2-d4720e6a3197.jpg?1785981461">TRK</set>
+            <set artist="Javier Charro" picURL="https://cards.scryfall.io/large/front/8/8/8888dc53-c16f-4894-8d0b-f86a33c41cf1.jpg?1792509189" uuid="8888dc53-c16f-4894-8d0b-f86a33c41cf1" rarity="common" num="572">TRK</set>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -958942,6 +958977,8 @@ When this enchantment enters, exile target nonland permanent an opponent control
                 <maintype>Creature</maintype>
             </prop>
             <set artist="Andrey Kuzinskiy" uuid="8cc06121-6ecd-44c3-90f9-34d492b031d4" num="121" rarity="uncommon" picURL="https://cards.scryfall.io/large/front/8/c/8cc06121-6ecd-44c3-90f9-34d492b031d4.jpg?1785981505">TRK</set>
+            <set artist="Gintas Galvanauskas" picURL="https://cards.scryfall.io/large/front/7/4/74029de7-fb85-440d-b149-4b820c41eaa5.jpg?1792508746" uuid="74029de7-fb85-440d-b149-4b820c41eaa5" rarity="uncommon" num="376">TRK</set>
+            <set artist="Gintas Galvanauskas" picURL="https://cards.scryfall.io/large/front/5/e/5e51ded6-4b58-4169-a292-26832918dbef.jpg?1792509065" uuid="5e51ded6-4b58-4169-a292-26832918dbef" rarity="uncommon" num="510">TRK</set>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -1060983,281 +1061020,2569 @@ Whenever this enchantment or another enchantment you control enters, until end o
             <set artist="Deruchenko Alexander" muid="624887" uuid="993d89a0-fa7f-4c56-a262-f8eac8aa892c" num="761" rarity="rare">CMM</set>
             <tablerow>1</tablerow>
         </card>
-    <card>
-      <name>1</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/1.jpg?v=c216feb209bf60bf0fa2d5fdf5554ac0a2c880a9" uuid="1ced18c8-c396-558d-b0cb-478dd6a85b48">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 1</text>
-    </card><card>
-      <name>2</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/2.jpg?v=ffd8112be30b62caddc67218fd4accd3b978da68" uuid="c91a8823-fb23-ced7-32ca-2572846bb08d">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 2</text>
-    </card><card>
-      <name>3</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/3.jpg?v=cbb3f682f49dad1fc172b11824a14c4560a5dee3" uuid="680a1bca-b3c7-117e-516b-3829f54c92ce">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 3</text>
-    </card><card>
-      <name>4</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/4.jpg?v=eff20137ac6c163bd50750ff7d247775909f458d" uuid="e87f1cbf-280d-3a1f-b668-ce88cfbddf44">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 4</text>
-    </card><card>
-      <name>5</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/5.jpg?v=711f3fea56d204e3b0abf4ce00c22b3b84276cff" uuid="45ea3061-e0b5-8dc2-9afb-ced592e601d2">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 5</text>
-    </card><card>
-      <name>6</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/6.jpg?v=bf103ad797b40fc129ceb04fc961a344878102af" uuid="eeda9171-4ae3-ef2e-f72b-63be2fe1c400">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 6</text>
-    </card><card>
-      <name>7</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/7.jpg?v=74772b1d0bfa24edd587c2d1195f4b36b0f3b072" uuid="1e5940ad-02f4-15b6-0245-722b3cfe324d">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 7</text>
-    </card><card>
-      <name>8</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/8.jpg?v=a94287f882f2283617a242d7cce149cae032618e" uuid="df4de436-0c1a-8ee5-54a3-91e3ee7909d0">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 8</text>
-    </card><card>
-      <name>9</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/9.jpg?v=fc17fe8ea3d314334bf80d6d18357edf28eea3c7" uuid="5dfb8e86-f021-60d9-0a81-1189cacc1603">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 9</text>
-    </card><card>
-      <name>10</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/10.jpg?v=8bba45d6859bb0853897019e67479240547a46ae" uuid="d6ac9912-00e7-f85c-c126-99457e590298">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 10</text>
-    </card><card>
-      <name>11</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/11.jpg?v=fb2f659121bcd653e321d1d7564bd6053b750894" uuid="b903e8bd-2413-1141-b539-e98b63803bfa">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 11</text>
-    </card><card>
-      <name>12</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/12.jpg?v=50ad944053391926bc7f45010f1cc453e6b51240" uuid="5ab86368-8b78-29a9-168f-ef59bfb8778e">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 12</text>
-    </card><card>
-      <name>13</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/13.jpg?v=64b206616d3d24cedcca862f27c04d62d91319f9" uuid="a0655e81-8d44-b4c7-66d9-e39f5fbe65a6">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 13</text>
-    </card><card>
-      <name>14</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/14.jpg?v=ee83428214717e95f8dda2647cc23471904d6889" uuid="263fc788-5423-868a-c495-87ddcc3c93b1">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 14</text>
-    </card><card>
-      <name>15</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/15.jpg?v=5761a7f9446b242b5ab5bceafc8b50e529f19d7f" uuid="35f27f28-d1e1-4321-72bc-159e2e80f141">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 15</text>
-    </card><card>
-      <name>16</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/16.jpg?v=9e63c65c35e3e55cb8477aedc7813f70eabbc61d" uuid="02fbc737-e8eb-7ead-f09e-c5086a35048e">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 16</text>
-    </card><card>
-      <name>17</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/17.jpg?v=c6402543ff3fa4cf95399c379321de32d861d0d1" uuid="4e6a9b1f-d099-1f86-4db3-b6f695d44962">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 17</text>
-    </card><card>
-      <name>18</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/18.jpg?v=dbbb07e321d4794464ce17f6eeaaf36e360ca233" uuid="74304ada-9cdd-6fda-8cd5-5d45dd2db2f3">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 18</text>
-    </card><card>
-      <name>19</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/19.jpg?v=928512f3e31bb0168dae36564a0c2dcaf13f507b" uuid="8717adbf-78d8-8ea5-9b7a-f7683e77b1a6">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 19</text>
-    </card><card>
-      <name>20</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/20.jpg?v=c38aea24c5de3194964a9c4b3e80864cdc6e0a60" uuid="0af5dcc1-7b5f-455a-39cc-2d9da4e5295c">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>DICE 20</text>
-    </card><card>
-      <name>GG</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/GG.jpg?v=82c08e58a74dbd153bd94398f931e23c781ba690" uuid="58694704-deb0-3e03-70c7-6488bcbd785b">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>GG</text>
-    </card><card>
-      <name>PP</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/PP.jpg?v=5385a3feb4309662c4316e4197de7b869eb9c3b7" uuid="76e395dc-56b8-adfd-e990-635e36cf6f01">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Pass Priority</text>
-    </card><card>
-      <name>RESP</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/RESP.jpg?v=63d2a5f1b752292aca282c2bc0a12958df7a6326" uuid="e97d6161-d7a2-ebdb-f06e-7986c5ebe04d">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Response</text>
-    </card></cards>
+        <card>
+            <name>1</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/1.jpg?v=c216feb209bf60bf0fa2d5fdf5554ac0a2c880a9" uuid="1ced18c8-c396-558d-b0cb-478dd6a85b48">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 1</text>
+        </card>
+        <card>
+            <name>2</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/2.jpg?v=ffd8112be30b62caddc67218fd4accd3b978da68" uuid="c91a8823-fb23-ced7-32ca-2572846bb08d">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 2</text>
+        </card>
+        <card>
+            <name>3</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/3.jpg?v=cbb3f682f49dad1fc172b11824a14c4560a5dee3" uuid="680a1bca-b3c7-117e-516b-3829f54c92ce">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 3</text>
+        </card>
+        <card>
+            <name>4</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/4.jpg?v=eff20137ac6c163bd50750ff7d247775909f458d" uuid="e87f1cbf-280d-3a1f-b668-ce88cfbddf44">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 4</text>
+        </card>
+        <card>
+            <name>5</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/5.jpg?v=711f3fea56d204e3b0abf4ce00c22b3b84276cff" uuid="45ea3061-e0b5-8dc2-9afb-ced592e601d2">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 5</text>
+        </card>
+        <card>
+            <name>6</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/6.jpg?v=bf103ad797b40fc129ceb04fc961a344878102af" uuid="eeda9171-4ae3-ef2e-f72b-63be2fe1c400">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 6</text>
+        </card>
+        <card>
+            <name>7</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/7.jpg?v=74772b1d0bfa24edd587c2d1195f4b36b0f3b072" uuid="1e5940ad-02f4-15b6-0245-722b3cfe324d">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 7</text>
+        </card>
+        <card>
+            <name>8</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/8.jpg?v=a94287f882f2283617a242d7cce149cae032618e" uuid="df4de436-0c1a-8ee5-54a3-91e3ee7909d0">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 8</text>
+        </card>
+        <card>
+            <name>9</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/9.jpg?v=fc17fe8ea3d314334bf80d6d18357edf28eea3c7" uuid="5dfb8e86-f021-60d9-0a81-1189cacc1603">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 9</text>
+        </card>
+        <card>
+            <name>10</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/10.jpg?v=8bba45d6859bb0853897019e67479240547a46ae" uuid="d6ac9912-00e7-f85c-c126-99457e590298">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 10</text>
+        </card>
+        <card>
+            <name>11</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/11.jpg?v=fb2f659121bcd653e321d1d7564bd6053b750894" uuid="b903e8bd-2413-1141-b539-e98b63803bfa">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 11</text>
+        </card>
+        <card>
+            <name>12</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/12.jpg?v=50ad944053391926bc7f45010f1cc453e6b51240" uuid="5ab86368-8b78-29a9-168f-ef59bfb8778e">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 12</text>
+        </card>
+        <card>
+            <name>13</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/13.jpg?v=64b206616d3d24cedcca862f27c04d62d91319f9" uuid="a0655e81-8d44-b4c7-66d9-e39f5fbe65a6">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 13</text>
+        </card>
+        <card>
+            <name>14</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/14.jpg?v=ee83428214717e95f8dda2647cc23471904d6889" uuid="263fc788-5423-868a-c495-87ddcc3c93b1">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 14</text>
+        </card>
+        <card>
+            <name>15</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/15.jpg?v=5761a7f9446b242b5ab5bceafc8b50e529f19d7f" uuid="35f27f28-d1e1-4321-72bc-159e2e80f141">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 15</text>
+        </card>
+        <card>
+            <name>16</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/16.jpg?v=9e63c65c35e3e55cb8477aedc7813f70eabbc61d" uuid="02fbc737-e8eb-7ead-f09e-c5086a35048e">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 16</text>
+        </card>
+        <card>
+            <name>17</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/17.jpg?v=c6402543ff3fa4cf95399c379321de32d861d0d1" uuid="4e6a9b1f-d099-1f86-4db3-b6f695d44962">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 17</text>
+        </card>
+        <card>
+            <name>18</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/18.jpg?v=dbbb07e321d4794464ce17f6eeaaf36e360ca233" uuid="74304ada-9cdd-6fda-8cd5-5d45dd2db2f3">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 18</text>
+        </card>
+        <card>
+            <name>19</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/19.jpg?v=928512f3e31bb0168dae36564a0c2dcaf13f507b" uuid="8717adbf-78d8-8ea5-9b7a-f7683e77b1a6">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 19</text>
+        </card>
+        <card>
+            <name>20</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/20.jpg?v=c38aea24c5de3194964a9c4b3e80864cdc6e0a60" uuid="0af5dcc1-7b5f-455a-39cc-2d9da4e5295c">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>DICE 20</text>
+        </card>
+        <card>
+            <name>GG</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/GG.jpg?v=82c08e58a74dbd153bd94398f931e23c781ba690" uuid="58694704-deb0-3e03-70c7-6488bcbd785b">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>GG</text>
+        </card>
+        <card>
+            <name>PP</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/PP.jpg?v=5385a3feb4309662c4316e4197de7b869eb9c3b7" uuid="76e395dc-56b8-adfd-e990-635e36cf6f01">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>Pass Priority</text>
+        </card>
+        <card>
+            <name>RESP</name>
+            <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/RESP.jpg?v=63d2a5f1b752292aca282c2bc0a12958df7a6326" uuid="e97d6161-d7a2-ebdb-f06e-7986c5ebe04d">DCE</set>
+            <prop>
+                <colors />
+                <manacost>0</manacost>
+                <cmc>0</cmc>
+                <type>Token</type>
+                <maintype>Creature</maintype>
+            </prop>
+            <tablerow>1</tablerow>
+            <text>Response</text>
+        </card>
+        <card>
+            <name>Antagonist Incorporator</name>
+            <text>Artifact creatures you control have "Whenever this creature deals combat damage to a player, you may pay {1}. If you do, create a 1/1 colorless Borg artifact creature token."</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>2/3</pt>
+                <type>Artifact Creature — Borg</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Miklós Ligeti" picURL="https://cards.scryfall.io/large/front/6/3/63918e59-0c03-4d98-9216-e58ee157b7ea.jpg?1792668297" uuid="63918e59-0c03-4d98-9216-e58ee157b7ea" rarity="rare" num="3">TRK</set>
+            <set artist="Miklós Ligeti" picURL="https://cards.scryfall.io/large/front/b/a/baeaac4a-a004-4a6d-842a-596cb148574b.jpg?1792668365" uuid="baeaac4a-a004-4a6d-842a-596cb148574b" rarity="rare" num="446">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Captain Benjamin Sisko</name>
+            <text>At the beginning of your end step, create a 1/1 red Officer creature token for each dilemma you've faced this turn.
+{2}{W}{U}{B}{R}{G}, {T}: Exile the top five cards of your library. You may cast any number of spells with mana value less than or equal to the number of Officers you control from among those cards without paying their mana costs.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>2/2</pt>
+                <type>Legendary Creature — Human Officer</type>
+                <coloridentity>BGRUW</coloridentity>
+            </prop>
+            <set artist="Chris Rallis" picURL="https://cards.scryfall.io/large/front/5/1/51338fb2-13a3-41b8-981f-05fa35e87e2e.jpg?1792508139" uuid="51338fb2-13a3-41b8-981f-05fa35e87e2e" rarity="rare" num="6">TRK</set>
+            <set artist="Marija Tiurina" picURL="https://cards.scryfall.io/large/front/c/1/c1344601-3f86-4910-b5ad-d7e1e58d851d.jpg?1792508639" uuid="c1344601-3f86-4910-b5ad-d7e1e58d851d" rarity="rare" num="344">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Captain Jean-Luc Picard</name>
+            <text>Other creatures you control get +1/+1.
+Whenever you cast a creature or Spacecraft spell, create a 1/1 red Officer creature token.
+Tap seven untapped Officers you control: Search your library for a Spacecraft card, put it onto the battlefield with seven charge counters on it, then shuffle.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>2/3</pt>
+                <type>Legendary Creature — Human Officer</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Anna Pavleeva" picURL="https://cards.scryfall.io/large/front/b/7/b7114271-eb05-41e2-ad96-a34f53492312.jpg?1792508148" uuid="b7114271-eb05-41e2-ad96-a34f53492312" rarity="mythic" num="7">TRK</set>
+            <set artist="Erikas Perl" picURL="https://cards.scryfall.io/large/front/5/6/566c03c3-aedd-4bd0-8932-e1b279e53c68.jpg?1792508718" uuid="566c03c3-aedd-4bd0-8932-e1b279e53c68" rarity="mythic" num="363">TRK</set>
+            <set artist="Erikas Perl" picURL="https://cards.scryfall.io/large/front/a/6/a6eb4655-ea1d-426d-a75b-a0a341362cd3.jpg?1792509016" uuid="a6eb4655-ea1d-426d-a75b-a0a341362cd3" rarity="mythic" num="497">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Command Subadjunct</name>
+            <text>Artifact creatures you control have vigilance.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>1</cmc>
+                <pt>2/1</pt>
+                <type>Artifact Creature — Borg</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Alex Negrea" picURL="https://cards.scryfall.io/large/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.jpg?1792753641" uuid="853bf74d-0b61-43df-9018-0b40b624a9d1" rarity="uncommon" num="9">TRK</set>
+            <set artist="Gal Or" picURL="https://cards.scryfall.io/large/front/f/5/f5435570-e78b-43cb-9b77-d80b92e07c2b.jpg?1792753908" uuid="f5435570-e78b-43cb-9b77-d80b92e07c2b" rarity="uncommon" num="341">TRK</set>
+            <set artist="Michael MacRae" picURL="https://cards.scryfall.io/large/front/f/2/f2b6ca53-11de-4c63-a0ac-c9fa9a65c43e.jpg?1792753911" uuid="f2b6ca53-11de-4c63-a0ac-c9fa9a65c43e" rarity="uncommon" num="364">TRK</set>
+            <set artist="Michael MacRae" picURL="https://cards.scryfall.io/large/front/f/0/f0bca1fd-0eef-4563-84c7-05b59ff9e015.jpg?1792753938" uuid="f0bca1fd-0eef-4563-84c7-05b59ff9e015" rarity="uncommon" num="498">TRK</set>
+            <set artist="Alex Negrea" picURL="https://cards.scryfall.io/large/front/b/c/bce0a2eb-20a2-423b-bf17-17029f3bd233.jpg?1792753957" uuid="bce0a2eb-20a2-423b-bf17-17029f3bd233" rarity="uncommon" num="569">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Conquest Mission</name>
+            <text>Whenever a nontoken artifact you control enters, put a quest counter on this enchantment. Create a 1/1 colorless Borg artifact creature token. If this enchantment has six or more quest counters on it, create two of those tokens instead.</text>
+            <prop>
+                <maintype>Enchantment</maintype>
+                <manacost>2W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <type>Enchantment</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Mark Spears" picURL="https://cards.scryfall.io/large/front/f/9/f91755d7-6fb9-4caf-b4b4-f21ed5572d52.jpg?1792750872" uuid="f91755d7-6fb9-4caf-b4b4-f21ed5572d52" rarity="uncommon" num="10">TRK</set>
+            <set artist="Gal Or" picURL="https://cards.scryfall.io/large/front/b/e/be8d8f65-211e-47d7-973c-f44537b43826.jpg?1792668342" uuid="be8d8f65-211e-47d7-973c-f44537b43826" rarity="uncommon" num="342">TRK</set>
+            <set artist="Mark Spears" picURL="https://cards.scryfall.io/large/front/c/f/cfb05333-acea-4bf0-973b-293d9e69751a.jpg?1792668378" uuid="cfb05333-acea-4bf0-973b-293d9e69751a" rarity="uncommon" num="570">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Dr. McCoy, Surly Surgeon</name>
+            <text>When Dr. McCoy enters, put a +1/+1 counter on another target creature you control.
+If another creature you control with a +1/+1 counter on it would be destroyed, instead remove all +1/+1 counters from it and all damage already dealt to it is healed.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2WW</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>2/2</pt>
+                <type>Legendary Creature — Human Doctor</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="David Robert Hovey" picURL="https://cards.scryfall.io/large/front/b/3/b300d814-cf74-44ba-b253-ec179ec54a20.jpg?1792668584" uuid="b300d814-cf74-44ba-b253-ec179ec54a20" rarity="uncommon" num="14">TRK</set>
+            <set artist="Chuck Lukacs" picURL="https://cards.scryfall.io/large/front/e/4/e4349c0f-55f8-40d5-a972-4fb655608b6a.jpg?1792668602" uuid="e4349c0f-55f8-40d5-a972-4fb655608b6a" rarity="uncommon" num="402">TRK</set>
+            <set artist="Chuck Lukacs" picURL="https://cards.scryfall.io/large/front/0/0/00474b9c-620f-44dc-912f-5d1972a1eb22.jpg?1792668628" uuid="00474b9c-620f-44dc-912f-5d1972a1eb22" rarity="uncommon" num="526">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Excalbian Gamemaster</name>
+            <text>Strange new worlds — When this creature enters, create X 1/1 red Officer creature tokens, where X is the number of differently named lands you control.
+Whenever this creature or another creature you control dies, put a +1/+1 counter on target creature you control.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>5W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>6</cmc>
+                <pt>6/6</pt>
+                <type>Creature — Excalbian</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Charles Chaisson" picURL="https://cards.scryfall.io/large/front/3/1/31b5780c-8c5f-4836-8848-1eea1d416a93.jpg?1792753846" uuid="31b5780c-8c5f-4836-8848-1eea1d416a93" rarity="mythic" num="16">TRK</set>
+            <set artist="Chuck Lukacs" picURL="https://cards.scryfall.io/large/front/e/6/e6227228-330d-4bf5-a5ca-d5b5839e5874.jpg?1792753923" uuid="e6227228-330d-4bf5-a5ca-d5b5839e5874" rarity="mythic" num="403">TRK</set>
+            <set artist="Chuck Lukacs" picURL="https://cards.scryfall.io/large/front/9/1/91f96c5f-e3ce-4c94-9944-ce9b1b5a097a.jpg?1792753680" uuid="91f96c5f-e3ce-4c94-9944-ce9b1b5a097a" rarity="mythic" num="527">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Miles O'Brien, Transporter Ops</name>
+            <text>When Miles O'Brien enters, return up to one other target creature or artifact you control to its owner's hand.
+At the beginning of each end step, if a permanent was returned to your hand from the battlefield this turn, draw a card.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>3/3</pt>
+                <type>Legendary Creature — Human Artificer</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="John Tyler Christopher" picURL="https://cards.scryfall.io/large/front/e/4/e4f041b3-e785-45ba-9a7e-33878614d3b0.jpg?1792637029" uuid="e4f041b3-e785-45ba-9a7e-33878614d3b0" rarity="rare" num="24">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Peace in Our Time</name>
+            <text>At the beginning of combat on each player's turn, that player may draw a card. If they do, they can't attack this turn and you put a peace counter on this enchantment.
+At the beginning of your upkeep, if this enchantment has twelve or more peace counters on it, you win the game.</text>
+            <prop>
+                <maintype>Enchantment</maintype>
+                <manacost>3W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <type>Enchantment</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Elizabeth Peiró" picURL="https://cards.scryfall.io/large/front/9/d/9dd522dd-a894-496e-9d31-68583dba7ecc.jpg?1792508151" uuid="9dd522dd-a894-496e-9d31-68583dba7ecc" rarity="rare" num="27">TRK</set>
+            <set artist="Mintautas Šukys" picURL="https://cards.scryfall.io/large/front/5/4/54da7aa7-3049-4f2a-a92e-62a0a7386de8.jpg?1792508718" uuid="54da7aa7-3049-4f2a-a92e-62a0a7386de8" rarity="rare" num="367">TRK</set>
+            <set artist="Mintautas Šukys" picURL="https://cards.scryfall.io/large/front/f/1/f1c86545-0252-46cc-ac35-58d126f55997.jpg?1792509035" uuid="f1c86545-0252-46cc-ac35-58d126f55997" rarity="rare" num="501">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Pet Sehlat</name>
+            <text>This creature can't attack alone.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>4/3</pt>
+                <type>Creature — Bear</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Narendra Bintara Adi" picURL="https://cards.scryfall.io/large/front/4/7/477a6a46-7fda-4666-87d9-a35c953dd94d.jpg?1792672463" uuid="477a6a46-7fda-4666-87d9-a35c953dd94d" rarity="common" num="28">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Primary Unimatrix Adjunct</name>
+            <text>Artifact creatures you control have double strike.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>3W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>2/3</pt>
+                <type>Artifact Creature — Borg</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Jodie Muir" picURL="https://cards.scryfall.io/large/front/b/9/b94a582c-11bb-4463-a826-bd0c79366752.jpg?1792753859" uuid="b94a582c-11bb-4463-a826-bd0c79366752" rarity="rare" num="30">TRK</set>
+            <set artist="Julia Vasilyeva" picURL="https://cards.scryfall.io/large/front/5/9/59ce5cdb-3e08-4de1-9335-aafeddfd1829.jpg?1792753918" uuid="59ce5cdb-3e08-4de1-9335-aafeddfd1829" rarity="rare" num="368">TRK</set>
+            <set artist="Julia Vasilyeva" picURL="https://cards.scryfall.io/large/front/b/a/ba15432e-64a4-49fe-9f89-86129d332bcc.jpg?1792753945" uuid="ba15432e-64a4-49fe-9f89-86129d332bcc" rarity="rare" num="502">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Pure Energy</name>
+            <text>Distribute two +1/+1 counters among one or two target creatures.
+Beam me up {2}{W} (You may cast this card from your graveyard for {2}{W} if you also return a creature you control to its owner's hand. Then exile this spell.)</text>
+            <prop>
+                <maintype>Sorcery</maintype>
+                <manacost>1W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <type>Sorcery</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Evan Shipard" picURL="https://cards.scryfall.io/large/front/2/1/215709a8-044f-4fdb-b3ca-bd5a394b2a0f.jpg?1792591045" uuid="215709a8-044f-4fdb-b3ca-bd5a394b2a0f" rarity="common" num="31">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Rutherford, Upgraded Ensign</name>
+            <text>When Rutherford enters, look at the top six cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Whenever you cast a Spacecraft spell, put a +1/+1 counter on target creature.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>2/2</pt>
+                <type>Legendary Creature — Human Artificer</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Charles Chaisson" picURL="https://cards.scryfall.io/large/front/1/6/16a4d8ed-a918-4dfe-9976-0b68adb26afa.jpg?1792753861" uuid="16a4d8ed-a918-4dfe-9976-0b68adb26afa" rarity="uncommon" num="32">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Test of Conviction</name>
+            <text>Choose one —
+• Battle Stations — Put a +1/+1 counter on each creature you control.
+• Begin Negotiations — Target opponent draws a card. You draw two cards.</text>
+            <prop>
+                <maintype>Sorcery</maintype>
+                <manacost>1W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <type>Sorcery</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="John Tyler Christopher" picURL="https://cards.scryfall.io/large/front/8/3/837d7cec-f3f8-4555-86f2-c5ea1849d7d1.jpg?1792668317" uuid="837d7cec-f3f8-4555-86f2-c5ea1849d7d1" rarity="uncommon" num="39">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>There's Coffee in that Nebula</name>
+            <text>Look at the top five cards of your library. You may reveal a Plains card or nonland permanent card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom in a random order.
+Beam me up {2}{W} (You may cast this card from your graveyard for {2}{W} if you also return a creature you control to its owner's hand. Then exile this spell.)</text>
+            <prop>
+                <maintype>Sorcery</maintype>
+                <manacost>1W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <type>Sorcery</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Pauline Voss" picURL="https://cards.scryfall.io/large/front/8/d/8dd7e0c6-84f6-4570-af93-4c64e78c2868.jpg?1792668331" uuid="8dd7e0c6-84f6-4570-af93-4c64e78c2868" rarity="uncommon" num="40">TRK</set>
+            <set artist="Anna Czeszejko" picURL="https://cards.scryfall.io/large/front/0/7/07b3f211-1ff1-47c3-9063-9a1ac0fd814c.jpg?1792668349" uuid="07b3f211-1ff1-47c3-9063-9a1ac0fd814c" rarity="uncommon" num="369">TRK</set>
+            <set artist="Anna Czeszejko" picURL="https://cards.scryfall.io/large/front/1/2/1205651a-aa71-4bcb-ade7-0ab101ad95ad.jpg?1792668614" uuid="1205651a-aa71-4bcb-ade7-0ab101ad95ad" rarity="uncommon" num="503">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Troubling Tribbles</name>
+            <text>This creature can't block.
+At the beginning of your upkeep, create a token that's a copy of this creature.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>0/1</pt>
+                <type>Creature — Tribble</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Filipe Pagliuso" picURL="https://cards.scryfall.io/large/front/0/a/0af3e535-83e6-422b-85c5-39d830cb072c.jpg?1792508160" uuid="0af3e535-83e6-422b-85c5-39d830cb072c" rarity="rare" num="41">TRK</set>
+            <set artist="Jason Raish" picURL="https://cards.scryfall.io/large/front/1/3/1337f7ed-da1c-4fdd-9ad7-6f33fa5492bf.jpg?1792508789" uuid="1337f7ed-da1c-4fdd-9ad7-6f33fa5492bf" rarity="rare" num="408">TRK</set>
+            <set artist="Jason Raish" picURL="https://cards.scryfall.io/large/front/6/5/65d09a80-440a-4686-a0bb-b2be19112f8e.jpg?1792509118" uuid="65d09a80-440a-4686-a0bb-b2be19112f8e" rarity="rare" num="532">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Una Chin-Riley, Number One</name>
+            <text>Whenever you attack while creatures you control have total power 8 or greater, target attacking creature gets +2/+0 and gains first strike until end of turn.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>4W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>5</cmc>
+                <pt>4/5</pt>
+                <type>Legendary Creature — Illyrian Officer</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Josu Hernaiz" picURL="https://cards.scryfall.io/large/front/5/5/5585c90d-3fe7-41f4-9728-36b9410ecc53.jpg?1792668590" uuid="5585c90d-3fe7-41f4-9728-36b9410ecc53" rarity="uncommon" num="42">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>U.S.S. Enterprise-A, Free Spirit</name>
+            <text>Ward {2}
+When U.S.S. Enterprise-A enters, create three 1/1 red Officer creature tokens.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)
+6+ | Flying, lifelink</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>3WW</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>5</cmc>
+                <pt>5/5</pt>
+                <type>Legendary Artifact — Spacecraft</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Evan Shipard" picURL="https://cards.scryfall.io/large/front/9/9/99429015-6e5d-4ecf-aaf7-eba181bcffc7.jpg?1792508162" uuid="99429015-6e5d-4ecf-aaf7-eba181bcffc7" rarity="mythic" num="43">TRK</set>
+            <set artist="Evan Shipard" picURL="https://cards.scryfall.io/large/front/5/3/53941fd6-1913-4848-8fa1-7fff7ea3062b.jpg?1792508914" uuid="53941fd6-1913-4848-8fa1-7fff7ea3062b" rarity="mythic" num="448">TRK</set>
+            <set artist="Scott Okumura" picURL="https://cards.scryfall.io/large/front/b/1/b162c8cd-865d-40a8-9bc1-e11702ac27d2.jpg?1792509147" uuid="b162c8cd-865d-40a8-9bc1-e11702ac27d2" rarity="mythic" num="550">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Vexing Drone</name>
+            <text>When this creature enters, tap target creature an opponent controls.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1W</manacost>
+                <layout>normal</layout>
+                <colors>W</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>2/2</pt>
+                <type>Artifact Creature — Borg</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Kristina WermoongRey" picURL="https://cards.scryfall.io/large/front/6/f/6f4b2476-8f93-4d4e-b664-233e82fcf212.jpg?1792591213" uuid="6f4b2476-8f93-4d4e-b664-233e82fcf212" rarity="common" num="45">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>"Coastal Ren Faire"</name>
+            <text>Whenever you cast a noncreature spell, put a quest counter on CARDNAME. Draw a card. Then discard a card unless there are three or more quest counters on CARDNAME.</text>
+            <prop>
+                <maintype>Enchantment</maintype>
+                <manacost>2U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <type>Enchantment</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Pablo Mendoza" picURL="https://cards.scryfall.io/large/front/9/3/93b458aa-a928-48ef-b685-1306cc65ad06.jpg?1792758528" uuid="93b458aa-a928-48ef-b685-1306cc65ad06" rarity="uncommon" num="46">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Cetacean Ops</name>
+            <text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>3U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>3/3</pt>
+                <type>Creature — Whale Officer</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Arthur Haas" picURL="https://cards.scryfall.io/large/front/a/8/a8dc7ecd-e6f0-4050-9d5b-8436f60a1395.jpg?1792672912" uuid="a8dc7ecd-e6f0-4050-9d5b-8436f60a1395" rarity="common" num="48">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Data, New Life</name>
+            <text>Whenever you draw a card, put a +1/+1 counter on Data.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>0/1</pt>
+                <type>Legendary Artifact Creature — Android Scientist</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Kieran Yanner" picURL="https://cards.scryfall.io/large/front/9/6/96b7e757-c64d-48c8-bd9c-caad5f3c78fb.jpg?1792753877" uuid="96b7e757-c64d-48c8-bd9c-caad5f3c78fb" rarity="uncommon" num="52">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Deep Space Scan</name>
+            <text>Strange new worlds — Draw X cards, where X is the number of differently named lands you control. You have no maximum hand size until your next turn.</text>
+            <prop>
+                <maintype>Sorcery</maintype>
+                <manacost>4UU</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>6</cmc>
+                <type>Sorcery</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Andreia Ugrai" picURL="https://cards.scryfall.io/large/front/1/5/15ffeda3-28ac-4adf-9844-d7b051aae227.jpg?1792508172" uuid="15ffeda3-28ac-4adf-9844-d7b051aae227" rarity="rare" num="53">TRK</set>
+            <set artist="Maxim Ruabtsev" picURL="https://cards.scryfall.io/large/front/c/5/c53011f4-e2fb-480b-9eda-660e878a7b6a.jpg?1792508727" uuid="c53011f4-e2fb-480b-9eda-660e878a7b6a" rarity="rare" num="370">TRK</set>
+            <set artist="Maxim Ruabtsev" picURL="https://cards.scryfall.io/large/front/d/e/de52d77a-f5af-4392-b53b-60ce79328d3f.jpg?1792509028" uuid="de52d77a-f5af-4392-b53b-60ce79328d3f" rarity="rare" num="504">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Energize</name>
+            <text>Return target creature an opponent controls to its owner's hand.
+Beam me up {3}{U} (You may cast this card from your graveyard for {3}{U} if you also return a creature you control to its owner's hand. Then exile this spell.)</text>
+            <prop>
+                <maintype>Sorcery</maintype>
+                <manacost>1U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <type>Sorcery</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Carlos C Diaz" picURL="https://cards.scryfall.io/large/front/2/4/24e72db3-a8d9-4553-92fe-ba6e40c4f62e.jpg?1792668391" uuid="24e72db3-a8d9-4553-92fe-ba6e40c4f62e" rarity="uncommon" num="56">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Ensign Pavel Chekov</name>
+            <text>Strange new worlds — When Ensign Chekov enters, each opponent exiles the top X cards of their library, where X is the number of differently named lands you control. For each opponent, choose a land card that player owns exiled this way. You may play the chosen cards for as long as they remain exiled.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>3U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>1/5</pt>
+                <type>Legendary Creature — Human Pilot</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Gal Or" picURL="https://cards.scryfall.io/large/front/a/4/a441c12e-1a2f-4b04-83dd-407bf6040efe.jpg?1792753698" uuid="a441c12e-1a2f-4b04-83dd-407bf6040efe" rarity="uncommon" num="57">TRK</set>
+            <set artist="Marc Aspinall" picURL="https://cards.scryfall.io/large/front/5/7/578709ac-771b-410b-bd71-ba4ab8d466a2.jpg?1792753714" uuid="578709ac-771b-410b-bd71-ba4ab8d466a2" rarity="uncommon" num="409">TRK</set>
+            <set artist="Marc Aspinall" picURL="https://cards.scryfall.io/large/front/f/4/f483991b-5291-42a8-89c3-f51629530bb1.jpg?1792753949" uuid="f483991b-5291-42a8-89c3-f51629530bb1" rarity="uncommon" num="533">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Interstellar Effigy</name>
+            <text>When this creature enters, return target creature an opponent controls to its owner's hand.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>4U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>5</cmc>
+                <pt>4/3</pt>
+                <type>Artifact Creature — Construct</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Cliff Nielsen" picURL="https://cards.scryfall.io/large/front/4/b/4b7d505f-2a6b-4525-87c7-19e06d49c9df.jpg?1792672545" uuid="4b7d505f-2a6b-4525-87c7-19e06d49c9df" rarity="common" num="66">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>"Tinkerer (Not the Urza's Saga-er one)"</name>
+            <text>Whenever CARDNAME becomes tapped, surveil 1. If its power is 4 or greater, instead draw a card.
+Whenever you face a dilemma, put a +1/1 counter on CARDNAME.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>1/2</pt>
+                <type>Legendary Creature — Human Artificer</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Riccardo Federici" picURL="https://cards.scryfall.io/large/front/6/d/6dc34d44-397a-4dda-a8e3-0c2ff7da110f.jpg?1792758438" uuid="6dc34d44-397a-4dda-a8e3-0c2ff7da110f" rarity="uncommon" num="67">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Kobayashi Maru Scenario</name>
+            <text>At the beginning of your upkeep, choose one that hasn't been chosen —
+• Hail — Return up to one target creature an opponent controls with mana value 3 or less to its owner's hand.
+• Sensors — Draw two cards.
+• Transport — Create two 1/1 red Officer creature tokens.
+• Abandon Ship — You lose the game.</text>
+            <prop>
+                <maintype>Enchantment</maintype>
+                <manacost>1UU</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <type>Enchantment</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Kevin Glint" picURL="https://cards.scryfall.io/large/front/c/7/c7fb72cc-1bc6-4774-9798-44824de46c72.jpg?1792508172" uuid="c7fb72cc-1bc6-4774-9798-44824de46c72" rarity="mythic" num="68">TRK</set>
+            <set artist="Oliver Barrett" picURL="https://cards.scryfall.io/large/front/4/0/406806fa-213e-40ed-aaee-47ff21f36551.jpg?1792508801" uuid="406806fa-213e-40ed-aaee-47ff21f36551" rarity="mythic" num="410">TRK</set>
+            <set artist="Oliver Barrett" picURL="https://cards.scryfall.io/large/front/d/5/d557515e-bf1d-4781-aa44-eb2638cfe1ba.jpg?1792509118" uuid="d557515e-bf1d-4781-aa44-eb2638cfe1ba" rarity="mythic" num="534">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Lieutenant Commander Data</name>
+            <text>Whenever a player casts a noncreature spell, put a +1/+1 counter on Lieutenant Commander Data.
+{1}, Remove three counters from among creatures you control: Draw a card.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>2/2</pt>
+                <type>Legendary Artifact Creature — Android Scientist</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Irvin Rodriguez" picURL="https://cards.scryfall.io/large/front/c/6/c6d5da51-6c74-4dd5-a532-cf4c2a7b601c.jpg?1792508182" uuid="c6d5da51-6c74-4dd5-a532-cf4c2a7b601c" rarity="mythic" num="69">TRK</set>
+            <set artist="Nicky Barkla" picURL="https://cards.scryfall.io/large/front/f/1/f10ee26b-7ea8-4cd0-83f6-b9a8ac94cb0b.jpg?1792508695" uuid="f10ee26b-7ea8-4cd0-83f6-b9a8ac94cb0b" rarity="mythic" num="359">TRK</set>
+            <set artist="Mintautas Šukys" picURL="https://cards.scryfall.io/large/front/4/7/4753a94e-5a5c-4246-bcf4-907eb892507b.jpg?1792508730" uuid="4753a94e-5a5c-4246-bcf4-907eb892507b" rarity="mythic" num="371">TRK</set>
+            <set artist="Mintautas Šukys" picURL="https://cards.scryfall.io/large/front/1/9/191809e6-87f5-414e-a45e-62988f092832.jpg?1792509040" uuid="191809e6-87f5-414e-a45e-62988f092832" rarity="mythic" num="505">TRK</set>
+            <set artist="Tyler Jacobson" picURL="https://cards.scryfall.io/large/front/e/5/e5484552-37a3-41ef-b618-ee92fb418c85.jpg?1792509239" uuid="e5484552-37a3-41ef-b618-ee92fb418c85" rarity="mythic" num="1703">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Lt. Cmdr. Geordi La Forge</name>
+            <text>If you would put one or more charge counters on an artifact you control, put twice that many charge counters on that artifact instead.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>3/2</pt>
+                <type>Legendary Creature — Human Artificer</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Julie Dillon" picURL="https://cards.scryfall.io/large/front/3/a/3a558d82-7efd-49b3-9f7b-ace639b44a35.jpg?1792508185" uuid="3a558d82-7efd-49b3-9f7b-ace639b44a35" rarity="rare" num="70">TRK</set>
+            <set artist="Vlad Petruchik" picURL="https://cards.scryfall.io/large/front/d/f/df9efa59-ef01-473d-b32a-8328dcf01130.jpg?1792508737" uuid="df9efa59-ef01-473d-b32a-8328dcf01130" rarity="rare" num="372">TRK</set>
+            <set artist="Vlad Petruchik" picURL="https://cards.scryfall.io/large/front/3/c/3c627570-844f-49d6-a788-dda7ef4f399c.jpg?1792509060" uuid="3c627570-844f-49d6-a788-dda7ef4f399c" rarity="rare" num="506">TRK</set>
+            <set artist="Tyler Jacobson" picURL="https://cards.scryfall.io/large/front/f/0/f0028b63-3e33-47ab-88ed-bdbe5705ecf7.jpg?1792509251" uuid="f0028b63-3e33-47ab-88ed-bdbe5705ecf7" rarity="mythic" num="1706">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Mr. Spock, Science Officer</name>
+            <text>If you would draw a card, draw two cards instead.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2UU</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>2/4</pt>
+                <type>Legendary Creature — Vulcan Human Scientist</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Colin Boyer" picURL="https://cards.scryfall.io/large/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.jpg?1792508192" uuid="d19fc127-669e-4264-935a-e5991e6c0964" rarity="mythic" num="74">TRK</set>
+            <set artist="Mark Spears" picURL="https://cards.scryfall.io/large/front/7/d/7dd9dec1-5793-4514-8a15-c3bce21a5115.jpg?1792508674" uuid="7dd9dec1-5793-4514-8a15-c3bce21a5115" rarity="mythic" num="353">TRK</set>
+            <set artist="Grant Griffin" picURL="https://cards.scryfall.io/large/front/e/3/e3e54e58-327c-4071-b99a-b78c7cc3fe6f.jpg?1792508801" uuid="e3e54e58-327c-4071-b99a-b78c7cc3fe6f" rarity="mythic" num="411">TRK</set>
+            <set artist="Grant Griffin" picURL="https://cards.scryfall.io/large/front/e/8/e855f782-9221-4b6f-a182-b738da4b7d48.jpg?1792509132" uuid="e855f782-9221-4b6f-a182-b738da4b7d48" rarity="mythic" num="535">TRK</set>
+            <set artist="Gal Or" picURL="https://cards.scryfall.io/large/front/b/d/bd0c3372-4cc5-489c-b8fb-ea11e700fa16.jpg?1792509230" uuid="bd0c3372-4cc5-489c-b8fb-ea11e700fa16" rarity="mythic" num="1702">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Nyota Uhura, Communications</name>
+            <text>Hailing Frequencies — As Nyota Uhura enters, choose a number between 0 and 10.
+Open a Channel — Whenever an opponent casts a spell with mana value equal to the chosen number, you draw a card.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>2/4</pt>
+                <type>Legendary Creature — Human Officer</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Charles Chaisson" picURL="https://cards.scryfall.io/large/front/b/0/b04066ef-ad43-4b40-b4ae-5d94f154261f.jpg?1792508198" uuid="b04066ef-ad43-4b40-b4ae-5d94f154261f" rarity="rare" num="75">TRK</set>
+            <set artist="Mark Spears" picURL="https://cards.scryfall.io/large/front/f/a/fa9755ba-831d-47a2-a172-d2bfb13edefe.jpg?1792508684" uuid="fa9755ba-831d-47a2-a172-d2bfb13edefe" rarity="rare" num="358">TRK</set>
+            <set artist="Jack Hughes" picURL="https://cards.scryfall.io/large/front/2/b/2b71b656-a316-4f29-b2bd-44165ad8cebe.jpg?1792508813" uuid="2b71b656-a316-4f29-b2bd-44165ad8cebe" rarity="rare" num="412">TRK</set>
+            <set artist="Jack Hughes" picURL="https://cards.scryfall.io/large/front/9/7/971cbb33-7374-4b08-8765-8ccb6f5858d1.jpg?1792509127" uuid="971cbb33-7374-4b08-8765-8ccb6f5858d1" rarity="rare" num="536">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Romulan Bird-of-Prey</name>
+            <text>Cloaking Device — As long as this Spacecraft isn't a creature, it has hexproof.
+Whenever you cast a noncreature spell, if this Spacecraft isn't a creature, put two charge counters on it.
+Station
+8+ | Flying</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>1U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>4/4</pt>
+                <type>Artifact — Spacecraft</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Edouard" picURL="https://cards.scryfall.io/large/front/6/a/6a461d90-6b7b-4777-958a-8a5d8365ad8c.jpg?1792508202" uuid="6a461d90-6b7b-4777-958a-8a5d8365ad8c" rarity="rare" num="77">TRK</set>
+            <set artist="Edouard" picURL="https://cards.scryfall.io/large/front/c/5/c54b4e4a-72b3-481c-9eda-647fdcb04ff2.jpg?1792508914" uuid="c54b4e4a-72b3-481c-9eda-647fdcb04ff2" rarity="rare" num="452">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Scotty, Miracle Worker</name>
+            <text>During your main phase, each card in your graveyard has beam me up. The beam me up cost is equal to that spell's mana cost. Scotty can't be beamed up to cast a spell this way. (Only instant and sorcery spells can be cast this way. You may cast a card from your graveyard for its beam me up cost if you also return another creature you control to its owner's hand. Then exile that spell.)</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1UU</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>2/3</pt>
+                <type>Legendary Creature — Human Artificer</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Sam Kennedy" picURL="https://cards.scryfall.io/large/front/4/2/42f77f9e-5e56-45ac-aa93-36353c92bca9.jpg?1792758783" uuid="42f77f9e-5e56-45ac-aa93-36353c92bca9" rarity="mythic" num="79">TRK</set>
+            <set artist="Marc Aspinall" picURL="https://cards.scryfall.io/large/front/d/9/d97123d6-8420-4400-8d6c-a3ed5c84ad5d.jpg?1792758882" uuid="d97123d6-8420-4400-8d6c-a3ed5c84ad5d" rarity="mythic" num="413">TRK</set>
+            <set artist="Marc Aspinall" picURL="https://cards.scryfall.io/large/front/0/0/008db37b-1b2e-4554-b927-8a75ce4ff668.jpg?1792758897" uuid="008db37b-1b2e-4554-b927-8a75ce4ff668" rarity="mythic" num="537">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Seven of Nine, Unassimilated</name>
+            <text>At the beginning of your first main phase, draw a card. Then discard a card unless you control five or more differently named lands.
+{6}{U}: Seven of Nine's base power and toughness become 7/9. Activate only if you control seven or more differently named lands.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>0/4</pt>
+                <type>Legendary Artifact Creature — Human Officer</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Toraji" picURL="https://cards.scryfall.io/large/front/d/d/ddc517bd-27e1-4688-8941-a41c312bd782.jpg?1792508210" uuid="ddc517bd-27e1-4688-8941-a41c312bd782" rarity="mythic" num="80">TRK</set>
+            <set artist="Anna Czeszejko" picURL="https://cards.scryfall.io/large/front/e/a/ea6e116e-4086-42be-baf3-48255002d5d1.jpg?1792508741" uuid="ea6e116e-4086-42be-baf3-48255002d5d1" rarity="mythic" num="373">TRK</set>
+            <set artist="Anna Czeszejko" picURL="https://cards.scryfall.io/large/front/f/b/fbe692d2-e8ae-464b-84a9-fe7063e806c0.jpg?1792509052" uuid="fbe692d2-e8ae-464b-84a9-fe7063e806c0" rarity="mythic" num="507">TRK</set>
+            <set artist="Jack Hughes" picURL="https://cards.scryfall.io/large/front/4/0/4016a92a-b662-4d22-8072-6c1ccb77c2c3.jpg?1792509251" uuid="4016a92a-b662-4d22-8072-6c1ccb77c2c3" rarity="mythic" num="1705">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Subcommander T'Pol</name>
+            <text>Flash
+When Subcommander T'Pol enters, choose one —
+• Counter target activated or triggered ability.
+• Tap up to one target artifact or creature. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>3/1</pt>
+                <type>Legendary Creature — Vulcan Scientist</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Kieran Yanner" picURL="https://cards.scryfall.io/large/front/7/d/7d90016d-c2cb-457b-9d97-c3b9411c46e3.jpg?1792808727" uuid="7d90016d-c2cb-457b-9d97-c3b9411c46e3" rarity="rare" num="82">TRK</set>
+            <set artist="Kieran Yanner" picURL="https://cards.scryfall.io/large/front/1/4/142b8804-3bfd-4735-998f-3592b10deb80.jpg?1792808739" uuid="142b8804-3bfd-4735-998f-3592b10deb80" rarity="rare" num="453">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Suurok-Class Science Vessel</name>
+            <text>When this Spacecraft enters, draw a card.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 5+.)
+5+ | Flying</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>2U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>3/2</pt>
+                <type>Artifact — Spacecraft</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Pace Wilder" picURL="https://cards.scryfall.io/large/front/7/6/7608943e-329e-41f9-b098-a0a94b01e6a1.jpg?1792739758" uuid="7608943e-329e-41f9-b098-a0a94b01e6a1" rarity="common" num="83">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Test of Priorities</name>
+            <text>Choose one —
+• Power to Engines — Surveil 2, then draw a card.
+• Power to Life Support — Exile target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.</text>
+            <prop>
+                <maintype>Instant</maintype>
+                <manacost>1U</manacost>
+                <layout>normal</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <type>Instant</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Paolo Puggioni" picURL="https://cards.scryfall.io/large/front/8/9/89e3ec23-e4dc-4d58-aeda-9f73ed4504a5.jpg?1792892187" uuid="89e3ec23-e4dc-4d58-aeda-9f73ed4504a5" rarity="uncommon" num="85">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Those Old Scientists</name>
+            <text>(As this Saga enters and after your draw
+step, add a lore counter. Sacrifice after III.)
+I — Draw two cards, then discard two cards.
+II — Return up to one target artifact, instant, or sorcery card from your graveyard to your hand.
+III — Choose up to two target cards in graveyards. The owners of those cards shuffle them into their libraries.</text>
+            <prop>
+                <maintype>Enchantment</maintype>
+                <manacost>2U</manacost>
+                <layout>saga</layout>
+                <colors>U</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <type>Enchantment — Saga</type>
+                <coloridentity>U</coloridentity>
+            </prop>
+            <set artist="Gregg Schigiel" picURL="https://cards.scryfall.io/large/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.jpg?1792753712" uuid="44280b43-b07e-43a4-9ae3-2eac0baeb918" rarity="uncommon" num="86">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Blastoneuron</name>
+            <text>Flying
+When this creature enters, exile target creature card with mana value 3 or less from your graveyard. Create a token that's a copy of it. That token gains haste. Sacrifice it at the beginning of the next end step.
+Whenever one or more cards leave your graveyard, each opponent loses 1 life and you gain 1 life.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>3B</manacost>
+                <layout>normal</layout>
+                <colors>B</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>2/2</pt>
+                <type>Creature — Jellyfish Leech</type>
+                <coloridentity>B</coloridentity>
+            </prop>
+            <set artist="Bastien L. Deharme" picURL="https://cards.scryfall.io/large/front/c/1/c1855a4c-c7d1-407c-b134-4c43968cbdd3.jpg?1792753729" uuid="c1855a4c-c7d1-407c-b134-4c43968cbdd3" rarity="uncommon" num="96">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>D'Ghor Bloodletter</name>
+            <text>When this creature enters, choose one —
+• All other creatures get -1/-1 until end of turn.
+• Each player sacrifices a creature of their choice.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2B</manacost>
+                <layout>normal</layout>
+                <colors>B</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>2/2</pt>
+                <type>Creature — Klingon Assassin</type>
+                <coloridentity>B</coloridentity>
+            </prop>
+            <set artist="Patricia Pria" picURL="https://cards.scryfall.io/large/front/5/0/5075645d-ef69-4559-953e-c3140153bd75.jpg?1792753733" uuid="5075645d-ef69-4559-953e-c3140153bd75" rarity="uncommon" num="101">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Death Is Irrelevant</name>
+            <text>Artifact creatures you control have indestructible.
+At the beginning of your end step, assimilate target creature card from a graveyard. (Put it onto the battlefield under your control with a +1/+1 counter. It's a Borg artifact creature and loses all other creature types.)</text>
+            <prop>
+                <maintype>Enchantment</maintype>
+                <manacost>6BB</manacost>
+                <layout>normal</layout>
+                <colors>B</colors>
+                <side>front</side>
+                <cmc>8</cmc>
+                <type>Enchantment</type>
+                <coloridentity>B</coloridentity>
+            </prop>
+            <set artist="Narendra Bintara Adi" picURL="https://cards.scryfall.io/large/front/4/0/408cb5dd-1a79-47a9-98ea-41f3f4502c5e.jpg?1792668404" uuid="408cb5dd-1a79-47a9-98ea-41f3f4502c5e" rarity="mythic" num="102">TRK</set>
+            <set artist="Nicky Barkla" picURL="https://cards.scryfall.io/large/front/9/0/905277a1-ae6b-4876-a724-3d58a84f76cf.jpg?1792668416" uuid="905277a1-ae6b-4876-a724-3d58a84f76cf" rarity="mythic" num="362">TRK</set>
+            <set artist="Paulius Daščioras" picURL="https://cards.scryfall.io/large/front/8/3/835a6118-a234-4db4-95d9-68b7af21ad87.jpg?1792668420" uuid="835a6118-a234-4db4-95d9-68b7af21ad87" rarity="mythic" num="375">TRK</set>
+            <set artist="Paulius Daščioras" picURL="https://cards.scryfall.io/large/front/4/2/423ada94-a251-40f4-ae53-99fbb073d550.jpg?1792668487" uuid="423ada94-a251-40f4-ae53-99fbb073d550" rarity="mythic" num="509">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Elim Garak, Simple Tailor</name>
+            <text>Menace
+Whenever you face a dilemma, each opponent loses 2 life and you gain 2 life. (You face a dilemma as you choose one or more modes for a spell or ability.)</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2B</manacost>
+                <layout>normal</layout>
+                <colors>B</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>3/3</pt>
+                <type>Legendary Creature — Cardassian Rogue</type>
+                <coloridentity>B</coloridentity>
+            </prop>
+            <set artist="Alexander Gering" picURL="https://cards.scryfall.io/large/front/1/1/113bd51a-dfbb-4106-adf3-e567057fcd06.jpg?1792668600" uuid="113bd51a-dfbb-4106-adf3-e567057fcd06" rarity="rare" num="106">TRK</set>
+            <set artist="Alexander Gering" picURL="https://cards.scryfall.io/large/front/2/c/2c881def-1b77-42ed-9fdc-45f0ebbf843d.jpg?1792668613" uuid="2c881def-1b77-42ed-9fdc-45f0ebbf843d" rarity="rare" num="456">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Georgiou, Terran Emperor</name>
+            <text>You don't lose the game for having 0 or less life.
+At the beginning of your end step, you lose 3 life and draw a card. Then if your life total is 0 or less, create ten 1/1 red Officer creature tokens.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>4BB</manacost>
+                <layout>normal</layout>
+                <colors>B</colors>
+                <side>front</side>
+                <cmc>6</cmc>
+                <pt>4/6</pt>
+                <type>Legendary Creature — Human Rogue Noble</type>
+                <coloridentity>B</coloridentity>
+            </prop>
+            <set artist="Julia Metzger" picURL="https://cards.scryfall.io/large/front/a/6/a68361a3-83fa-44b5-92b5-b7905866fc99.jpg?1792753873" uuid="a68361a3-83fa-44b5-92b5-b7905866fc99" rarity="mythic" num="110">TRK</set>
+            <set artist="Julia Metzger" picURL="https://cards.scryfall.io/large/front/5/3/53401f53-aebe-4538-82be-9d6916c01c76.jpg?1792753759" uuid="53401f53-aebe-4538-82be-9d6916c01c76" rarity="mythic" num="457">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Impossible Choice</name>
+            <text>Choose one —
+• Surgical Separation — Destroy target creature. Its controller creates two 1/1 red Officer creature tokens.
+• Remain Fused — You draw two cards and each player loses 2 life.</text>
+            <prop>
+                <maintype>Instant</maintype>
+                <manacost>2B</manacost>
+                <layout>normal</layout>
+                <colors>B</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <type>Instant</type>
+                <coloridentity>B</coloridentity>
+            </prop>
+            <set artist="Douglas Shuler" picURL="https://cards.scryfall.io/large/front/6/c/6c5a87cf-7790-4335-8497-ff793bbdcb05.jpg?1792808848" uuid="6c5a87cf-7790-4335-8497-ff793bbdcb05" rarity="uncommon" num="116">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Khan, Vengeful Heart</name>
+            <text>When Khan enters, you may sacrifice another creature or artifact. If you do, draw two cards.
+You may cast this card from exile.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2BB</manacost>
+                <layout>normal</layout>
+                <colors>B</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>5/3</pt>
+                <type>Legendary Creature — Human Warrior</type>
+                <coloridentity>B</coloridentity>
+            </prop>
+            <set artist="Sam Kennedy" picURL="https://cards.scryfall.io/large/front/a/6/a6f47b34-02fb-41d2-978a-a6d0a47ee8ba.jpg?1792551016" uuid="a6f47b34-02fb-41d2-978a-a6d0a47ee8ba" rarity="mythic" num="119">TRK</set>
+            <set artist="Grant Griffin" picURL="https://cards.scryfall.io/large/front/8/0/80dcc7dd-203f-4a3b-afe7-52987bbd006b.jpg?1792508811" uuid="80dcc7dd-203f-4a3b-afe7-52987bbd006b" rarity="mythic" num="416">TRK</set>
+            <set artist="Grant Griffin" picURL="https://cards.scryfall.io/large/front/9/d/9d0dce51-002b-43b6-ac0e-d78c062b99b7.jpg?1792509137" uuid="9d0dce51-002b-43b6-ac0e-d78c062b99b7" rarity="mythic" num="540">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Obsidian Order Operative</name>
+            <text>Whenever you face a dilemma, each opponent loses 1 life and you gain 1 life. (You face a dilemma as you choose one or more modes for a spell or ability.)</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>3B</manacost>
+                <layout>normal</layout>
+                <colors>B</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>2/5</pt>
+                <type>Creature — Cardassian Officer Spy</type>
+                <coloridentity>B</coloridentity>
+            </prop>
+            <set artist="Wero Gallo" picURL="https://cards.scryfall.io/large/front/1/7/17a7b0a8-baaf-4e6a-8536-f511c796a713.jpg?1792672365" uuid="17a7b0a8-baaf-4e6a-8536-f511c796a713" rarity="common" num="120">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Storied Veteran</name>
+            <text>This creature can't block.
+You may cast this card from your graveyard. If you do, it enters with a finality counter on it.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>B</manacost>
+                <layout>normal</layout>
+                <colors>B</colors>
+                <side>front</side>
+                <cmc>1</cmc>
+                <pt>2/1</pt>
+                <type>Creature — Klingon Advisor</type>
+                <coloridentity>B</coloridentity>
+            </prop>
+            <set artist="Ana Teresa Rivera" picURL="https://cards.scryfall.io/large/front/3/b/3b80995c-8e9a-4a9c-8854-59439a58166f.jpg?1792753937" uuid="3b80995c-8e9a-4a9c-8854-59439a58166f" rarity="uncommon" num="129">TRK</set>
+            <set artist="Darius Zablockis" picURL="https://cards.scryfall.io/large/front/3/2/32c2bfbf-e2ea-46c3-b369-1e203c8af716.jpg?1792753748" uuid="32c2bfbf-e2ea-46c3-b369-1e203c8af716" rarity="uncommon" num="429">TRK</set>
+            <set artist="Darius Zablockis" picURL="https://cards.scryfall.io/large/front/c/1/c1b5426e-9ba1-40c0-9954-2fc00da8e04f.jpg?1792753928" uuid="c1b5426e-9ba1-40c0-9954-2fc00da8e04f" rarity="uncommon" num="439">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Test of Loyalty</name>
+            <text>Choose one —
+• Plain, Simple Garak — Exile target card from a graveyard. Draw a card.
+• Of the Obsidian Order — Return target creature card from your graveyard to your hand.</text>
+            <prop>
+                <maintype>Sorcery</maintype>
+                <manacost>B</manacost>
+                <layout>normal</layout>
+                <colors>B</colors>
+                <side>front</side>
+                <cmc>1</cmc>
+                <type>Sorcery</type>
+                <coloridentity>B</coloridentity>
+            </prop>
+            <set artist="Bartek Fedyczak" picURL="https://cards.scryfall.io/large/front/7/2/722eeb21-be3c-4ae6-abd2-c3281d53c035.jpg?1792753889" uuid="722eeb21-be3c-4ae6-abd2-c3281d53c035" rarity="uncommon" num="134">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>U.S.S. Reliant, From Hell's Heart</name>
+            <text>Whenever U.S.S. Reliant enters or deals combat damage to a player, return target creature card with mana value 4 or less from your graveyard to the battlefield with a finality counter on it.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 10+.)
+10+ | Flying</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>2BB</manacost>
+                <layout>normal</layout>
+                <colors>B</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>4/3</pt>
+                <type>Legendary Artifact — Spacecraft</type>
+                <coloridentity>B</coloridentity>
+            </prop>
+            <set artist="Dofresh" picURL="https://cards.scryfall.io/large/front/a/4/a4c6fc55-f585-4529-b549-31d4d838c9af.jpg?1792551037" uuid="a4c6fc55-f585-4529-b549-31d4d838c9af" rarity="rare" num="135">TRK</set>
+            <set artist="Dofresh" picURL="https://cards.scryfall.io/large/front/2/a/2aad44f7-e3f4-46e9-b633-eb939dfd8e51.jpg?1792551043" uuid="2aad44f7-e3f4-46e9-b633-eb939dfd8e51" rarity="rare" num="461">TRK</set>
+            <set artist="Scott Okumura" picURL="https://cards.scryfall.io/large/front/d/c/dc9fa6b6-6cb9-4fc9-bda0-2bb9a1fe8313.jpg?1792509159" uuid="dc9fa6b6-6cb9-4fc9-bda0-2bb9a1fe8313" rarity="rare" num="552">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Captain Michael Burnham</name>
+            <text>Trample
+Landfall — Whenever a land you control enters, Captain Burnham deals 1 damage to each opponent. If this is the second time this ability has resolved this turn, put a +1/+1 counter on Captain Burnham.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2R</manacost>
+                <layout>normal</layout>
+                <colors>R</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>3/3</pt>
+                <type>Legendary Creature — Human Officer</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Romana Kendelic" picURL="https://cards.scryfall.io/large/front/e/1/e10d6d71-9360-4ecf-97c8-22afb22aaeb7.jpg?1792508221" uuid="e10d6d71-9360-4ecf-97c8-22afb22aaeb7" rarity="uncommon" num="143">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>D-7 Battle Cruiser</name>
+            <text>Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+3+ | At the beginning of combat on your turn, create a 2/1 red Klingon Warrior creature token with haste. Sacrifice it at the beginning of the next end step.
+8+ | Flying</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>1R</manacost>
+                <layout>normal</layout>
+                <colors>R</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>3/3</pt>
+                <type>Artifact — Spacecraft</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Kevin Glint" picURL="https://cards.scryfall.io/large/front/6/c/6c22998d-7bd7-433d-95b8-50f2fd8b7b7f.jpg?1792508232" uuid="6c22998d-7bd7-433d-95b8-50f2fd8b7b7f" rarity="rare" num="145">TRK</set>
+            <set artist="Kevin Glint" picURL="https://cards.scryfall.io/large/front/4/0/40c41dc2-f67d-4199-a1bb-eb15c776fe8e.jpg?1792508928" uuid="40c41dc2-f67d-4199-a1bb-eb15c776fe8e" rarity="rare" num="463">TRK</set>
+            <set artist="Scott Okumura" picURL="https://cards.scryfall.io/large/front/a/3/a30e0582-b5de-40f0-a284-3251e4092eda.jpg?1792509155" uuid="a30e0582-b5de-40f0-a284-3251e4092eda" rarity="rare" num="553">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Dahar Master</name>
+            <text>When this creature enters, you may sacrifice another nonland permanent. When you do, this creature deals 2 damage to any target.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>3R</manacost>
+                <layout>normal</layout>
+                <colors>R</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>4/3</pt>
+                <type>Creature — Klingon Warrior</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Grant Griffin" picURL="https://cards.scryfall.io/large/front/1/1/1122fe1c-97f7-409d-ad37-0fed46f9f963.jpg?1792590970" uuid="1122fe1c-97f7-409d-ad37-0fed46f9f963" rarity="common" num="146">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Erica Ortegas, Plucky Pilot</name>
+            <text>Haste
+Whenever Erica Ortegas becomes tapped, you may put a land card from your hand onto the battlefield. If you do, return a land you control to its owner's hand at the beginning of the next end step.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>3R</manacost>
+                <layout>normal</layout>
+                <colors>R</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>3/3</pt>
+                <type>Legendary Creature — Human Pilot</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Romana Kendelic" picURL="https://cards.scryfall.io/large/front/3/6/3667eb41-598e-4543-97ed-6da961f8b567.jpg?1792892279" uuid="3667eb41-598e-4543-97ed-6da961f8b567" rarity="uncommon" num="149">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Exploratory Mission</name>
+            <text>Landfall — Whenever a land you control enters, put a quest counter on this enchantment. Then exile cards from the top of your library until you exile a nonland card. You may play that card this turn. If this enchantment has five or more quest counters on it, add {R}{R}.</text>
+            <prop>
+                <maintype>Enchantment</maintype>
+                <manacost>2RR</manacost>
+                <layout>normal</layout>
+                <colors>R</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <type>Enchantment</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Jason Pastrana" picURL="https://cards.scryfall.io/large/front/6/1/61bb2ec5-5f04-4c34-ba72-7fa226922c5c.jpg?1792808908" uuid="61bb2ec5-5f04-4c34-ba72-7fa226922c5c" rarity="uncommon" num="150">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Infinite Diversity</name>
+            <text>Federation — Exile target instant or sorcery card from your graveyard. Copy that card X times, where X is the number of creature types among non-Borg creatures you control. You may cast the copies without paying their mana costs. Exile Infinite Diversity.</text>
+            <prop>
+                <maintype>Sorcery</maintype>
+                <manacost>7RR</manacost>
+                <layout>normal</layout>
+                <colors>R</colors>
+                <side>front</side>
+                <cmc>9</cmc>
+                <type>Sorcery</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Julie Dillon" picURL="https://cards.scryfall.io/large/front/3/3/33ade614-3593-4055-8ecc-2d9e4858ba19.jpg?1792892312" uuid="33ade614-3593-4055-8ecc-2d9e4858ba19" rarity="mythic" num="153">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Lwaxana Troi, Charming Guest</name>
+            <text>You may choose not to untap Lwaxana Troi during your untap step.
+{2}, {T}: Choose another target creature you control. For as long as Lwaxana Troi remains tapped, if a triggered ability of that creature triggers, that ability triggers an additional time.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1R</manacost>
+                <layout>normal</layout>
+                <colors>R</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>2/2</pt>
+                <type>Legendary Creature — Betazoid Advisor</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Marta Nael" picURL="https://cards.scryfall.io/large/front/1/9/19bf2f2f-4be2-4958-bfab-eb46c9ca1995.jpg?1792892849" uuid="19bf2f2f-4be2-4958-bfab-eb46c9ca1995" rarity="rare" num="157">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Q, Stacking the Deck</name>
+            <text>When Q enters, shuffle your library, then exile cards from the top of your library until you exile a nonland card. That nonland card gains "Exile a card from your hand: Create a copy of this card. You may cast the copy. Activate only during your turn and only if this card is exiled."</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2RR</manacost>
+                <layout>normal</layout>
+                <colors>R</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>4/4</pt>
+                <type>Legendary Creature — Q</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Ryan Valle" picURL="https://cards.scryfall.io/large/front/d/c/dcbe34db-0065-4960-92b8-3ea1d336e803.jpg?1792508237" uuid="dcbe34db-0065-4960-92b8-3ea1d336e803" rarity="mythic" num="165">TRK</set>
+            <set artist="Viktor Fetsch" picURL="https://cards.scryfall.io/large/front/8/8/881693cb-1492-4347-88a5-e96dc907744b.jpg?1792508756" uuid="881693cb-1492-4347-88a5-e96dc907744b" rarity="mythic" num="383">TRK</set>
+            <set artist="Viktor Fetsch" picURL="https://cards.scryfall.io/large/front/b/1/b1126734-d3df-42f0-ba4e-39cbf8f3c4d5.jpg?1792509077" uuid="b1126734-d3df-42f0-ba4e-39cbf8f3c4d5" rarity="mythic" num="517">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Quark, Humble Proprietor</name>
+            <text>You can't sacrifice Treasure tokens.
+At the beginning of each upkeep, create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2R</manacost>
+                <layout>normal</layout>
+                <colors>R</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>1/2</pt>
+                <type>Legendary Creature — Ferengi Rogue</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Alex Negrea" picURL="https://cards.scryfall.io/large/front/9/6/96104754-57e2-46e9-948d-628aab2aa0ad.jpg?1792508242" uuid="96104754-57e2-46e9-948d-628aab2aa0ad" rarity="mythic" num="166">TRK</set>
+            <set artist="Marija Tiurina" picURL="https://cards.scryfall.io/large/front/c/0/c06bc240-4dd2-4b77-be94-aecb882ea734.jpg?1792508663" uuid="c06bc240-4dd2-4b77-be94-aecb882ea734" rarity="mythic" num="347">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ravenous Cosmozoan</name>
+            <text>This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.
+Flying, haste</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>5R</manacost>
+                <layout>normal</layout>
+                <colors>R</colors>
+                <side>front</side>
+                <cmc>6</cmc>
+                <pt>3/3</pt>
+                <type>Creature — Fish</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Bruce Brenneise" picURL="https://cards.scryfall.io/large/front/8/e/8eeb471b-412d-4ea1-bec0-d7dd0a557d76.jpg?1792758700" uuid="8eeb471b-412d-4ea1-bec0-d7dd0a557d76" rarity="uncommon" num="167">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Worf, Intelligence Contractor</name>
+            <text>When Worf enters, for each opponent, gain control of up to one target creature that player controls with mana value 3 or less until end of turn. Untap those creatures. Until end of turn, they become Warriors in addition to their other types and gain haste.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2R</manacost>
+                <layout>normal</layout>
+                <colors>R</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>3/2</pt>
+                <type>Legendary Creature — Klingon Warrior Spy</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Jodie Muir" picURL="https://cards.scryfall.io/large/front/7/d/7df6c8c1-1f85-4c5d-a4f6-9ffcdad1b12e.jpg?1792508250" uuid="7df6c8c1-1f85-4c5d-a4f6-9ffcdad1b12e" rarity="rare" num="180">TRK</set>
+            <set artist="Gintas Galvanauskas" picURL="https://cards.scryfall.io/large/front/f/1/f177de31-b7f0-46d3-a3a9-a708f8d4a95f.jpg?1792508843" uuid="f177de31-b7f0-46d3-a3a9-a708f8d4a95f" rarity="rare" num="431">TRK</set>
+            <set artist="Gintas Galvanauskas" picURL="https://cards.scryfall.io/large/front/9/a/9af008b2-d11f-4413-85aa-a45c0f6efa8f.jpg?1792508884" uuid="9af008b2-d11f-4413-85aa-a45c0f6efa8f" rarity="rare" num="441">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>The Wrath of Khan</name>
+            <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — This Saga deals 4 damage to target creature an opponent controls. At the beginning of the next combat this turn, gain control of that creature until end of turn. Untap it. It gains haste until end of turn.
+II — You may exile a card from your hand. If you do, draw a card.
+III — Each opponent sacrifices a nontoken permanent of their choice.</text>
+            <prop>
+                <maintype>Enchantment</maintype>
+                <manacost>2R</manacost>
+                <layout>saga</layout>
+                <colors>R</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <type>Enchantment — Saga</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Kirk DouPonce" picURL="https://cards.scryfall.io/large/front/4/2/426d627e-bb88-4879-8d9f-db1babf22b15.jpg?1792510667" uuid="426d627e-bb88-4879-8d9f-db1babf22b15" rarity="rare" num="181">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Adversary by Algorithm</name>
+            <text>Create a 3/3 colorless Illusion artifact creature token.
+Beam me up {3}{G} (You may cast this card from your graveyard for {3}{G} if you also return a creature you control to its owner's hand. Then exile this spell.)</text>
+            <prop>
+                <maintype>Sorcery</maintype>
+                <manacost>2G</manacost>
+                <layout>normal</layout>
+                <colors>G</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <type>Sorcery</type>
+                <coloridentity>G</coloridentity>
+            </prop>
+            <set artist="Tony Foti" picURL="https://cards.scryfall.io/large/front/4/1/41644f06-d08f-406c-a56a-47e1b5273982.jpg?1792808652" uuid="41644f06-d08f-406c-a56a-47e1b5273982" rarity="uncommon" num="182">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Branching Timeline</name>
+            <text>Strange new worlds — Reveal the top X cards of your library, where X is the number of differently named lands you control. Put all permanent cards revealed this way onto the battlefield tapped and the rest on the bottom of your library in a random order.</text>
+            <prop>
+                <maintype>Sorcery</maintype>
+                <manacost>6GG</manacost>
+                <layout>normal</layout>
+                <colors>G</colors>
+                <side>front</side>
+                <cmc>8</cmc>
+                <type>Sorcery</type>
+                <coloridentity>G</coloridentity>
+            </prop>
+            <set artist="Borja Pindado" picURL="https://cards.scryfall.io/large/front/4/a/4a2231ff-677d-4041-9413-b8d683846920.jpg?1792892092" uuid="4a2231ff-677d-4041-9413-b8d683846920" rarity="rare" num="185">TRK</set>
+            <set artist="Borja Pindado" picURL="https://cards.scryfall.io/large/front/b/6/b65e91bf-565f-4fb1-b8e6-7a7cd57f84d6.jpg?1792892109" uuid="b65e91bf-565f-4fb1-b8e6-7a7cd57f84d6" rarity="rare" num="466">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Captain Jonathan Archer</name>
+            <text>When Captain Archer enters, create Porthos, a legendary 1/1 green Dog creature token.
+Federation — {G}, {T}: Target creature you control gets +X/+X until end of turn, where X is the number of creature types among non-Borg creatures you control. Activate only as a sorcery.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2G</manacost>
+                <layout>normal</layout>
+                <colors>G</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>3/3</pt>
+                <type>Legendary Creature — Human Officer</type>
+                <coloridentity>G</coloridentity>
+            </prop>
+            <set artist="Julia Metzger" picURL="https://cards.scryfall.io/large/front/a/4/a4518ea3-5f56-4f1d-9024-2bf06ac98786.jpg?1792508262" uuid="a4518ea3-5f56-4f1d-9024-2bf06ac98786" rarity="rare" num="186">TRK</set>
+            <set artist="Julia Metzger" picURL="https://cards.scryfall.io/large/front/a/a/aaaeeb0f-eb6f-41d6-be1f-7f8f14c4e82a.jpg?1792508934" uuid="aaaeeb0f-eb6f-41d6-be1f-7f8f14c4e82a" rarity="rare" num="467">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Captain Pike, Fullness of Time</name>
+            <text>Strange new worlds — Captain Pike's power and toughness are each equal to the number of differently named lands you control.
+You may look at the top card of your library any time.
+You may play lands from the top of your library.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1GG</manacost>
+                <layout>normal</layout>
+                <colors>G</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>*/*</pt>
+                <type>Legendary Creature — Human Officer Scout</type>
+                <coloridentity>G</coloridentity>
+            </prop>
+            <set artist="Joel Chaim Holtzman" picURL="https://cards.scryfall.io/large/front/7/4/743be4c4-5c91-42bb-9942-115e903041a9.jpg?1792508262" uuid="743be4c4-5c91-42bb-9942-115e903041a9" rarity="rare" num="188">TRK</set>
+            <set artist="Joel Chaim Holtzman" picURL="https://cards.scryfall.io/large/front/6/2/62c9b897-bc43-47f9-8939-13faaa0b7c6b.jpg?1792508944" uuid="62c9b897-bc43-47f9-8939-13faaa0b7c6b" rarity="rare" num="468">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dr. Joseph M'Benga</name>
+            <text>Other creatures you control with counters on them have hexproof.
+If you would put one or more counters on a creature you control, put twice that many of each of those kinds of counters on that creature instead.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2GG</manacost>
+                <layout>normal</layout>
+                <colors>G</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>3/3</pt>
+                <type>Legendary Creature — Human Doctor</type>
+                <coloridentity>G</coloridentity>
+            </prop>
+            <set artist="Romana Kendelic" picURL="https://cards.scryfall.io/large/front/c/2/c27e6865-40ba-406c-9dce-d8a7a9b8035b.jpg?1792508272" uuid="c27e6865-40ba-406c-9dce-d8a7a9b8035b" rarity="mythic" num="196">TRK</set>
+            <set artist="Romana Kendelic" picURL="https://cards.scryfall.io/large/front/7/1/71f54ed7-1def-4c3f-9be5-11332fce751f.jpg?1792508945" uuid="71f54ed7-1def-4c3f-9be5-11332fce751f" rarity="mythic" num="469">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Hologram Stalker</name>
+            <text>When this creature enters, return target permanent card from your graveyard to your hand.
+Whenever a card leaves your graveyard, create a 3/3 colorless Illusion artifact creature token. This ability triggers only once each turn.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>4GG</manacost>
+                <layout>normal</layout>
+                <colors>G</colors>
+                <side>front</side>
+                <cmc>6</cmc>
+                <pt>2/2</pt>
+                <type>Creature — Hirogen Warrior</type>
+                <coloridentity>G</coloridentity>
+            </prop>
+            <set artist="Hector Ortiz" picURL="https://cards.scryfall.io/large/front/6/b/6bd8a87b-ca7a-4a15-b96f-1a673ee44f3e.jpg?1792668500" uuid="6bd8a87b-ca7a-4a15-b96f-1a673ee44f3e" rarity="uncommon" num="202">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Jadzia Dax, Living Legacy</name>
+            <text>At the beginning of your first main phase, put a +1/+1 counter on Jadzia Dax, then add an amount of {G} equal to the number of counters on her.
+Transfer Symbiont — {2}{G}, Discard this card: Put two +1/+1 counters on target creature.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1G</manacost>
+                <layout>normal</layout>
+                <colors>G</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>0/1</pt>
+                <type>Legendary Creature — Trill Scientist</type>
+                <coloridentity>G</coloridentity>
+            </prop>
+            <set artist="John Tyler Christopher" picURL="https://cards.scryfall.io/large/front/b/d/bd342f8b-9072-487d-8a33-b1bb149f1502.jpg?1792891903" uuid="bd342f8b-9072-487d-8a33-b1bb149f1502" rarity="mythic" num="204">TRK</set>
+            <set artist="Marija Tiurina" picURL="https://cards.scryfall.io/large/front/6/e/6eff742c-9b8a-4458-976e-577d34e9c1d8.jpg?1792891932" uuid="6eff742c-9b8a-4458-976e-577d34e9c1d8" rarity="mythic" num="352">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Jake Sisko, War Correspondent</name>
+            <text>Landfall — Whenever a land you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, investigate. (Create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1G</manacost>
+                <layout>normal</layout>
+                <colors>G</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>2/2</pt>
+                <type>Legendary Creature — Human Citizen</type>
+                <coloridentity>G</coloridentity>
+            </prop>
+            <set artist="Ariel Orea" picURL="https://cards.scryfall.io/large/front/9/e/9e47c6b6-f99b-46be-98a1-92c98416aefe.jpg?1792758669" uuid="9e47c6b6-f99b-46be-98a1-92c98416aefe" rarity="uncommon" num="205">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Temporal Conqueror</name>
+            <text>When this creature enters, mill three cards. Then return a land card from your graveyard to your hand. If you can't, create a Treasure token. (To mill three cards, put the top three cards from your library into your graveyard.)</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2G</manacost>
+                <layout>normal</layout>
+                <colors>G</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>2/3</pt>
+                <type>Creature — Na'kuhl Warrior</type>
+                <coloridentity>G</coloridentity>
+            </prop>
+            <set artist="Douglas Shuler" picURL="https://cards.scryfall.io/large/front/b/0/b0bb51a7-1ae2-45d0-8be9-5454a3c8f751.jpg?1792672799" uuid="b0bb51a7-1ae2-45d0-8be9-5454a3c8f751" rarity="common" num="219">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Test of Courage</name>
+            <text>Choose one —
+• Alter the Past — Exile target card from a graveyard. You gain 2 life.
+• Obliterate the Transwarp Network — Destroy target artifact or enchantment with mana value 3 or less.</text>
+            <prop>
+                <maintype>Instant</maintype>
+                <manacost>G</manacost>
+                <layout>normal</layout>
+                <colors>G</colors>
+                <side>front</side>
+                <cmc>1</cmc>
+                <type>Instant</type>
+                <coloridentity>G</coloridentity>
+            </prop>
+            <set artist="Zoltan Boros" picURL="https://cards.scryfall.io/large/front/2/9/291b9b6b-54bf-4e71-98f1-cb9301ea0727.jpg?1792668501" uuid="291b9b6b-54bf-4e71-98f1-cb9301ea0727" rarity="uncommon" num="220">TRK</set>
+            <set artist="Gal Or" picURL="https://cards.scryfall.io/large/front/6/c/6cd8c8e4-a32e-4644-a990-70c649ce8985.jpg?1792668515" uuid="6cd8c8e4-a32e-4644-a990-70c649ce8985" rarity="uncommon" num="339">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>U.S.S. Discovery, at Black Alert</name>
+            <text>Whenever U.S.S. Discovery enters or attacks, discover 5. (Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+Station
+6+ | Flying</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>3GG</manacost>
+                <layout>normal</layout>
+                <colors>G</colors>
+                <side>front</side>
+                <cmc>5</cmc>
+                <pt>5/5</pt>
+                <type>Legendary Artifact — Spacecraft</type>
+                <coloridentity>G</coloridentity>
+            </prop>
+            <set artist="Kevin Glint" picURL="https://cards.scryfall.io/large/front/6/9/69b1f87f-ff02-4945-9f07-18dab5035e2d.jpg?1792508275" uuid="69b1f87f-ff02-4945-9f07-18dab5035e2d" rarity="rare" num="221">TRK</set>
+            <set artist="Kevin Glint" picURL="https://cards.scryfall.io/large/front/f/0/f0a16d25-ab32-4744-8b61-3774dd28a2c1.jpg?1792508969" uuid="f0a16d25-ab32-4744-8b61-3774dd28a2c1" rarity="rare" num="474">TRK</set>
+            <set artist="Scott Okumura" picURL="https://cards.scryfall.io/large/front/7/3/7351dc6f-d162-4854-930d-bdeaf87c684b.jpg?1792509164" uuid="7351dc6f-d162-4854-930d-bdeaf87c684b" rarity="rare" num="554">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>All Good Things...</name>
+            <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I, II, III — Draw two cards, then exile a card from your hand.
+IV — If all cards exiled with this Saga share a card type, you gain 10 life.</text>
+            <prop>
+                <maintype>Enchantment</maintype>
+                <manacost>3GU</manacost>
+                <layout>saga</layout>
+                <colors>GU</colors>
+                <side>front</side>
+                <cmc>5</cmc>
+                <type>Enchantment — Saga</type>
+                <coloridentity>GU</coloridentity>
+            </prop>
+            <set artist="Lazare Gvimradze" picURL="https://cards.scryfall.io/large/front/f/e/fe5dda31-159c-49c7-962e-a04b771256ea.jpg?1792753779" uuid="fe5dda31-159c-49c7-962e-a04b771256ea" rarity="rare" num="226">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Borg Cube</name>
+            <text>Affinity for artifact creatures
+Whenever this Spacecraft enters or attacks, assimilate a creature card exiled with it. If you can't, exile up to one target creature. (To assimilate a card, put it onto the battlefield under your control with a +1/+1 counter. It's a Borg artifact creature and loses all other creature types.)
+Station
+12+ | Artifact creatures you control have flying.</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>5WB</manacost>
+                <layout>normal</layout>
+                <colors>BW</colors>
+                <side>front</side>
+                <cmc>7</cmc>
+                <pt>6/6</pt>
+                <type>Artifact — Spacecraft</type>
+                <coloridentity>BW</coloridentity>
+            </prop>
+            <set artist="Alexander Forssberg" picURL="https://cards.scryfall.io/large/front/e/5/e58f7310-3fd5-48d5-b6b7-a5d3e1808bbc.jpg?1792508285" uuid="e58f7310-3fd5-48d5-b6b7-a5d3e1808bbc" rarity="mythic" num="227">TRK</set>
+            <set artist="Alexander Forssberg" picURL="https://cards.scryfall.io/large/front/9/9/99f2ef04-7134-446a-b1d1-5e54d76adcb8.jpg?1792508955" uuid="99f2ef04-7134-446a-b1d1-5e54d76adcb8" rarity="mythic" num="475">TRK</set>
+            <set artist="Scott Okumura" picURL="https://cards.scryfall.io/large/front/9/5/953e0763-3788-4a97-8e2f-394cc2649e43.jpg?1792509174" uuid="953e0763-3788-4a97-8e2f-394cc2649e43" rarity="mythic" num="555">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Cleveland Booker, Empath</name>
+            <text>Landfall — Whenever a land you control enters, create a 2/2 red and green Worm creature token with "This token can't block."
+{8}: Creatures you control get +2/+0 until end of turn.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2R/GR/G</manacost>
+                <layout>normal</layout>
+                <colors>GR</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>2/2</pt>
+                <type>Legendary Creature — Kwejian Rogue</type>
+                <coloridentity>GR</coloridentity>
+            </prop>
+            <set artist="Kaitlyn McCulley" picURL="https://cards.scryfall.io/large/front/6/b/6b2e52e2-5cb9-4360-92d6-5c0d9e435d09.jpg?1792508285" uuid="6b2e52e2-5cb9-4360-92d6-5c0d9e435d09" rarity="uncommon" num="229">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Constable Odo</name>
+            <text>When Constable Odo enters, choose one —
+• Tap target creature an opponent controls. Put two stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+• Investigate twice. (To investigate, create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>3W/UW/U</manacost>
+                <layout>normal</layout>
+                <colors>UW</colors>
+                <side>front</side>
+                <cmc>5</cmc>
+                <pt>4/3</pt>
+                <type>Legendary Creature — Shapeshifter Detective</type>
+                <coloridentity>UW</coloridentity>
+            </prop>
+            <set artist="Jason Rainville" picURL="https://cards.scryfall.io/large/front/3/d/3df582e4-3bfb-4413-9b39-898f33a5c1fd.jpg?1792508297" uuid="3df582e4-3bfb-4413-9b39-898f33a5c1fd" rarity="uncommon" num="230">TRK</set>
+            <set artist="Marija Tiurina" picURL="https://cards.scryfall.io/large/front/c/0/c0d0b4ee-72f6-45b6-8911-e3ef979e40a0.jpg?1792508661" uuid="c0d0b4ee-72f6-45b6-8911-e3ef979e40a0" rarity="uncommon" num="348">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dal R'El, Augment Orphan</name>
+            <text>Landfall — Whenever a land you control enters, add {R} or {G}.
+{3}, Sacrifice a land: Draw a card.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1RG</manacost>
+                <layout>normal</layout>
+                <colors>GR</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>3/3</pt>
+                <type>Legendary Creature — Human Mutant Rogue</type>
+                <coloridentity>GR</coloridentity>
+            </prop>
+            <set artist="Stella Spente" picURL="https://cards.scryfall.io/large/front/0/d/0da52d3a-dd83-4662-8e6d-3f4d4d389c3d.jpg?1792508298" uuid="0da52d3a-dd83-4662-8e6d-3f4d4d389c3d" rarity="uncommon" num="231">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Daniels, Temporal Agent</name>
+            <text>When Daniels enters, return target creature card from your graveyard to your hand.
+{2}, Put this card from your graveyard on the bottom of your library: You gain 2 life.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2B/GB/G</manacost>
+                <layout>normal</layout>
+                <colors>BG</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>3/1</pt>
+                <type>Legendary Creature — Human Advisor</type>
+                <coloridentity>BG</coloridentity>
+            </prop>
+            <set artist="Kaitlyn McCulley" picURL="https://cards.scryfall.io/large/front/b/6/b64dd792-7dc7-4d22-9776-9b9e25e1173d.jpg?1792508309" uuid="b64dd792-7dc7-4d22-9776-9b9e25e1173d" rarity="uncommon" num="232">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>The Doctor, EMH</name>
+            <text>When The Doctor enters, put a +1/+1 counter on target creature. Then put a +1/+1 counter on each creature you control with a counter on it.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>3G/WG/W</manacost>
+                <layout>normal</layout>
+                <colors>GW</colors>
+                <side>front</side>
+                <cmc>5</cmc>
+                <pt>3/3</pt>
+                <type>Legendary Artifact Creature — Illusion Doctor</type>
+                <coloridentity>GW</coloridentity>
+            </prop>
+            <set artist="David Robert Hovey" picURL="https://cards.scryfall.io/large/front/8/f/8fbad0dd-5f74-40c0-9e3e-c06be8eabb14.jpg?1792508313" uuid="8fbad0dd-5f74-40c0-9e3e-c06be8eabb14" rarity="uncommon" num="234">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>The Duras Sisters</name>
+            <text>When The Duras Sisters die, create a 2/1 red Klingon Warrior creature token with haste.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>B/RB/R</manacost>
+                <layout>normal</layout>
+                <colors>BR</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>3/2</pt>
+                <type>Legendary Creature — Klingon Warrior</type>
+                <coloridentity>BR</coloridentity>
+            </prop>
+            <set artist="Harkalé Linaï" picURL="https://cards.scryfall.io/large/front/7/e/7eb112eb-2abf-4ba3-b9bd-b45ffa80f7eb.jpg?1792508321" uuid="7eb112eb-2abf-4ba3-b9bd-b45ffa80f7eb" rarity="uncommon" num="235">TRK</set>
+            <set artist="Michael MacRae" picURL="https://cards.scryfall.io/large/front/f/c/fc44d954-dc08-4071-8e2b-e65090de65dc.jpg?1792508845" uuid="fc44d954-dc08-4071-8e2b-e65090de65dc" rarity="uncommon" num="432">TRK</set>
+            <set artist="Michael MacRae" picURL="https://cards.scryfall.io/large/front/5/6/56c8d25b-9114-4412-af57-db7f8c2e20c4.jpg?1792508884" uuid="56c8d25b-9114-4412-af57-db7f8c2e20c4" rarity="uncommon" num="442">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>D'Vana Tendi, Optimistic Ensign</name>
+            <text>{T}: Untap another target permanent.
+{3}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1G/UG/U</manacost>
+                <layout>normal</layout>
+                <colors>GU</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>2/4</pt>
+                <type>Legendary Creature — Orion Scientist</type>
+                <coloridentity>GU</coloridentity>
+            </prop>
+            <set artist="Micah Epstein" picURL="https://cards.scryfall.io/large/front/2/0/206239ca-341a-4f07-8149-a24ccf20ee45.jpg?1792508323" uuid="206239ca-341a-4f07-8149-a24ccf20ee45" rarity="uncommon" num="236">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Gowron, Eager for Battle</name>
+            <text>Whenever another creature dies, put a +1/+1 counter on Gowron.
+Sacrifice another creature: Gowron gains trample until end of turn. If you sacrificed a Klingon this way, you draw a card and lose 1 life.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2BR</manacost>
+                <layout>normal</layout>
+                <colors>BR</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>3/3</pt>
+                <type>Legendary Creature — Klingon Warrior</type>
+                <coloridentity>BR</coloridentity>
+            </prop>
+            <set artist="Grant Griffin" picURL="https://cards.scryfall.io/large/front/d/6/d60613c2-5655-4051-babd-fc0f3a73fc77.jpg?1792508332" uuid="d60613c2-5655-4051-babd-fc0f3a73fc77" rarity="rare" num="237">TRK</set>
+            <set artist="Gintas Galvanauskas" picURL="https://cards.scryfall.io/large/front/1/a/1a7bda12-b72b-49e6-a086-644d0560ddc9.jpg?1792508854" uuid="1a7bda12-b72b-49e6-a086-644d0560ddc9" rarity="rare" num="433">TRK</set>
+            <set artist="Gintas Galvanauskas" picURL="https://cards.scryfall.io/large/front/2/0/20cbf82c-c8c1-4bd3-b701-7e8509a7f56d.jpg?1792508894" uuid="20cbf82c-c8c1-4bd3-b701-7e8509a7f56d" rarity="rare" num="443">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Gray and Adira, Forever Joined</name>
+            <text>At the beginning of combat on your turn, if you've cast a noncreature spell this turn, create a token that's a copy of target creature you control, except it isn't legendary. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2U/RU/R</manacost>
+                <layout>normal</layout>
+                <colors>RU</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>2/3</pt>
+                <type>Legendary Creature — Trill Human Officer</type>
+                <coloridentity>RU</coloridentity>
+            </prop>
+            <set artist="Julia Metzger" picURL="https://cards.scryfall.io/large/front/e/e/eede6822-c8bc-4344-81a9-bc608245d5b6.jpg?1792508333" uuid="eede6822-c8bc-4344-81a9-bc608245d5b6" rarity="uncommon" num="238">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Hemmer, Fixing What Is Broken</name>
+            <text>During your turn, Spacecraft you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)
+Whenever Hemmer becomes tapped, draw a card, then discard a card.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>WU</manacost>
+                <layout>normal</layout>
+                <colors>UW</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>2/3</pt>
+                <type>Legendary Creature — Aenar Artificer</type>
+                <coloridentity>UW</coloridentity>
+            </prop>
+            <set artist="Riccardo Federici" picURL="https://cards.scryfall.io/large/front/f/3/f3e730d7-3fd1-4bd2-a35b-6fb85bfd3c65.jpg?1792550956" uuid="f3e730d7-3fd1-4bd2-a35b-6fb85bfd3c65" rarity="uncommon" num="239">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Hit It!</name>
+            <text>Creatures you control have haste.
+When this enchantment enters, look at the top five cards of your library. Put a land card from among them onto the battlefield tapped and the rest into your graveyard.</text>
+            <prop>
+                <maintype>Enchantment</maintype>
+                <manacost>1RG</manacost>
+                <layout>normal</layout>
+                <colors>GR</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <type>Enchantment</type>
+                <coloridentity>GR</coloridentity>
+            </prop>
+            <set artist="Aaron J. Riley" picURL="https://cards.scryfall.io/large/front/6/2/6266506f-fabf-4b53-8f93-6e2115a3e5a4.jpg?1792508342" uuid="6266506f-fabf-4b53-8f93-6e2115a3e5a4" rarity="rare" num="240">TRK</set>
+            <set artist="Aaron J. Riley" picURL="https://cards.scryfall.io/large/front/2/d/2dad81b5-caf4-4d1c-9a29-8b556984d3f1.jpg?1792508964" uuid="2dad81b5-caf4-4d1c-9a29-8b556984d3f1" rarity="rare" num="476">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>The Inner Light</name>
+            <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Return target green or white creature card from your graveyard to the battlefield.
+II — Choose target creature. Whenever it deals combat damage to a player this turn, you draw that many cards.
+III — You gain life equal to the greatest power among creatures you control. Create a Treasure token.</text>
+            <prop>
+                <maintype>Enchantment</maintype>
+                <manacost>3GW</manacost>
+                <layout>saga</layout>
+                <colors>GW</colors>
+                <side>front</side>
+                <cmc>5</cmc>
+                <type>Enchantment — Saga</type>
+                <coloridentity>GW</coloridentity>
+            </prop>
+            <set artist="Marko Manev" picURL="https://cards.scryfall.io/large/front/a/f/af92a773-b237-4cd8-b50d-4f7c3b9290ed.jpg?1792753772" uuid="af92a773-b237-4cd8-b50d-4f7c3b9290ed" rarity="rare" num="241">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Kira Nerys, Firebrand</name>
+            <text>Trample
+If a creature you control would enter while you control an attacking creature, instead it enters tapped and attacking.
+Whenever another creature you control enters, it gets +1/+1 until end of turn.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1RW</manacost>
+                <layout>normal</layout>
+                <colors>RW</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>4/3</pt>
+                <type>Legendary Creature — Bajoran Soldier</type>
+                <coloridentity>RW</coloridentity>
+            </prop>
+            <set artist="Pauline Voss" picURL="https://cards.scryfall.io/large/front/8/1/81ad6427-e730-47c9-8310-6d3ca4b10c82.jpg?1792753896" uuid="81ad6427-e730-47c9-8310-6d3ca4b10c82" rarity="rare" num="242">TRK</set>
+            <set artist="Pauline Voss" picURL="https://cards.scryfall.io/large/front/f/4/f40be112-e41d-456b-919f-14b2dee7e6ee.jpg?1792753935" uuid="f40be112-e41d-456b-919f-14b2dee7e6ee" rarity="rare" num="477">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Kirk, Commanding Officer</name>
+            <text>Whenever you attack while creatures you control have total power 8 or greater, exile the top card of your library. You may play that card this turn.
+{2}, Sacrifice Kirk: Destroy target artifact or enchantment.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1RW</manacost>
+                <layout>normal</layout>
+                <colors>RW</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>3/3</pt>
+                <type>Legendary Creature — Human Officer</type>
+                <coloridentity>RW</coloridentity>
+            </prop>
+            <set artist="Cliff Nielsen" picURL="https://cards.scryfall.io/large/front/2/4/245d0430-0967-44f1-8c59-985104a8db30.jpg?1792508356" uuid="245d0430-0967-44f1-8c59-985104a8db30" rarity="uncommon" num="243">TRK</set>
+            <set artist="Mark Spears" picURL="https://cards.scryfall.io/large/front/8/4/84f6d529-33f7-4bdf-8ee0-43f5c4e8de6a.jpg?1792508706" uuid="84f6d529-33f7-4bdf-8ee0-43f5c4e8de6a" rarity="uncommon" num="355">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Live Long and Prosper</name>
+            <text>This spell can't be countered.
+Double your life total. Draw cards equal to the number of cards in your hand. You have no maximum hand size until your next turn.</text>
+            <prop>
+                <maintype>Sorcery</maintype>
+                <manacost>5WU</manacost>
+                <layout>normal</layout>
+                <colors>UW</colors>
+                <side>front</side>
+                <cmc>7</cmc>
+                <type>Sorcery</type>
+                <coloridentity>UW</coloridentity>
+            </prop>
+            <set artist="Stella Spente" picURL="https://cards.scryfall.io/large/front/0/f/0fc50ffc-3b4d-4fb3-898f-c308a63eb6e9.jpg?1792508356" uuid="0fc50ffc-3b4d-4fb3-898f-c308a63eb6e9" rarity="rare" num="244">TRK</set>
+            <set artist="Jack Hughes" picURL="https://cards.scryfall.io/large/front/7/d/7de29930-ace7-49ce-9b35-acce4bf876cf.jpg?1792508821" uuid="7de29930-ace7-49ce-9b35-acce4bf876cf" rarity="rare" num="423">TRK</set>
+            <set artist="Jack Hughes" picURL="https://cards.scryfall.io/large/front/b/2/b2f934db-403b-4f6a-9abc-d48eb9140e49.jpg?1792509146" uuid="b2f934db-403b-4f6a-9abc-d48eb9140e49" rarity="rare" num="547">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Locutus, the One Who Speaks</name>
+            <text>Artifact creatures you control get +1/+1.
+{W}{B}, Discard this card: It deals 2 damage to target creature. You gain 2 life.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>WB</manacost>
+                <layout>normal</layout>
+                <colors>BW</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>1/1</pt>
+                <type>Legendary Artifact Creature — Borg</type>
+                <coloridentity>BW</coloridentity>
+            </prop>
+            <set artist="Ariel Orea" picURL="https://cards.scryfall.io/large/front/2/9/296f1127-14a0-42c4-9e4a-c0d929720748.jpg?1792508366" uuid="296f1127-14a0-42c4-9e4a-c0d929720748" rarity="uncommon" num="245">TRK</set>
+            <set artist="Nicky Barkla" picURL="https://cards.scryfall.io/large/front/e/e/ee059c0f-eba9-4504-a92e-af762a510ee4.jpg?1792508708" uuid="ee059c0f-eba9-4504-a92e-af762a510ee4" rarity="uncommon" num="360">TRK</set>
+            <set artist="Erikas Perl" picURL="https://cards.scryfall.io/large/front/1/5/15387ef2-c761-4906-8909-4cf7dddefd9b.jpg?1792508766" uuid="15387ef2-c761-4906-8909-4cf7dddefd9b" rarity="uncommon" num="389">TRK</set>
+            <set artist="Erikas Perl" picURL="https://cards.scryfall.io/large/front/d/9/d9d45bf1-9007-4d5d-bc32-fb11a353edc5.jpg?1792509088" uuid="d9d45bf1-9007-4d5d-bc32-fb11a353edc5" rarity="uncommon" num="523">TRK</set>
+            <set artist="Ariel Orea" picURL="https://cards.scryfall.io/large/front/2/2/22af225f-8b59-4e6b-b469-a2272c7d487f.jpg?1792509211" uuid="22af225f-8b59-4e6b-b469-a2272c7d487f" rarity="uncommon" num="576">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Lore, Positronic Provocateur</name>
+            <text>When Lore enters, choose one —
+• Target creature gets +1/+0 until end of turn and can't be blocked this turn.
+• Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1U/BU/B</manacost>
+                <layout>normal</layout>
+                <colors>BU</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>2/3</pt>
+                <type>Legendary Artifact Creature — Android Rogue</type>
+                <coloridentity>BU</coloridentity>
+            </prop>
+            <set artist="Wei Guan" picURL="https://cards.scryfall.io/large/front/6/2/62afa55d-d4ba-48d5-9991-0f8408f9c92c.jpg?1792508378" uuid="62afa55d-d4ba-48d5-9991-0f8408f9c92c" rarity="uncommon" num="246">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>L'Rell, Fierce Visionary</name>
+            <text>At the beginning of combat on your turn, create a 2/1 red Klingon Warrior creature token with haste. Sacrifice it at the beginning of the next end step.
+{2}, Sacrifice another creature or artifact: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1BR</manacost>
+                <layout>normal</layout>
+                <colors>BR</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>1/4</pt>
+                <type>Legendary Creature — Klingon Warrior</type>
+                <coloridentity>BR</coloridentity>
+            </prop>
+            <set artist="Patricia Pria" picURL="https://cards.scryfall.io/large/front/7/b/7b06bbb9-7c6d-4889-b55a-1de77c27fd18.jpg?1792508377" uuid="7b06bbb9-7c6d-4889-b55a-1de77c27fd18" rarity="uncommon" num="247">TRK</set>
+            <set artist="Julia Vasilyeva" picURL="https://cards.scryfall.io/large/front/5/1/51161805-0955-49b7-97f3-20b002c9b86e.jpg?1792508857" uuid="51161805-0955-49b7-97f3-20b002c9b86e" rarity="uncommon" num="434">TRK</set>
+            <set artist="Julia Vasilyeva" picURL="https://cards.scryfall.io/large/front/4/b/4b59e50c-21e2-480d-b5b5-cc6c1eeed57a.jpg?1792508897" uuid="4b59e50c-21e2-480d-b5b5-cc6c1eeed57a" rarity="uncommon" num="444">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Mirror Universe Intrusion</name>
+            <text>Kicker {4}{U}{B} (You may pay an additional 4 as you cast this spell.)
+Create a token that's a copy of target creature an opponent controls, except it has menace. If this spell was kicked, instead for each creature target opponent controls, create a token that's a copy of that creature, except it has menace.</text>
+            <prop>
+                <maintype>Sorcery</maintype>
+                <manacost>1UB</manacost>
+                <layout>normal</layout>
+                <colors>BU</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <type>Sorcery</type>
+                <coloridentity>BU</coloridentity>
+            </prop>
+            <set artist="John Tyler Christopher" picURL="https://cards.scryfall.io/large/front/3/5/3507f99b-15fb-4f66-9484-8e8115e7f5de.jpg?1792668526" uuid="3507f99b-15fb-4f66-9484-8e8115e7f5de" rarity="rare" num="248">TRK</set>
+            <set artist="Mark Spears" picURL="https://cards.scryfall.io/large/front/9/9/99d6cd44-bf0d-436f-a398-e3bce9532dc9.jpg?1792668538" uuid="99d6cd44-bf0d-436f-a398-e3bce9532dc9" rarity="rare" num="354">TRK</set>
+            <set artist="Chuck Lukacs" picURL="https://cards.scryfall.io/large/front/c/4/c49b5e07-a512-4d08-8fe1-07caefb28eec.jpg?1792668545" uuid="c49b5e07-a512-4d08-8fe1-07caefb28eec" rarity="rare" num="424">TRK</set>
+            <set artist="Chuck Lukacs" picURL="https://cards.scryfall.io/large/front/d/d/ddfae5a3-7f3f-48f4-bcdf-6c7729504289.jpg?1792668630" uuid="ddfae5a3-7f3f-48f4-bcdf-6c7729504289" rarity="rare" num="548">TRK</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Phlox, Unorthodox Doctor</name>
+            <text>Trample
+Whenever a creature you control with a counter on it deals combat damage to a player, draw a card.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>2GW</manacost>
+                <layout>normal</layout>
+                <colors>GW</colors>
+                <side>front</side>
+                <cmc>4</cmc>
+                <pt>3/4</pt>
+                <type>Legendary Creature — Denobulan Doctor</type>
+                <coloridentity>GW</coloridentity>
+            </prop>
+            <set artist="Jason Seiler" picURL="https://cards.scryfall.io/large/front/2/6/2695e76e-c27d-49fc-9ef2-d9eaff449f3d.jpg?1792508387" uuid="2695e76e-c27d-49fc-9ef2-d9eaff449f3d" rarity="uncommon" num="250">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Spock, Always Your Friend</name>
+            <text>When Spock enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>UR</manacost>
+                <layout>normal</layout>
+                <colors>RU</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>2/2</pt>
+                <type>Legendary Creature — Vulcan Human Scientist</type>
+                <coloridentity>RU</coloridentity>
+            </prop>
+            <set artist="Chris Rallis" picURL="https://cards.scryfall.io/large/front/1/b/1be731d5-8b21-4883-91c0-dd9070b1eadd.jpg?1792508391" uuid="1be731d5-8b21-4883-91c0-dd9070b1eadd" rarity="uncommon" num="253">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>The Traveler</name>
+            <text>Reach, vigilance
+Strange new worlds — The Traveler's power is equal to the number of differently named lands you control.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>GU</manacost>
+                <layout>normal</layout>
+                <colors>GU</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>*/3</pt>
+                <type>Legendary Creature — Scout</type>
+                <coloridentity>GU</coloridentity>
+            </prop>
+            <set artist="Ioannis Fiore" picURL="https://cards.scryfall.io/large/front/1/7/171932ba-26da-48e9-b8a2-c71aafe5c6a6.jpg?1792508396" uuid="171932ba-26da-48e9-b8a2-c71aafe5c6a6" rarity="uncommon" num="254">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Vash, Freelance Archaeologist</name>
+            <text>At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Whenever a card leaves your graveyard, draw a card. This ability triggers only once each turn.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1BG</manacost>
+                <layout>normal</layout>
+                <colors>BG</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>2/4</pt>
+                <type>Legendary Creature — Human Rogue Scientist</type>
+                <coloridentity>BG</coloridentity>
+            </prop>
+            <set artist="Nicky Barkla" picURL="https://cards.scryfall.io/large/front/d/1/d1f51765-f336-4ca2-a0f5-e42dc352c0fa.jpg?1792508403" uuid="d1f51765-f336-4ca2-a0f5-e42dc352c0fa" rarity="uncommon" num="255">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Worf, Honor-Bound Warrior</name>
+            <text>Whenever you attack while creatures you control have total power 8 or greater, double Worf's power until end of turn.
+Tap two untapped artifacts and/or creatures you control: Put a +1/+1 counter on Worf. Activate only as a sorcery.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>R/WR/W</manacost>
+                <layout>normal</layout>
+                <colors>RW</colors>
+                <side>front</side>
+                <cmc>2</cmc>
+                <pt>1/1</pt>
+                <type>Legendary Creature — Klingon Warrior Officer</type>
+                <coloridentity>RW</coloridentity>
+            </prop>
+            <set artist="Alexander Mokhov" picURL="https://cards.scryfall.io/large/front/b/2/b2d1955f-e834-4157-a139-9b6ec94bcd2a.jpg?1792508408" uuid="b2d1955f-e834-4157-a139-9b6ec94bcd2a" rarity="uncommon" num="256">TRK</set>
+            <set artist="Vlad Petruchik" picURL="https://cards.scryfall.io/large/front/f/2/f237dcef-f193-4484-a616-66cb9423c409.jpg?1792508767" uuid="f237dcef-f193-4484-a616-66cb9423c409" rarity="uncommon" num="390">TRK</set>
+            <set artist="Rimas Valeikis" picURL="https://cards.scryfall.io/large/front/f/2/f2abd2b6-c60f-4667-925b-423c0a135ebc.jpg?1792508863" uuid="f2abd2b6-c60f-4667-925b-423c0a135ebc" rarity="uncommon" num="435">TRK</set>
+            <set artist="Rimas Valeikis" picURL="https://cards.scryfall.io/large/front/7/7/7739283d-25e9-4779-9f95-504a03c502d7.jpg?1792508903" uuid="7739283d-25e9-4779-9f95-504a03c502d7" rarity="uncommon" num="445">TRK</set>
+            <set artist="Vlad Petruchik" picURL="https://cards.scryfall.io/large/front/9/6/969a7271-30d5-4e6c-aa6b-1c56dfd69e09.jpg?1792509101" uuid="969a7271-30d5-4e6c-aa6b-1c56dfd69e09" rarity="uncommon" num="524">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Year of Hell</name>
+            <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — Each player draws a card. This Saga deals 2 damage to each player.</text>
+            <prop>
+                <maintype>Enchantment</maintype>
+                <manacost>1UR</manacost>
+                <layout>saga</layout>
+                <colors>RU</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <type>Enchantment — Saga</type>
+                <coloridentity>RU</coloridentity>
+            </prop>
+            <set artist="Jonathan Bartlett" picURL="https://cards.scryfall.io/large/front/4/a/4ab931e9-fb07-4da2-a0d9-acfec2ac9e19.jpg?1792753960" uuid="4ab931e9-fb07-4da2-a0d9-acfec2ac9e19" rarity="rare" num="257">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Zero, Incorporeal Sensate</name>
+            <text>Lifelink
+When Zero enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.</text>
+            <prop>
+                <maintype>Creature</maintype>
+                <manacost>1W/BW/B</manacost>
+                <layout>normal</layout>
+                <colors>BW</colors>
+                <side>front</side>
+                <cmc>3</cmc>
+                <pt>2/2</pt>
+                <type>Legendary Artifact Creature — Medusan Scientist</type>
+                <coloridentity>BW</coloridentity>
+            </prop>
+            <set artist="Racrufi" picURL="https://cards.scryfall.io/large/front/9/3/93f616fe-6906-4e5d-b9fe-b432cccdb0ec.jpg?1792508418" uuid="93f616fe-6906-4e5d-b9fe-b432cccdb0ec" rarity="uncommon" num="258">TRK</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Deep Space 9</name>
+            <text>When Deep Space 9 enters and at the beginning of your upkeep, exile the top four cards of your library. Put all permanent cards exiled this way onto the battlefield.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+9+ | Creatures you control get +3/+3.</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>9</manacost>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>9</cmc>
+                <type>Legendary Artifact — Spacecraft</type>
+            </prop>
+            <set artist="Paolo Puggioni" picURL="https://cards.scryfall.io/large/front/7/6/76b039c5-e0a1-410a-954b-52f304e31f7f.jpg?1792508419" uuid="76b039c5-e0a1-410a-954b-52f304e31f7f" rarity="mythic" num="263">TRK</set>
+            <set artist="Paolo Puggioni" picURL="https://cards.scryfall.io/large/front/4/7/473aab2f-cfc2-430b-b785-4b6a491bcd28.jpg?1792508974" uuid="473aab2f-cfc2-430b-b785-4b6a491bcd28" rarity="mythic" num="479">TRK</set>
+            <set artist="Scott Okumura" picURL="https://cards.scryfall.io/large/front/6/5/65585609-563d-47e9-92b8-d4b65baa95bd.jpg?1792509174" uuid="65585609-563d-47e9-92b8-d4b65baa95bd" rarity="mythic" num="556">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>The Holodeck</name>
+            <text>Once during each of your turns, you may play a permanent card you own from outside the game or from your graveyard.</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>7</manacost>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>7</cmc>
+                <type>Legendary Artifact</type>
+            </prop>
+            <set artist="Jessica Rossier" picURL="https://cards.scryfall.io/large/front/5/7/57e830f5-564d-4899-87c0-74192c561fc8.jpg?1792508432" uuid="57e830f5-564d-4899-87c0-74192c561fc8" rarity="rare" num="265">TRK</set>
+            <set artist="Marija Tiurina" picURL="https://cards.scryfall.io/large/front/1/9/19366f88-8411-428b-9903-8c9527686cac.jpg?1792508650" uuid="19366f88-8411-428b-9903-8c9527686cac" rarity="rare" num="346">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Replicator</name>
+            <text>When this artifact enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+{2}, {T}: Create a tapped token that's a copy of target token you control.</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>2</manacost>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>2</cmc>
+                <type>Artifact</type>
+            </prop>
+            <set artist="William Phifer" picURL="https://cards.scryfall.io/large/front/a/e/ae846f45-d87b-47d4-87f6-2d9aa19c3c40.jpg?1792508444" uuid="ae846f45-d87b-47d4-87f6-2d9aa19c3c40" rarity="rare" num="267">TRK</set>
+            <set artist="Vilhelmas Banys" picURL="https://cards.scryfall.io/large/front/e/7/e762c918-1c94-47a4-b141-ac16c5c9e073.jpg?1792508777" uuid="e762c918-1c94-47a4-b141-ac16c5c9e073" rarity="rare" num="391">TRK</set>
+            <set artist="Vilhelmas Banys" picURL="https://cards.scryfall.io/large/front/9/8/98308586-5ac3-4130-878b-d235b9e1343c.jpg?1792509099" uuid="98308586-5ac3-4130-878b-d235b9e1343c" rarity="rare" num="525">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Tea, Earl Grey, Hot</name>
+            <text>When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: Choose one —
+• This artifact deals 2 damage to target opponent.
+• You gain 3 life.</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>2</manacost>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>2</cmc>
+                <type>Artifact — Food</type>
+            </prop>
+            <set artist="Raymond Bonilla" picURL="https://cards.scryfall.io/large/front/2/8/289e8ebe-ab0f-466b-a4e6-d5cf8411e724.jpg?1792591098" uuid="289e8ebe-ab0f-466b-a4e6-d5cf8411e724" rarity="common" num="269">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Tricorder</name>
+            <text>Equipped creature gets +1/+1.
+Whenever equipped creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>1</manacost>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>1</cmc>
+                <type>Artifact — Equipment</type>
+            </prop>
+            <set artist="Tony Foti" picURL="https://cards.scryfall.io/large/front/3/c/3c872f02-80ac-49e3-a777-3526d35ad7cc.jpg?1792508457" uuid="3c872f02-80ac-49e3-a777-3526d35ad7cc" rarity="common" num="270">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Type-2 Phaser</name>
+            <text>When this Equipment enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Equipped creature gets +3/+0.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>2</manacost>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>2</cmc>
+                <type>Artifact — Equipment</type>
+            </prop>
+            <set artist="Wero Gallo" picURL="https://cards.scryfall.io/large/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.jpg?1792757435" uuid="c704af22-7c42-45c7-b3a4-b414c4dd8e05" rarity="uncommon" num="271">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Warp Core</name>
+            <text>When this artifact enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}, {T}: Put two charge counters on target Spacecraft. Activate only as a sorcery.</text>
+            <prop>
+                <maintype>Artifact</maintype>
+                <manacost>2</manacost>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>2</cmc>
+                <type>Artifact</type>
+            </prop>
+            <set artist="Leon Tukker" picURL="https://cards.scryfall.io/large/front/d/e/de8e2bde-b368-4d10-8409-86f5da6997f6.jpg?1792590999" uuid="de8e2bde-b368-4d10-8409-86f5da6997f6" rarity="common" num="274">TRK</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Andoria</name>
+            <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land — Planet</type>
+                <coloridentity>RU</coloridentity>
+            </prop>
+            <set artist="Josu Hernaiz" picURL="https://cards.scryfall.io/large/front/0/e/0e9e72ef-3e34-4d19-aec0-b5e1ba84d244.jpg?1792632926" uuid="0e9e72ef-3e34-4d19-aec0-b5e1ba84d244" rarity="common" num="275">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Bajor</name>
+            <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land — Planet</type>
+                <coloridentity>RW</coloridentity>
+            </prop>
+            <set artist="John Di Giovanni" picURL="https://cards.scryfall.io/large/front/f/f/ff5254a6-4961-4604-b65b-2eb0ce9b1c82.jpg?1792632930" uuid="ff5254a6-4961-4604-b65b-2eb0ce9b1c82" rarity="common" num="277">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Cardassia Prime</name>
+            <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land — Planet</type>
+                <coloridentity>BW</coloridentity>
+            </prop>
+            <set artist="Alex Negrea" picURL="https://cards.scryfall.io/large/front/d/6/d634424f-9148-46a5-95e3-4965a9226bb4.jpg?1792632933" uuid="d634424f-9148-46a5-95e3-4965a9226bb4" rarity="common" num="280">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Earth, Sector 001</name>
+            <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land — Planet</type>
+                <coloridentity>GU</coloridentity>
+            </prop>
+            <set artist="Colin Searle" picURL="https://cards.scryfall.io/large/front/5/2/5278d354-97c4-4c21-a902-2f9252b151eb.jpg?1792632943" uuid="5278d354-97c4-4c21-a902-2f9252b151eb" rarity="common" num="281">TRK</set>
+            <set artist="Colin Searle" picURL="https://cards.scryfall.io/large/front/c/1/c1cf4918-f763-4355-abc6-abb402de8224.jpg?1792509220" uuid="c1cf4918-f763-4355-abc6-abb402de8224" rarity="common" num="577">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Federation Outpost</name>
+            <text>This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• You gain 2 life.
+• Surveil 1.
+{T}: Add {W}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land</type>
+                <coloridentity>W</coloridentity>
+            </prop>
+            <set artist="Edouard" picURL="https://cards.scryfall.io/large/front/0/2/02e368bd-ece8-4201-8d1a-4c5287d5cfee.jpg?1792632946" uuid="02e368bd-ece8-4201-8d1a-4c5287d5cfee" rarity="rare" num="282">TRK</set>
+            <set artist="Paulius Daščioras" picURL="https://cards.scryfall.io/large/front/8/5/85859d4c-c90c-48f4-bac0-75fcccf1b1f4.jpg?1792550928" uuid="85859d4c-c90c-48f4-bac0-75fcccf1b1f4" rarity="rare" num="332">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Ferenginar</name>
+            <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land — Planet</type>
+                <coloridentity>BG</coloridentity>
+            </prop>
+            <set artist="Colin Searle" picURL="https://cards.scryfall.io/large/front/1/7/17fab75f-7ff9-4c50-a6f7-03a85cd275bf.jpg?1792632949" uuid="17fab75f-7ff9-4c50-a6f7-03a85cd275bf" rarity="common" num="283">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Orion</name>
+            <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land — Planet</type>
+                <coloridentity>GR</coloridentity>
+            </prop>
+            <set artist="Simon Dominic" picURL="https://cards.scryfall.io/large/front/d/e/dec37ff4-d6e9-4b87-865b-125b17162465.jpg?1792632952" uuid="dec37ff4-d6e9-4b87-865b-125b17162465" rarity="common" num="288">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Qo'noS</name>
+            <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land — Planet</type>
+                <coloridentity>BR</coloridentity>
+            </prop>
+            <set artist="Rockey Chen" picURL="https://cards.scryfall.io/large/front/f/1/f1558d93-8a8a-45e0-bcdc-e6cd42f716dc.jpg?1792632963" uuid="f1558d93-8a8a-45e0-bcdc-e6cd42f716dc" rarity="common" num="291">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Quark's Bar</name>
+            <text>This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• This land deals 1 damage to each opponent.
+• Surveil 1.
+{T}: Add {R}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land</type>
+                <coloridentity>R</coloridentity>
+            </prop>
+            <set artist="Robin Olausson" picURL="https://cards.scryfall.io/large/front/8/4/8422ee4a-9845-429d-bda8-74852168dcba.jpg?1792632965" uuid="8422ee4a-9845-429d-bda8-74852168dcba" rarity="rare" num="292">TRK</set>
+            <set artist="Vlad Petruchik" picURL="https://cards.scryfall.io/large/front/b/8/b846d3f5-7937-4282-9fa3-95b2f134676b.jpg?1792508617" uuid="b846d3f5-7937-4282-9fa3-95b2f134676b" rarity="rare" num="335">TRK</set>
+            <set artist="Marija Tiurina" picURL="https://cards.scryfall.io/large/front/a/c/ac124e83-bb99-4bf0-ac06-364d77771e81.jpg?1792508673" uuid="ac124e83-bb99-4bf0-ac06-364d77771e81" rarity="rare" num="350">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Risa</name>
+            <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land — Planet</type>
+                <coloridentity>GW</coloridentity>
+            </prop>
+            <set artist="Colin Searle" picURL="https://cards.scryfall.io/large/front/c/8/c89e7680-9868-4fea-9aaf-6af03bfa0692.jpg?1792632968" uuid="c89e7680-9868-4fea-9aaf-6af03bfa0692" rarity="common" num="293">TRK</set>
+            <set artist="Colin Searle" picURL="https://cards.scryfall.io/large/front/d/7/d7454d76-529f-4217-8490-cae65bec8543.jpg?1792509221" uuid="d7454d76-529f-4217-8490-cae65bec8543" rarity="common" num="578">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Romulus</name>
+            <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land — Planet</type>
+                <coloridentity>BU</coloridentity>
+            </prop>
+            <set artist="Carlos Dattoli" picURL="https://cards.scryfall.io/large/front/1/b/1bce111b-b07c-4589-9b6d-f0b5f320808c.jpg?1792632971" uuid="1bce111b-b07c-4589-9b6d-f0b5f320808c" rarity="common" num="294">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Starfleet Academy</name>
+            <text>{T}: Add {C}.
+Federation — {5}, {T}: Choose a color. Add an amount of mana of that color equal to the number of creature types among non-Borg creatures you control.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Legendary Land</type>
+            </prop>
+            <set artist="Robin Olausson" picURL="https://cards.scryfall.io/large/front/2/d/2da8d3bf-4397-4844-90d6-dd888becc804.jpg?1792508542" uuid="2da8d3bf-4397-4844-90d6-dd888becc804" rarity="mythic" num="297">TRK</set>
+            <set artist="Rimas Valeikis" picURL="https://cards.scryfall.io/large/front/e/e/eea2dc59-10e9-481b-b2c3-bbf44253ed56.jpg?1792508626" uuid="eea2dc59-10e9-481b-b2c3-bbf44253ed56" rarity="mythic" num="336">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Unexplored Territory</name>
+            <text>{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land</type>
+            </prop>
+            <set artist="Raymond Bonilla" picURL="https://cards.scryfall.io/large/front/c/a/ca1e60f1-11a9-4bb8-9f6e-5b652b49c517.jpg?1792591180" uuid="ca1e60f1-11a9-4bb8-9f6e-5b652b49c517" rarity="common" num="303">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>The Unicomplex</name>
+            <text>This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• Put target creature card from your graveyard on top of your library.
+• Surveil 1.
+{T}: Add {B}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land</type>
+                <coloridentity>B</coloridentity>
+            </prop>
+            <set artist="JB Casacop" picURL="https://cards.scryfall.io/large/front/4/c/4c881efb-d55b-45fe-9e5a-8a61aec6fbbb.jpg?1792632978" uuid="4c881efb-d55b-45fe-9e5a-8a61aec6fbbb" rarity="rare" num="304">TRK</set>
+            <set artist="Eugene Maslovski" picURL="https://cards.scryfall.io/large/front/7/5/751eedef-1d14-44cf-bb52-99f8ada888b9.jpg?1792508628" uuid="751eedef-1d14-44cf-bb52-99f8ada888b9" rarity="rare" num="337">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Vulcan</name>
+            <text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.</text>
+            <prop>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <side>front</side>
+                <cmc>0</cmc>
+                <type>Land — Planet</type>
+                <coloridentity>UW</coloridentity>
+            </prop>
+            <set artist="John Di Giovanni" picURL="https://cards.scryfall.io/large/front/f/c/fc3fe0da-8d93-4f1c-9aad-c2fdc9fe34fc.jpg?1792632981" uuid="fc3fe0da-8d93-4f1c-9aad-c2fdc9fe34fc" rarity="common" num="305">TRK</set>
+            <set artist="John Di Giovanni" picURL="https://cards.scryfall.io/large/front/4/1/4103795c-dbb8-414f-b580-6b0084b8e212.jpg?1792509236" uuid="4103795c-dbb8-414f-b580-6b0084b8e212" rarity="common" num="579">TRK</set>
+            <tablerow>0</tablerow>
+        </card>
+    </cards>
 </cockatrice_carddatabase>
