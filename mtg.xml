@@ -37109,6 +37109,7 @@ Delirium — Whenever this creature deals damage, if there are four or more card
             <set rarity="common" num="274" muid="491931" uuid="418335b2-398f-499e-92ad-8d21a5a5b69f" artist="Adam Paquette">ZNR</set>
             <set rarity="common" num="382" muid="495100" uuid="1967d4a8-6cc4-4a4d-9d24-93257de35e6d" artist="Adam Paquette">ZNR</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Swamp.png?v=2c2e1ef4010b7ad24531f3fa410ddc735768653b" uuid="ebce5d29-b9cf-56d7-3354-c8100c9d2ccd">CLANDS</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Swamp.jpg?v=5aa48731c927dafad1daab6b6e0379a163ddb9ee" uuid="18fcc2e8-0b09-0324-57c5-ac0bddc7dc3c">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -274252,6 +274253,7 @@ Miracle {1}{R} (You may cast this card for its miracle cost when you draw it if 
             <set rarity="rare" num="329" uuid="2e9a891d-a2c6-418d-a6bd-be2353b3e980" artist="Jubilee">SLD</set>
             <set rarity="rare" num="1477" uuid="3995734f-5fa2-4039-af64-0bca88741089" artist="ELK64">SLD</set>
             <set rarity="rare" num="1477★" uuid="af1d1476-7778-4743-804a-e3f497d38d77" artist="ELK64">SLD</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Snow-Covered%20Forest.jpg?v=6e4a4319af09c31c44d95ca765998fe9eb131d93" uuid="3db051ae-db66-df73-df0c-6f558acf4520">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -459991,6 +459993,7 @@ Delirium — If there are four or more card types among cards in your graveyard,
             <set rarity="rare" num="328" uuid="23fb3767-544d-4ae7-b7c4-af0944a0281b" artist="Jubilee">SLD</set>
             <set rarity="rare" num="1476" uuid="cee2b472-8cb0-4722-a1b7-b700ac42a6c0" artist="ELK64">SLD</set>
             <set rarity="rare" num="1476★" uuid="6f4fab9d-7753-489e-a63c-c107e7d27668" artist="ELK64">SLD</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Snow-Covered%20Mountain.jpg?v=e2df0d20c8ea19d7753ad8ac4d9625eceef3be18" uuid="574c523b-8d64-1c2b-5871-12b367a2d400">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -480919,6 +480922,7 @@ Target attacking or blocking creature gets +4/+0 until end of turn. Destroy that
             <set rarity="common" num="268" muid="491925" uuid="5d918248-85ff-4fea-ac91-aa5466dd2829" artist="Chris Rahn">ZNR</set>
             <set rarity="common" num="380" muid="495098" uuid="ae92e656-6c9d-48c3-a238-5a11c2c62ec8" artist="Adam Paquette">ZNR</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Plains.png?v=0d7b5baa927493141344bce5fc7e21aa2e2b59be" uuid="9b51d2a2-698b-d20e-1cb7-815b7e18afce">CLANDS</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Plains.jpg?v=c1c12e656caaa0c372874fe2e42d7004959425b6" uuid="2a75e17f-6a64-6161-a527-914b686ab490">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -499806,6 +499810,7 @@ When the fourth plan counter is put on this enchantment, sacrifice it. When you 
             <set rarity="rare" num="326" uuid="8af8122a-2943-4507-a93a-564fe63a035b" artist="Jubilee">SLD</set>
             <set rarity="rare" num="1474" uuid="cef7e936-bd27-4955-a5ea-c1e88a9ab646" artist="ELK64">SLD</set>
             <set rarity="rare" num="1474★" uuid="328fc009-d9c1-472d-8e07-778f60947642" artist="ELK64">SLD</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Snow-Covered%20Island.jpg?v=ebc0573d47a3aa5b90155822fc3ea59687135d9c" uuid="47d44a0f-398b-7cdf-48fd-1ff322b30d7b">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -501795,6 +501800,7 @@ When this creature enters, it explores. (Reveal the top card of your library. Pu
             <set rarity="rare" num="327" uuid="f19d95c5-278f-4ad5-99ea-9fcf85520de2" artist="Jubilee">SLD</set>
             <set rarity="rare" num="1475" uuid="97de8c3b-410e-4fc6-abfb-7315010e05d5" artist="ELK64">SLD</set>
             <set rarity="rare" num="1475★" uuid="6a04eb28-cba8-4619-972c-4e6ebff73f34" artist="ELK64">SLD</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Snow-Covered%20Swamp.jpg?v=71bbfba54ec54bcde464ad3502b75e288f5c2f49" uuid="478280c8-d2da-382e-011f-90d32cd2e91a">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -521322,6 +521328,7 @@ Whenever you cast a Spirit or Arcane spell, you may return this creature to its 
             <set rarity="rare" num="706" uuid="c0040569-c4b1-46ad-8115-1fdb82ba3710" artist="Helge C. Balzer">SLD</set>
             <set rarity="rare" num="795★" uuid="837edd3f-5380-4c1c-8323-0e61dac385e5" artist="AKQA">SLD</set>
             <set rarity="special" num="410" muid="512376" uuid="bf10c264-c7f6-4ae3-b3ef-ff12bd7b64c0" artist="Raymond Swanland">TSR</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Wastes.jpg?v=7e2109fd4e9b82e35f29e125662cc350e5a914fd" uuid="c935d67d-8bc1-2c8e-e02a-b06b5134ea10">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -619091,6 +619098,7 @@ Flashback {3}{U} (You may cast this card from your graveyard for its flashback c
             <set rarity="common" num="277" muid="491934" uuid="c89b3c3a-3dba-47b3-9620-d4dd754a59e6" artist="Chase Stone">ZNR</set>
             <set rarity="common" num="383" muid="495101" uuid="3c6a38dd-e8f5-420f-9576-66937c71286b" artist="Sam Burley">ZNR</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Mountain.png?v=a323c412a80e13e63e28f91aba14d4591151627a" uuid="442a44af-e8d8-3572-228c-645e1d50a98e">CLANDS</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Mountain.jpg?v=61f2ba348da81f322282659d835e32b47d633814" uuid="3463d443-992c-b21c-8be7-3b3e3f879e0b">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -734655,6 +734663,7 @@ Conspire (As you cast this spell, you may tap two untapped creatures you control
             <set rarity="rare" num="325" uuid="e0ed0c75-0ec3-4f06-8c37-750fefb8136d" artist="Jubilee">SLD</set>
             <set rarity="rare" num="1473" uuid="9ecc0bbe-a901-4565-940b-9f763cf006a4" artist="ELK64">SLD</set>
             <set rarity="rare" num="1473★" uuid="513e5104-02b1-48db-a70e-d267066d2561" artist="ELK64">SLD</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Snow-Covered%20Plains.jpg?v=5269b0495b9a021404968bd845b7307e34531523" uuid="96b26bc0-a875-3ccc-06bc-1ae40dad8554">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -752652,6 +752661,7 @@ If you would draw a card while your library has no cards in it, instead put five
             <set artist="Bastien Grivet" picURL="https://cards.scryfall.io/large/front/e/8/e8dfd50a-65a8-4439-b597-3e13554671eb.jpg?1793281865" uuid="e8dfd50a-65a8-4439-b597-3e13554671eb" rarity="common" num="567">TRK</set>
             <set artist="Leon Tukker" picURL="https://cards.scryfall.io/large/front/9/1/910b0085-86e8-4d81-be45-ce7bed740143.jpg?1793281856" uuid="910b0085-86e8-4d81-be45-ce7bed740143" rarity="common" num="568">TRK</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Forest.png?v=d3a4e21e566e65a08746f67e3889792fdb07eef0" uuid="3bae5f2d-84c8-0a69-a51a-6df05255a6ef">CLANDS</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Forest.jpg?v=3114efbfd8904e994905c4ca877cddf0781baaf8" uuid="e2ec16d0-c6fe-8fc1-8e5c-f82d9dc2330f">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -781626,6 +781636,7 @@ Spell mastery — If there are two or more instant and/or sorcery cards in your 
             <set rarity="uncommon" num="229" muid="662381" uuid="87870792-e429-4eba-8193-cdce5c7b6c55" artist="Mark Poole">MH3</set>
             <set rarity="uncommon" num="309" muid="660917" uuid="ad21a874-525e-4d11-bd8e-bc44918bec40" artist="Tomáš Honz">MH3</set>
             <set rarity="uncommon" num="439" muid="664432" uuid="d8c0de06-7782-4d2b-93ba-ef42cd5f79b4" artist="Mark Poole">MH3</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Snow-Covered%20Wastes.jpg?v=94d6491d7646696e875aaa58e455765a472be004" uuid="e52a0df7-28f9-b9b1-7e72-e87940510dec">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -886183,6 +886194,7 @@ Islandwalk (This creature can't be blocked as long as defending player controls 
             <set rarity="common" num="271" muid="491928" uuid="1ba4b3ad-1aef-44d3-889a-aedd9e070975" artist="Tianhua X">ZNR</set>
             <set rarity="common" num="381" muid="495099" uuid="589a324f-4466-4d4a-8cfb-806a041d7c1f" artist="Tianhua X">ZNR</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Island.png?v=76dacb0929eec76bf0abdfc322f84c02e134abce" uuid="1174f9c5-1d71-6446-bebb-831a8082b5c9">CLANDS</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Island.jpg?v=5021bc811ae1168d430c612b8d02f1d3e57678aa" uuid="1be009c6-6348-e1c7-271e-202556492423">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
