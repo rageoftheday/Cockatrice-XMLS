@@ -568,7 +568,6 @@ When Angel of Sanctions enters the battlefield, you may exile target nonland per
             <set picURL="https://cards.scryfall.io/large/front/1/7/17e0924c-e4b7-482d-9076-1d3b8ff09e9b.jpg?1641306040" uuid="17e0924c-e4b7-482d-9076-1d3b8ff09e9b" num="10">TSR</set>
             <set picURL="https://cards.scryfall.io/large/front/e/e/ee2d434d-5d9b-4475-b421-6d004c988997.jpg?1598311661" uuid="ee2d434d-5d9b-4475-b421-6d004c988997" num="12">2XM</set>
             <set picURL="https://cards.scryfall.io/large/front/8/3/8343e00c-5fc6-46a0-a238-3759338dced4.jpg?1562542388" uuid="8343e00c-5fc6-46a0-a238-3759338dced4" num="18">C14</set>
-            <reverse-related>Pongify</reverse-related>
             <reverse-related>Side to Side</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -1096,7 +1095,6 @@ Equip {2} ({2}: Attach to target creatre you control. Equip only as a sorcery.)<
             <set picURL="https://cards.scryfall.io/large/front/3/f/3fc3a29a-280d-4f2c-9a01-8cfead75f583.jpg?1561756988" uuid="3fc3a29a-280d-4f2c-9a01-8cfead75f583" num="3">EVE</set>
             <set picURL="https://cards.scryfall.io/large/front/c/3/c3cbd01b-dbf5-424a-855d-f9a9d7e7e414.jpg?1562636842" uuid="c3cbd01b-dbf5-424a-855d-f9a9d7e7e414" num="7">LRW</set>
             <set picURL="https://cards.scryfall.io/large/front/d/0/d02d5670-fff3-4011-8e45-e6843e4e8988.jpg?1561758119" uuid="d02d5670-fff3-4011-8e45-e6843e4e8988" num="5">DST</set>
-            <reverse-related>Beast Within</reverse-related>
             <reverse-related>Bringer of the Green Dawn</reverse-related>
             <reverse-related count="x">Curious Herd</reverse-related>
             <reverse-related>Druid of Horns</reverse-related>
@@ -2688,7 +2686,6 @@ Cloud Sprite can block only creatures with flying.</text>
             <reverse-related>Thijarian Witness</reverse-related>
             <reverse-related>Thorough Investigation</reverse-related>
             <reverse-related>Thraben Inspector</reverse-related>
-            <reverse-related>Tireless Tracker</reverse-related>
             <reverse-related count="x">Tivit, Seller of Secrets</reverse-related>
             <reverse-related exclude="exclude">Tolls of War</reverse-related>
             <reverse-related>Torch the Witness</reverse-related>
@@ -7942,8 +7939,6 @@ Equip {2}</text>
             <reverse-related>Old Rutstein</reverse-related>
             <reverse-related count="5">One Dozen Eyes</reverse-related>
             <reverse-related>Saber Ants</reverse-related>
-            <reverse-related>Scute Swarm</reverse-related>
-            <reverse-related count="x" exclude="exclude">Scute Swarm</reverse-related>
             <reverse-related>Springheart Nantuko</reverse-related>
             <reverse-related count="x" exclude="exclude">Springheart Nantuko</reverse-related>
             <reverse-related>Swarm Shambler</reverse-related>
@@ -15279,10 +15274,8 @@ The Void attacks each combat if able.</text>
             <reverse-related>Prismari Command</reverse-related>
             <reverse-related>Prized Statue</reverse-related>
             <reverse-related>Prizefight</reverse-related>
-            <reverse-related>Professional Face-Breaker</reverse-related>
             <reverse-related>Professional Wrestler</reverse-related>
             <reverse-related>Prompto Argentum</reverse-related>
-            <reverse-related>Prosper, Tome-Bound</reverse-related>
             <reverse-related count="x" exclude="exclude">Prosperous Bandit</reverse-related>
             <reverse-related>Prosperous Innkeeper</reverse-related>
             <reverse-related exclude="exclude">Prosperous Partnership</reverse-related>
@@ -21183,7 +21176,6 @@ This creature can't block.</text>
                 <cmc>0</cmc>
             </prop>
             <set artist="Raymond Bonilla" picURL="https://cards.scryfall.io/large/front/2/7/276dedb8-3d41-499c-8804-bb1471fcb06f.jpg?1786586750" uuid="276dedb8-3d41-499c-8804-bb1471fcb06f" rarity="common" num="2551">SLD</set>
-            <reverse-related>Spot, Felis catus</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21196,12 +21188,550 @@ This creature can't block.</text>
                 <cmc>0</cmc>
             </prop>
             <set artist="David Palumbo" picURL="https://cards.scryfall.io/large/front/4/b/4b976756-e988-4211-95c2-0e3587118488.jpg?1791939754" uuid="4b976756-e988-4211-95c2-0e3587118488" rarity="common" num="TBLC-1">PLST</set>
-            <reverse-related>Fractured Identity</reverse-related>
             <reverse-related count="2">Venser, Fervent Forger</reverse-related>
             <reverse-related count="2">Uugguu, the Omniplasm</reverse-related>
             <reverse-related count="x">Face Yourself</reverse-related>
             <reverse-related count="x">Miss Highwater</reverse-related>
             <reverse-related count="x">Chief Magistrate of Mercadia</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Copy Token (TTRC)</name>
+            <text>(This token can be used to represent a token that's a copy of a permanent.)</text>
+            <prop>
+                <type>Token</type>
+                <maintype>Token</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set artist="Nicky Barkla" picURL="https://cards.scryfall.io/large/front/d/5/d5549cce-eea6-4392-af06-95d98451906c.jpg?1793359670" uuid="d5549cce-eea6-4392-af06-95d98451906c" rarity="common" num="1">TTRC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Tribble Token</name>
+            <text>This token can't block.</text>
+            <prop>
+                <type>Token Creature — Tribble</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Kevin Glint" picURL="https://cards.scryfall.io/large/front/e/e/ee3b1218-7ab3-461b-b1b2-818fb61f33ce.jpg?1793359678" uuid="ee3b1218-7ab3-461b-b1b2-818fb61f33ce" rarity="common" num="2">TTRC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ape Token (TTRC)</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Ape</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set artist="Brooklyn Smith" picURL="https://cards.scryfall.io/large/front/a/7/a73b0752-c59f-43de-a7c9-d952a2b59062.jpg?1793363302" uuid="a73b0752-c59f-43de-a7c9-d952a2b59062" rarity="common" num="3">TTRC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Beast Token (TTRC)</name>
+            <text>Trample</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set artist="Arthur Yuan" picURL="https://cards.scryfall.io/large/front/2/1/215c8aec-f26f-4777-aa90-252e537f5df9.jpg?1793363331" uuid="215c8aec-f26f-4777-aa90-252e537f5df9" rarity="common" num="4">TTRC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Insect Token</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Kevin Glint" picURL="https://cards.scryfall.io/large/front/6/2/627d71a5-cacb-4dbb-a804-83a24be1dd9f.jpg?1793363355" uuid="627d71a5-cacb-4dbb-a804-83a24be1dd9f" rarity="common" num="5">TTRC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Citizen Token (TTRC)</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Citizen</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Charles Chaisson" picURL="https://cards.scryfall.io/large/front/b/b/bb355701-39e2-428e-a62b-feac0bdada72.jpg?1793363381" uuid="bb355701-39e2-428e-a62b-feac0bdada72" rarity="common" num="6">TTRC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Spacecraft Illusion Token</name>
+            <text>Flying</text>
+            <prop>
+                <type>Token Artifact Creature — Spacecraft Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/3</pt>
+            </prop>
+            <set artist="Enora Mercier" picURL="https://cards.scryfall.io/large/front/9/d/9d300512-cc4d-4cf0-bd49-6536352a856c.jpg?1793363399" uuid="9d300512-cc4d-4cf0-bd49-6536352a856c" rarity="common" num="7">TTRC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Copy Token (TTRC #8)</name>
+            <text>(This token can be used to represent a token that's a copy of a permanent.)</text>
+            <prop>
+                <type>Token</type>
+                <maintype>Token</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set artist="Nicky Barkla" picURL="https://cards.scryfall.io/large/front/2/1/2115c141-f2fb-4bfd-a8b5-2943bad9f418.jpg?1793363498" uuid="2115c141-f2fb-4bfd-a8b5-2943bad9f418" rarity="common" num="8">TTRC</set>
+            <reverse-related>Scute Swarm</reverse-related>
+            <reverse-related>Fractured Identity</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Tribble Token (TTRC)</name>
+            <text>This token can't block.</text>
+            <prop>
+                <type>Token Creature — Tribble</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Kevin Glint" picURL="https://cards.scryfall.io/large/front/8/1/81d2498f-ee5e-4d8d-80f8-eb71c3755faa.jpg?1793363514" uuid="81d2498f-ee5e-4d8d-80f8-eb71c3755faa" rarity="common" num="9">TTRC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ape Token (TTRC #10)</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Ape</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set artist="Brooklyn Smith" picURL="https://cards.scryfall.io/large/front/9/f/9fc2b0f6-f126-47a2-8316-febf92e90006.jpg?1793363555" uuid="9fc2b0f6-f126-47a2-8316-febf92e90006" rarity="common" num="10">TTRC</set>
+            <reverse-related>Pongify</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Beast Token (TTRC #11)</name>
+            <text>Trample</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/4</pt>
+            </prop>
+            <set artist="Arthur Yuan" picURL="https://cards.scryfall.io/large/front/c/a/ca8e8a9a-d673-4644-9eec-f4f549307d9b.jpg?1793363664" uuid="ca8e8a9a-d673-4644-9eec-f4f549307d9b" rarity="common" num="11">TTRC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Insect Token (TTRC)</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Insect</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Kevin Glint" picURL="https://cards.scryfall.io/large/front/9/8/98d54f5e-1584-48e7-bb8e-5bb1520c2d93.jpg?1793363638" uuid="98d54f5e-1584-48e7-bb8e-5bb1520c2d93" rarity="common" num="12">TTRC</set>
+            <reverse-related>Scute Swarm</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Citizen Token (TTRC #13)</name>
+            <prop>
+                <colors>W</colors>
+                <type>Token Creature — Citizen</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Charles Chaisson" picURL="https://cards.scryfall.io/large/front/f/8/f801903a-5db6-4566-ad33-2c1de8ac4287.jpg?1793363573" uuid="f801903a-5db6-4566-ad33-2c1de8ac4287" rarity="common" num="13">TTRC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Spacecraft Illusion Token (TTRC)</name>
+            <text>Flying</text>
+            <prop>
+                <type>Token Artifact Creature — Spacecraft Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>4/3</pt>
+            </prop>
+            <set artist="Enora Mercier" picURL="https://cards.scryfall.io/large/front/4/9/4990678f-162e-407d-8ab2-5ecf38de280a.jpg?1793363594" uuid="4990678f-162e-407d-8ab2-5ecf38de280a" rarity="common" num="14">TTRC</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Romulan Token</name>
+            <prop>
+                <colors>B</colors>
+                <type>Token Creature — Romulan</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set artist="Ariel Orea" picURL="https://cards.scryfall.io/large/front/a/5/a507f7fc-1438-4680-af2f-e7131c4d7d0b.jpg?1793363737" uuid="a507f7fc-1438-4680-af2f-e7131c4d7d0b" rarity="common" num="2">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Klingon Warrior Token</name>
+            <text>Haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Klingon Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set artist="Ariel Orea" picURL="https://cards.scryfall.io/large/front/9/c/9c2ae742-7ebf-4e26-b423-598e4f3d176d.jpg?1793363848" uuid="9c2ae742-7ebf-4e26-b423-598e4f3d176d" rarity="common" num="3">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Klingon Warrior Token (TTRK)</name>
+            <text>Haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Klingon Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set artist="Carlos C Diaz" picURL="https://cards.scryfall.io/large/front/0/6/060f77cd-2779-4f28-83b3-a7e11f64140b.jpg?1793364562" uuid="060f77cd-2779-4f28-83b3-a7e11f64140b" rarity="common" num="4">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Klingon Warrior Token (TTRK #5)</name>
+            <text>Haste</text>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Klingon Warrior</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/1</pt>
+            </prop>
+            <set artist="Henry Peters" picURL="https://cards.scryfall.io/large/front/b/7/b7897f31-509e-4099-b9b4-c6214b80f29d.jpg?1793364577" uuid="b7897f31-509e-4099-b9b4-c6214b80f29d" rarity="common" num="5">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Officer Token</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Officer</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Arthur Yuan" picURL="https://cards.scryfall.io/large/front/d/6/d676cbef-8e31-4ae6-8dfe-6b84160f71e0.jpg?1793363893" uuid="d676cbef-8e31-4ae6-8dfe-6b84160f71e0" rarity="common" num="6">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Officer Token (TTRK)</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Officer</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Nia Kovalevski" picURL="https://cards.scryfall.io/large/front/a/0/a0547a22-fd86-492f-9143-af5dae0e69af.jpg?1793364627" uuid="a0547a22-fd86-492f-9143-af5dae0e69af" rarity="common" num="7">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Officer Token (TTRK #8)</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Officer</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Nathaniel Himawan" picURL="https://cards.scryfall.io/large/front/1/5/155a3f1d-0897-4acd-b83a-82c48356dd66.jpg?1793364678" uuid="155a3f1d-0897-4acd-b83a-82c48356dd66" rarity="common" num="8">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Officer Token (TTRK #9)</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Officer</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Carlos Dattoli" picURL="https://cards.scryfall.io/large/front/7/d/7de20787-fc26-4cb7-bfe1-d7d8c13082cc.jpg?1793364694" uuid="7de20787-fc26-4cb7-bfe1-d7d8c13082cc" rarity="common" num="9">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Officer Token (TTRK #10)</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Officer</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Benjamin Ee" picURL="https://cards.scryfall.io/large/front/b/0/b0ac658c-b34a-4794-9b36-91c63f903f65.jpg?1793364705" uuid="b0ac658c-b34a-4794-9b36-91c63f903f65" rarity="common" num="10">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Officer Token (TTRK #11)</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Officer</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Charles Chaisson" picURL="https://cards.scryfall.io/large/front/b/1/b1e8a7db-b245-4903-b41f-6d2ee06401cb.jpg?1793364717" uuid="b1e8a7db-b245-4903-b41f-6d2ee06401cb" rarity="common" num="11">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Officer Token (TTRK #12)</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Officer</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Mushk Rizvi" picURL="https://cards.scryfall.io/large/front/d/8/d88565c6-a8e9-4726-94af-c56ffd96d33e.jpg?1793364728" uuid="d88565c6-a8e9-4726-94af-c56ffd96d33e" rarity="common" num="12">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Officer Token (TTRK #13)</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Officer</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Gregg Schigiel" picURL="https://cards.scryfall.io/large/front/5/a/5a8d4b2c-ec98-46e2-bf8d-da441d9c9cdf.jpg?1793364738" uuid="5a8d4b2c-ec98-46e2-bf8d-da441d9c9cdf" rarity="common" num="13">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Officer Token (TTRK #14)</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Officer</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Mushk Rizvi" picURL="https://cards.scryfall.io/large/front/5/a/5a24fb46-e819-4a4f-813f-eda0e96af606.jpg?1793364750" uuid="5a24fb46-e819-4a4f-813f-eda0e96af606" rarity="common" num="14">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Officer Token (TTRK #15)</name>
+            <prop>
+                <colors>R</colors>
+                <type>Token Creature — Officer</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Carlos Dattoli" picURL="https://cards.scryfall.io/large/front/0/1/012b04de-d9a5-4b12-afc8-cdf54bc42fc9.jpg?1793364763" uuid="012b04de-d9a5-4b12-afc8-cdf54bc42fc9" rarity="common" num="15">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Murf Token</name>
+            <text>Indestructible</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token Legendary Creature — Ooze Slug</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>0/1</pt>
+            </prop>
+            <set artist="Leesha Hannigan" picURL="https://cards.scryfall.io/large/front/d/1/d1b52f55-6147-4da6-983c-6ca3e1867723.jpg?1793363930" uuid="d1b52f55-6147-4da6-983c-6ca3e1867723" rarity="common" num="16">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Porthos Token</name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Legendary Creature — Dog</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Brooklyn Smith" picURL="https://cards.scryfall.io/large/front/e/d/edd98ca8-9a23-4fb5-9719-27ac2795bfa3.jpg?1793363946" uuid="edd98ca8-9a23-4fb5-9719-27ac2795bfa3" rarity="common" num="17">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Worm Token (TTRK)</name>
+            <text>This token can't block.</text>
+            <prop>
+                <colors>GR</colors>
+                <type>Token Creature — Worm</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>2/2</pt>
+            </prop>
+            <set picURL="https://cards.scryfall.io/large/front/e/7/e7cde898-fc1f-4261-8f71-cfc4275bab54.jpg?1793364008" uuid="e7cde898-fc1f-4261-8f71-cfc4275bab54" rarity="common" num="18">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Borg Token</name>
+            <prop>
+                <type>Token Artifact Creature — Borg</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Edouard" picURL="https://cards.scryfall.io/large/front/6/0/60c52ea5-28b9-413d-9be5-aaadfbd8022b.jpg?1793364865" uuid="60c52ea5-28b9-413d-9be5-aaadfbd8022b" rarity="common" num="19">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Borg Token (TTRK)</name>
+            <prop>
+                <type>Token Artifact Creature — Borg</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set artist="Henry Peters" picURL="https://cards.scryfall.io/large/front/6/6/662d060a-719c-42bf-8bee-cf602a045ff0.jpg?1793364924" uuid="662d060a-719c-42bf-8bee-cf602a045ff0" rarity="common" num="20">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Clue Token (TTRK)</name>
+            <text>{2}, Sacrifice this token: Draw a card.</text>
+            <prop>
+                <type>Token Artifact — Clue</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set artist="Joel Chaim Holtzman" picURL="https://cards.scryfall.io/large/front/3/0/306c8271-ddfc-45a4-bd23-bf31212f813d.jpg?1793365062" uuid="306c8271-ddfc-45a4-bd23-bf31212f813d" rarity="common" num="21">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Clue Token (TTRK #22)</name>
+            <text>{2}, Sacrifice this token: Draw a card.</text>
+            <prop>
+                <type>Token Artifact — Clue</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set artist="Flavio Greco Paglia" picURL="https://cards.scryfall.io/large/front/2/4/24c80ef6-747d-47b7-8e1f-148f5dfacc32.jpg?1793364960" uuid="24c80ef6-747d-47b7-8e1f-148f5dfacc32" rarity="common" num="22">TTRK</set>
+            <reverse-related>Tireless Tracker</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Food Token (TTRK)</name>
+            <text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
+            <prop>
+                <type>Token Artifact — Food</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set artist="Flavio Greco Paglia" picURL="https://cards.scryfall.io/large/front/d/d/dd703147-f546-45af-8511-2d108afd0ad2.jpg?1793364343" uuid="dd703147-f546-45af-8511-2d108afd0ad2" rarity="common" num="23">TTRK</set>
+            <reverse-related>Spot, Felis catus</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Illusion Token (TTRK)</name>
+            <prop>
+                <type>Token Artifact Creature — Illusion</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set artist="Flavio Greco Paglia" picURL="https://cards.scryfall.io/large/front/d/7/d760eee8-e49a-4662-8bfc-fcf8ed2ad2d8.jpg?1793364353" uuid="d760eee8-e49a-4662-8bfc-fcf8ed2ad2d8" rarity="common" num="24">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Neuroflux Heirloom Token</name>
+            <text>Equipped creature gets +1/+1.
+Equip {2}</text>
+            <prop>
+                <type>Token Artifact — Equipment</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set artist="David Frasheski" picURL="https://cards.scryfall.io/large/front/d/8/d811c3c3-6b5b-4b42-be4f-0a455313ccd3.jpg?1793364366" uuid="d811c3c3-6b5b-4b42-be4f-0a455313ccd3" rarity="common" num="25">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Treasure Token (TTRK)</name>
+            <text>{T}, Sacrifice this token: Add one mana of any color.</text>
+            <prop>
+                <type>Token Artifact — Treasure</type>
+                <maintype>Artifact</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set artist="David Frasheski" picURL="https://cards.scryfall.io/large/front/b/8/b8e8c3b4-3b8d-48a4-b427-a2b8ac3e2f8b.jpg?1793364377" uuid="b8e8c3b4-3b8d-48a4-b427-a2b8ac3e2f8b" rarity="common" num="26">TTRK</set>
+            <reverse-related>Prosper, Tome-Bound</reverse-related>
+            <reverse-related>Professional Face-Breaker</reverse-related>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>New Planet Token</name>
+            <text>{T}: Add one mana of any color.</text>
+            <prop>
+                <type>Token Land — Planet</type>
+                <maintype>Land</maintype>
+                <cmc>0</cmc>
+            </prop>
+            <set artist="David Frasheski" picURL="https://cards.scryfall.io/large/front/2/1/21d855f7-fd5c-4eb4-b997-a905849806b9.jpg?1793364386" uuid="21d855f7-fd5c-4eb4-b997-a905849806b9" rarity="common" num="27">TTRK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Beast Token            </name>
+            <prop>
+                <colors>G</colors>
+                <type>Token Creature — Beast</type>
+                <maintype>Creature</maintype>
+                <cmc>0</cmc>
+                <pt>3/3</pt>
+            </prop>
+            <set artist="Jesper Ejsing" picURL="https://cards.scryfall.io/large/front/c/1/c198b9b4-bde6-45ec-9bc7-ae61adad22b3.jpg?1789754634" uuid="c198b9b4-bde6-45ec-9bc7-ae61adad22b3" rarity="common" num="10">TFDC</set>
+            <reverse-related>Beast Within</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
