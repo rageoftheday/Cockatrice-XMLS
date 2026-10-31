@@ -14720,6 +14720,7 @@ The Void attacks each combat if able.</text>
             <set picURL="https://cards.scryfall.io/large/front/b/f/bfa49655-6ce7-404b-ad12-33ec1cd7c0d3.jpg?1562640023" uuid="bfa49655-6ce7-404b-ad12-33ec1cd7c0d3" num="11">ORI</set>
             <set picURL="https://cards.scryfall.io/large/front/7/5/75fa5fab-1076-443b-ba27-46d10770883d.jpg?1562639862" uuid="75fa5fab-1076-443b-ba27-46d10770883d" num="10">ORI</set>
             <set picURL="https://cards.scryfall.io/large/front/8/f/8f4e230e-f604-4803-9cbd-fd08d2863db4.jpg?1561757563" uuid="8f4e230e-f604-4803-9cbd-fd08d2863db4" num="5">MBS</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CTokens/Thopter%20Token_1.jpg?v=1e46335902f38feebf0f7c83fb920e5059758d78849b4fc7b629b4e4205c58fe" uuid="92b31ebd-6895-65aa-7d9f-206563f54161">CTOK</set>
             <reverse-related count="x">Access Denied</reverse-related>
             <reverse-related>Aspiring Aeronaut</reverse-related>
             <reverse-related>Aviation Pioneer</reverse-related>
