@@ -27592,6 +27592,7 @@ Creatures you control of the chosen type get +1/+1.
             <set num="383" artist="Sam Burley" uuid="3c6a38dd-e8f5-420f-9576-66937c71286b" rarity="common" muid="495101">ZNR</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Mountain.jpg?v=61f2ba348da81f322282659d835e32b47d633814" uuid="3463d443-992c-b21c-8be7-3b3e3f879e0b">CLANDS</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Mountain.png?v=a323c412a80e13e63e28f91aba14d4591151627a" uuid="442a44af-e8d8-3572-228c-645e1d50a98e">CLANDS</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Mountain_1.jpg?v=40b0b20cc1eb3462a9a061b0874d6259c604c14c" uuid="c5e614a6-b93d-0794-2b49-d0bdd0bdfa7f">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -143489,6 +143490,7 @@ III — Ecliptic Growl — Draw a card if you control the creature with the grea
             <set num="381" artist="Tianhua X" uuid="589a324f-4466-4d4a-8cfb-806a041d7c1f" rarity="common" muid="495099">ZNR</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Island.jpg?v=5021bc811ae1168d430c612b8d02f1d3e57678aa" uuid="1be009c6-6348-e1c7-271e-202556492423">CLANDS</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Island.png?v=76dacb0929eec76bf0abdfc322f84c02e134abce" uuid="1174f9c5-1d71-6446-bebb-831a8082b5c9">CLANDS</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Island_1.jpg?v=66adaaa3e3f50137d7c057c481cb8258a06bb8c8" uuid="3ab5f09b-c26b-57ef-138b-bba70f97c560">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -170894,7 +170896,7 @@ Draw a card.</text>
                 <type>Artifact</type>
                 <layout>normal</layout>
             </prop>
-            <set num="274" artist="Leon Tukker" uuid="de8e2bde-b368-4d10-8409-86f5da6997f6" rarity="common" picURL="https://cards.scryfall.io/large/front/d/e/de8e2bde-b368-4d10-8409-86f5da6997f6.jpg?1792590999">TRK</set>
+            <set num="274" artist="Leon Tukker" uuid="de8e2bde-b368-4d10-8409-86f5da6997f6" rarity="common" picURL="https://cards.scryfall.io/large/front/d/e/de8e2bde-b368-4d10-8409-86f5da6997f6.jpg?1793361423">TRK</set>
             <tablerow>1</tablerow>
         </card>
         <card>
@@ -195728,7 +195730,7 @@ Counter target spell if its mana value is X.</text>
                 <type>Creature — Plant Doctor</type>
                 <layout>normal</layout>
             </prop>
-            <set num="210" artist="Stella Spente" uuid="88b87ddb-fbf8-4e6e-9895-1b30ae5ad63a" rarity="common" picURL="https://cards.scryfall.io/large/front/8/8/88b87ddb-fbf8-4e6e-9895-1b30ae5ad63a.jpg?1793191242">TRK</set>
+            <set num="210" artist="Stella Spente" uuid="88b87ddb-fbf8-4e6e-9895-1b30ae5ad63a" rarity="common" picURL="https://cards.scryfall.io/large/front/8/8/88b87ddb-fbf8-4e6e-9895-1b30ae5ad63a.jpg?1793361367">TRK</set>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -311941,6 +311943,7 @@ This creature has protection from the chosen color.</text>
             <set num="382" artist="Adam Paquette" uuid="1967d4a8-6cc4-4a4d-9d24-93257de35e6d" rarity="common" muid="495100">ZNR</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Swamp.jpg?v=5aa48731c927dafad1daab6b6e0379a163ddb9ee" uuid="18fcc2e8-0b09-0324-57c5-ac0bddc7dc3c">CLANDS</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Swamp.png?v=2c2e1ef4010b7ad24531f3fa410ddc735768653b" uuid="ebce5d29-b9cf-56d7-3354-c8100c9d2ccd">CLANDS</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Swamp_1.jpg?v=b861ea33c5ee5bced04f8fe3357de74c3678e45c" uuid="4ae4b68b-d61e-c397-1ad0-1bfa2f9d9692">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -336650,6 +336653,7 @@ When Magmatic Scorchwing enters, if there are no nonbasic land cards in your lib
             <set num="384" artist="Adam Paquette" uuid="2b90e88b-60a3-4d1d-bb8c-14633e5005a5" rarity="common" muid="495102">ZNR</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Forest.jpg?v=3114efbfd8904e994905c4ca877cddf0781baaf8" uuid="e2ec16d0-c6fe-8fc1-8e5c-f82d9dc2330f">CLANDS</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Forest.png?v=d3a4e21e566e65a08746f67e3889792fdb07eef0" uuid="3bae5f2d-84c8-0a69-a51a-6df05255a6ef">CLANDS</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Forest_1.jpg?v=fb39392d49957483658d1f1fd45c5dc3442bf507" uuid="16fe7e6e-5a4c-d00e-6966-210c33dc6572">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -375842,7 +375846,7 @@ Whenever The Motherlode attacks, you may pay {E}{E}{E}{E}. When you do, destroy 
                 <type>Creature — Na'kuhl Warrior</type>
                 <layout>normal</layout>
             </prop>
-            <set num="219" artist="Douglas Shuler" uuid="b0bb51a7-1ae2-45d0-8be9-5454a3c8f751" rarity="common" picURL="https://cards.scryfall.io/large/front/b/0/b0bb51a7-1ae2-45d0-8be9-5454a3c8f751.jpg?1792672799">TRK</set>
+            <set num="219" artist="Douglas Shuler" uuid="b0bb51a7-1ae2-45d0-8be9-5454a3c8f751" rarity="common" picURL="https://cards.scryfall.io/large/front/b/0/b0bb51a7-1ae2-45d0-8be9-5454a3c8f751.jpg?1793361377">TRK</set>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -450069,7 +450073,7 @@ Station (Tap another creature you control: Put charge counters equal to its powe
                 <type>Artifact — Spacecraft</type>
                 <layout>normal</layout>
             </prop>
-            <set num="259" artist="William Phifer" uuid="55e0a183-4145-472f-8bed-a1f247febe06" rarity="common" picURL="https://cards.scryfall.io/large/front/5/5/55e0a183-4145-472f-8bed-a1f247febe06.jpg?1793115647">TRK</set>
+            <set num="259" artist="William Phifer" uuid="55e0a183-4145-472f-8bed-a1f247febe06" rarity="common" picURL="https://cards.scryfall.io/large/front/5/5/55e0a183-4145-472f-8bed-a1f247febe06.jpg?1793361394">TRK</set>
             <tablerow>1</tablerow>
         </card>
         <card>
@@ -676917,7 +676921,7 @@ Eerie — Whenever an enchantment you control enters and whenever you fully unlo
                 <type>Land</type>
                 <layout>normal</layout>
             </prop>
-            <set num="303" artist="Raymond Bonilla" uuid="ca1e60f1-11a9-4bb8-9f6e-5b652b49c517" rarity="common" picURL="https://cards.scryfall.io/large/front/c/a/ca1e60f1-11a9-4bb8-9f6e-5b652b49c517.jpg?1792591180">TRK</set>
+            <set num="303" artist="Raymond Bonilla" uuid="ca1e60f1-11a9-4bb8-9f6e-5b652b49c517" rarity="common" picURL="https://cards.scryfall.io/large/front/c/a/ca1e60f1-11a9-4bb8-9f6e-5b652b49c517.jpg?1793361459">TRK</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -757610,7 +757614,7 @@ As this land enters, you may pay 2 life. If you don't, it enters tapped.</text>
             <set num="407" artist="Rob Alexander" uuid="15c1114f-5f7c-4ecf-8aac-e48853df008b" rarity="rare" muid="645504">RVR</set>
             <set num="407z" artist="Rob Alexander" uuid="0ff3028e-68c0-4b1a-af4b-22a33b9cf31b" rarity="rare">RVR</set>
             <set num="130" artist="Adam Paquette" uuid="4fc75949-0bd1-4cd9-9e66-6624dcd41872" rarity="rare">SLD</set>
-            <set num="289" artist="Pavel Kolomeyets" uuid="ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd" rarity="rare" picURL="https://cards.scryfall.io/large/front/a/d/ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd.jpg?1784036836">TRK</set>
+            <set num="289" artist="Pavel Kolomeyets" uuid="ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd" rarity="rare" picURL="https://cards.scryfall.io/large/front/a/d/ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd.jpg?1793395014">TRK</set>
             <set num="399" artist="Sam Burley" uuid="732fe13b-eddc-4e75-88f8-e079e30a7dc4" rarity="rare">TRK</set>
             <set num="494" artist="Sam Burley" uuid="e97cb934-fc79-4010-829f-bc9bb0ba7635" rarity="rare">TRK</set>
             <set num="284" artist="Cliff Childs" uuid="ba5de5eb-442d-48de-bb5a-e316ea44520d" rarity="rare" muid="580727">UNF</set>
@@ -967990,6 +967994,7 @@ Equip {2}</text>
             <set num="380" artist="Adam Paquette" uuid="ae92e656-6c9d-48c3-a238-5a11c2c62ec8" rarity="common" muid="495098">ZNR</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Plains.jpg?v=c1c12e656caaa0c372874fe2e42d7004959425b6" uuid="2a75e17f-6a64-6161-a527-914b686ab490">CLANDS</set>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Plains.png?v=0d7b5baa927493141344bce5fc7e21aa2e2b59be" uuid="9b51d2a2-698b-d20e-1cb7-815b7e18afce">CLANDS</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CLANDS/Plains_1.jpg?v=c5b739c032fa46dbbd0a3d2ac87a81e6ed32f846" uuid="4b60d856-9362-1b0a-7037-53c0cc1ebf8c">CLANDS</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -1055200,7 +1055205,7 @@ When Commander Greven il-Vec enters, sacrifice a creature.</text>
                 <type>Artifact — Food</type>
                 <layout>normal</layout>
             </prop>
-            <set num="269" artist="Raymond Bonilla" uuid="289e8ebe-ab0f-466b-a4e6-d5cf8411e724" rarity="common" picURL="https://cards.scryfall.io/large/front/2/8/289e8ebe-ab0f-466b-a4e6-d5cf8411e724.jpg?1792591098">TRK</set>
+            <set num="269" artist="Raymond Bonilla" uuid="289e8ebe-ab0f-466b-a4e6-d5cf8411e724" rarity="common" picURL="https://cards.scryfall.io/large/front/2/8/289e8ebe-ab0f-466b-a4e6-d5cf8411e724.jpg?1793361401">TRK</set>
             <tablerow>1</tablerow>
         </card>
         <card>
@@ -1067838,7 +1067843,7 @@ When this creature dies during your turn, investigate. (Create a Clue token. It'
                 <type>Instant</type>
                 <coloridentity>R</coloridentity>
             </prop>
-            <set artist="Andrey Kuzinskiy" picURL="https://cards.scryfall.io/soon.webp" uuid="7e1c0423-bf58-47a1-a838-c15bbf40eaba" rarity="uncommon" num="177">TRK</set>
+            <set artist="Andrey Kuzinskiy" picURL="https://cards.scryfall.io/large/front/7/e/7e1c0423-bf58-47a1-a838-c15bbf40eaba.jpg?1793359534" uuid="7e1c0423-bf58-47a1-a838-c15bbf40eaba" rarity="uncommon" num="177">TRK</set>
             <tablerow>3</tablerow>
         </card>
         <card>
@@ -1067858,7 +1067863,7 @@ When this creature enters, choose one —
                 <type>Creature — Jem-Hadar Warrior</type>
                 <coloridentity>G</coloridentity>
             </prop>
-            <set artist="Ioannis Fiore" picURL="https://cards.scryfall.io/soon.webp" uuid="28a55f63-1cbd-4362-a192-e42a06f44686" rarity="common" num="194">TRK</set>
+            <set artist="Ioannis Fiore" picURL="https://cards.scryfall.io/large/front/2/8/28a55f63-1cbd-4362-a192-e42a06f44686.jpg?1793363014" uuid="28a55f63-1cbd-4362-a192-e42a06f44686" rarity="common" num="194">TRK</set>
             <tablerow>2</tablerow>
         </card>
         <card>
@@ -1067907,7 +1067912,7 @@ At the beginning of combat on your turn, put X +1/+1 counters on target creature
                 <cmc>5</cmc>
                 <type>Artifact</type>
             </prop>
-            <set artist="Joel Chaim Holtzman" picURL="https://cards.scryfall.io/soon.webp" uuid="05735357-3cca-42be-a3ae-5b4fc1fd5f47" rarity="uncommon" num="268">TRK</set>
+            <set artist="Joel Chaim Holtzman" picURL="https://cards.scryfall.io/large/front/0/5/05735357-3cca-42be-a3ae-5b4fc1fd5f47.jpg?1793359572" uuid="05735357-3cca-42be-a3ae-5b4fc1fd5f47" rarity="uncommon" num="268">TRK</set>
             <tablerow>1</tablerow>
         </card>
         <card>
@@ -1067924,7 +1067929,7 @@ Station (Tap another creature you control: Put charge counters equal to its powe
                 <pt>4/4</pt>
                 <type>Legendary Artifact — Spacecraft</type>
             </prop>
-            <set artist="Bruce Brenneise" picURL="https://cards.scryfall.io/large/front/7/6/76bf7521-5024-4fdc-9ea1-5e10f2647efb.jpg?1793339522" uuid="76bf7521-5024-4fdc-9ea1-5e10f2647efb" rarity="uncommon" num="272">TRK</set>
+            <set artist="Bruce Brenneise" picURL="https://cards.scryfall.io/large/front/7/6/76bf7521-5024-4fdc-9ea1-5e10f2647efb.jpg?1793361418" uuid="76bf7521-5024-4fdc-9ea1-5e10f2647efb" rarity="uncommon" num="272">TRK</set>
             <tablerow>1</tablerow>
         </card>
         <card>
@@ -1067939,7 +1067944,7 @@ Station (Tap another creature you control: Put charge counters equal to its powe
                 <type>Land</type>
                 <coloridentity>U</coloridentity>
             </prop>
-            <set artist="Racrufi" picURL="https://cards.scryfall.io/large/front/e/6/e6974579-7e88-4d7f-9b05-93d08167cb17.jpg?1793339386" uuid="e6974579-7e88-4d7f-9b05-93d08167cb17" rarity="uncommon" num="284">TRK</set>
+            <set artist="Racrufi" picURL="https://cards.scryfall.io/large/front/e/6/e6974579-7e88-4d7f-9b05-93d08167cb17.jpg?1793361441" uuid="e6974579-7e88-4d7f-9b05-93d08167cb17" rarity="uncommon" num="284">TRK</set>
             <tablerow>0</tablerow>
         </card>
         <card>
@@ -1067956,7 +1067961,7 @@ When this land enters untapped, choose one —
                 <cmc>0</cmc>
                 <type>Land</type>
             </prop>
-            <set artist="Jonas De Ro" picURL="https://cards.scryfall.io/soon.webp" uuid="cd424080-e8ad-4a56-a820-20d8534fba31" rarity="rare" num="290">TRK</set>
+            <set artist="Jonas De Ro" picURL="https://cards.scryfall.io/large/front/c/d/cd424080-e8ad-4a56-a820-20d8534fba31.jpg?1793359582" uuid="cd424080-e8ad-4a56-a820-20d8534fba31" rarity="rare" num="290">TRK</set>
             <set artist="Vlad Petruchik" picURL="https://cards.scryfall.io/large/front/e/9/e9922ffc-bffa-414e-b6e3-de6d7f2ce02d.jpg?1793359640" uuid="e9922ffc-bffa-414e-b6e3-de6d7f2ce02d" rarity="rare" num="334">TRK</set>
             <tablerow>0</tablerow>
         </card>
@@ -1067972,7 +1067977,7 @@ When this land enters untapped, choose one —
                 <type>Land</type>
                 <coloridentity>G</coloridentity>
             </prop>
-            <set artist="Neil Blevins" picURL="https://cards.scryfall.io/large/front/d/2/d2000219-0a57-48e6-ab0f-d5ad0fb7bcf6.jpg?1793339626" uuid="d2000219-0a57-48e6-ab0f-d5ad0fb7bcf6" rarity="uncommon" num="302">TRK</set>
+            <set artist="Neil Blevins" picURL="https://cards.scryfall.io/large/front/d/2/d2000219-0a57-48e6-ab0f-d5ad0fb7bcf6.jpg?1793361445" uuid="d2000219-0a57-48e6-ab0f-d5ad0fb7bcf6" rarity="uncommon" num="302">TRK</set>
             <tablerow>0</tablerow>
         </card>
     <card>
