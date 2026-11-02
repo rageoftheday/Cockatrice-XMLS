@@ -5171,6 +5171,10 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
             <reverse-related>Improbable Alliance</reverse-related>
             <reverse-related>Mischievous Mystic</reverse-related>
             <reverse-related count="x">Stolen by the Fae</reverse-related>
+            <reverse-related>Worf, Still Not Merry</reverse-related>
+            <reverse-related>La Forge, Thoughtful as Ever</reverse-related>
+            <reverse-related count="2">Data, Professor of Humanities</reverse-related>
+            <reverse-related>Troi, Winging It</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21299,6 +21303,18 @@ This creature can't block.</text>
             <set artist="Nicky Barkla" picURL="https://cards.scryfall.io/large/front/2/1/2115c141-f2fb-4bfd-a8b5-2943bad9f418.jpg?1793363498" uuid="2115c141-f2fb-4bfd-a8b5-2943bad9f418" rarity="common" num="8">TTRC</set>
             <reverse-related>Scute Swarm</reverse-related>
             <reverse-related>Fractured Identity</reverse-related>
+            <reverse-related count="x">Imperial Hullbreachers</reverse-related>
+            <reverse-related>Giant Space Amoeba</reverse-related>
+            <reverse-related>Jurati, Cordial Queen</reverse-related>
+            <reverse-related>Reg Barclay, Fidgety Fantasist</reverse-related>
+            <reverse-related>Starfleet Communicator</reverse-related>
+            <reverse-related>Troubling Tribbles</reverse-related>
+            <reverse-related>Blastoneuron</reverse-related>
+            <reverse-related count="x">Dominion Infiltration</reverse-related>
+            <reverse-related>Q, Stacking the Deck</reverse-related>
+            <reverse-related>Tasha Yar, Out of Time</reverse-related>
+            <reverse-related>Gray and Adira, Forever Joined</reverse-related>
+            <reverse-related count="x">Mirror Universe Intrusion</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21312,6 +21328,8 @@ This creature can't block.</text>
                 <pt>1/1</pt>
             </prop>
             <set artist="Kevin Glint" picURL="https://cards.scryfall.io/large/front/8/1/81d2498f-ee5e-4d8d-80f8-eb71c3755faa.jpg?1793363514" uuid="81d2498f-ee5e-4d8d-80f8-eb71c3755faa" rarity="common" num="9">TTRC</set>
+            <reverse-related count="x">Tribble Cluster</reverse-related>
+            <reverse-related>Koloth, Tribble Hunter</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21380,6 +21398,7 @@ This creature can't block.</text>
                 <pt>4/3</pt>
             </prop>
             <set artist="Enora Mercier" picURL="https://cards.scryfall.io/large/front/4/9/4990678f-162e-407d-8ab2-5ecf38de280a.jpg?1793363594" uuid="4990678f-162e-407d-8ab2-5ecf38de280a" rarity="common" num="14">TTRC</set>
+            <reverse-related>U.S.S. Stargazer, Here and There</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21393,6 +21412,9 @@ This creature can't block.</text>
                 <pt>2/2</pt>
             </prop>
             <set artist="Ariel Orea" picURL="https://cards.scryfall.io/large/front/a/5/a507f7fc-1438-4680-af2f-e7131c4d7d0b.jpg?1793363737" uuid="a507f7fc-1438-4680-af2f-e7131c4d7d0b" rarity="common" num="2">TTRK</set>
+            <reverse-related count="2">Cloak and Phaser</reverse-related>
+            <reverse-related>In the Pale Moonlight</reverse-related>
+            <reverse-related>Sela, Tal Shiar Paradox</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21435,6 +21457,17 @@ This creature can't block.</text>
                 <pt>2/1</pt>
             </prop>
             <set artist="Henry Peters" picURL="https://cards.scryfall.io/large/front/b/7/b7897f31-509e-4099-b9b4-c6214b80f29d.jpg?1793364577" uuid="b7897f31-509e-4099-b9b4-c6214b80f29d" rarity="common" num="5">TTRK</set>
+            <reverse-related>Worf, Defiant Commander</reverse-related>
+            <reverse-related>Right of Vengeance</reverse-related>
+            <reverse-related>Glory to the Empire!</reverse-related>
+            <reverse-related>Rite of Ascension</reverse-related>
+            <reverse-related>Sins of the Father</reverse-related>
+            <reverse-related>Cha'DIch Investigator</reverse-related>
+            <reverse-related count="2">The Destruction of Praxis</reverse-related>
+            <reverse-related>Boarding Action</reverse-related>
+            <reverse-related>D-7 Battle Cruiser</reverse-related>
+            <reverse-related>The Duras Sisters</reverse-related>
+            <reverse-related>L'Rell, Fierce Visionary</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21565,6 +21598,22 @@ This creature can't block.</text>
                 <pt>1/1</pt>
             </prop>
             <set artist="Carlos Dattoli" picURL="https://cards.scryfall.io/large/front/0/1/012b04de-d9a5-4b12-afc8-cdf54bc42fc9.jpg?1793364763" uuid="012b04de-d9a5-4b12-afc8-cdf54bc42fc9" rarity="common" num="15">TTRK</set>
+            <reverse-related count="2">M'Ress, Crew Coordinator</reverse-related>
+            <reverse-related>Shuttlecraft Galileo</reverse-related>
+            <reverse-related>Captain Janeway, Endgame</reverse-related>
+            <reverse-related>Worf, Son of Mogh</reverse-related>
+            <reverse-related>Captain Benjamin Sisko</reverse-related>
+            <reverse-related>Captain Jean-Luc Picard</reverse-related>
+            <reverse-related count="x">Excalbian Gamemaster</reverse-related>
+            <reverse-related count="3">U.S.S. Enterprise-A, Free Spirit</reverse-related>
+            <reverse-related count="2">Kobayashi Maru Scenario</reverse-related>
+            <reverse-related>Make It So</reverse-related>
+            <reverse-related count="10">Georgiou, Terran Emperor</reverse-related>
+            <reverse-related>Impossible Choice</reverse-related>
+            <reverse-related>Academy Instructor</reverse-related>
+            <reverse-related>Captain James T. Kirk</reverse-related>
+            <reverse-related>MACO Strike Team</reverse-related>
+            <reverse-related>Photosynthetic Physician</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21579,6 +21628,7 @@ This creature can't block.</text>
                 <pt>0/1</pt>
             </prop>
             <set artist="Leesha Hannigan" picURL="https://cards.scryfall.io/large/front/d/1/d1b52f55-6147-4da6-983c-6ca3e1867723.jpg?1793363930" uuid="d1b52f55-6147-4da6-983c-6ca3e1867723" rarity="common" num="16">TTRK</set>
+            <reverse-related>Rok-Tahk, Budding Scientist</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21592,6 +21642,7 @@ This creature can't block.</text>
                 <pt>1/1</pt>
             </prop>
             <set artist="Brooklyn Smith" picURL="https://cards.scryfall.io/large/front/e/d/edd98ca8-9a23-4fb5-9719-27ac2795bfa3.jpg?1793363946" uuid="edd98ca8-9a23-4fb5-9719-27ac2795bfa3" rarity="common" num="17">TTRK</set>
+            <reverse-related>Captain Jonathan Archer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21606,6 +21657,7 @@ This creature can't block.</text>
                 <pt>2/2</pt>
             </prop>
             <set picURL="https://cards.scryfall.io/large/front/e/7/e7cde898-fc1f-4261-8f71-cfc4275bab54.jpg?1793364008" uuid="e7cde898-fc1f-4261-8f71-cfc4275bab54" rarity="common" num="18">TTRK</set>
+            <reverse-related>Cleveland Booker, Empath</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21630,6 +21682,18 @@ This creature can't block.</text>
                 <pt>1/1</pt>
             </prop>
             <set artist="Henry Peters" picURL="https://cards.scryfall.io/large/front/6/6/662d060a-719c-42bf-8bee-cf602a045ff0.jpg?1793364924" uuid="662d060a-719c-42bf-8bee-cf602a045ff0" rarity="common" num="20">TTRK</set>
+            <reverse-related count="2">Borg Incursion</reverse-related>
+            <reverse-related count="x">Join the Collective</reverse-related>
+            <reverse-related>Maturation Chamber</reverse-related>
+            <reverse-related count="x">Stratagem Emulator</reverse-related>
+            <reverse-related>Type-03 Borg Vessel</reverse-related>
+            <reverse-related>Collective Override</reverse-related>
+            <reverse-related count="x">Deliver from Chaos</reverse-related>
+            <reverse-related>Locutus of Borg</reverse-related>
+            <reverse-related count="2">Class-4 Tactical Cube</reverse-related>
+            <reverse-related>Antagonist Incorporator</reverse-related>
+            <reverse-related>Assembly Specialist</reverse-related>
+            <reverse-related>Conquest Mission</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21655,6 +21719,12 @@ This creature can't block.</text>
             </prop>
             <set artist="Flavio Greco Paglia" picURL="https://cards.scryfall.io/large/front/2/4/24c80ef6-747d-47b7-8e1f-148f5dfacc32.jpg?1793364960" uuid="24c80ef6-747d-47b7-8e1f-148f5dfacc32" rarity="common" num="22">TTRK</set>
             <reverse-related>Tireless Tracker</reverse-related>
+            <reverse-related>Sam Kirk, Xenoanthropologist</reverse-related>
+            <reverse-related>The Measure of a Man</reverse-related>
+            <reverse-related>Commander Raffi Musiker</reverse-related>
+            <reverse-related>In the Pale Moonlight</reverse-related>
+            <reverse-related>Jake Sisko, War Correspondent</reverse-related>
+            <reverse-related>Constable Odo</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21668,6 +21738,7 @@ This creature can't block.</text>
             </prop>
             <set artist="Flavio Greco Paglia" picURL="https://cards.scryfall.io/large/front/d/d/dd703147-f546-45af-8511-2d108afd0ad2.jpg?1793364343" uuid="dd703147-f546-45af-8511-2d108afd0ad2" rarity="common" num="23">TTRK</set>
             <reverse-related>Spot, Felis catus</reverse-related>
+            <reverse-related>Replicator</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21680,6 +21751,9 @@ This creature can't block.</text>
                 <pt>3/3</pt>
             </prop>
             <set artist="Flavio Greco Paglia" picURL="https://cards.scryfall.io/large/front/d/7/d760eee8-e49a-4662-8bfc-fcf8ed2ad2d8.jpg?1793364353" uuid="d760eee8-e49a-4662-8bfc-fcf8ed2ad2d8" rarity="common" num="24">TTRK</set>
+            <reverse-related>Adversary by Algorithm</reverse-related>
+            <reverse-related>Holo-Engineer</reverse-related>
+            <reverse-related>Hologram Stalker</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21693,6 +21767,7 @@ Equip {2}</text>
                 <cmc>0</cmc>
             </prop>
             <set artist="David Frasheski" picURL="https://cards.scryfall.io/large/front/d/8/d811c3c3-6b5b-4b42-be4f-0a455313ccd3.jpg?1793364366" uuid="d811c3c3-6b5b-4b42-be4f-0a455313ccd3" rarity="common" num="25">TTRK</set>
+            <reverse-related>Gwyndala, the Progeny</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21707,6 +21782,12 @@ Equip {2}</text>
             <set artist="David Frasheski" picURL="https://cards.scryfall.io/large/front/b/8/b8e8c3b4-3b8d-48a4-b427-a2b8ac3e2f8b.jpg?1793364377" uuid="b8e8c3b4-3b8d-48a4-b427-a2b8ac3e2f8b" rarity="common" num="26">TTRK</set>
             <reverse-related>Prosper, Tome-Bound</reverse-related>
             <reverse-related>Professional Face-Breaker</reverse-related>
+            <reverse-related count="x">Grilka, Widowed Warrior</reverse-related>
+            <reverse-related count="2">Rom and Leeta, Unlikely Pair</reverse-related>
+            <reverse-related>Grand Nagus Zek</reverse-related>
+            <reverse-related>Quark, Humble Proprietor</reverse-related>
+            <reverse-related>Temporal Conqueror</reverse-related>
+            <reverse-related>The Inner Light</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21719,6 +21800,13 @@ Equip {2}</text>
                 <cmc>0</cmc>
             </prop>
             <set artist="David Frasheski" picURL="https://cards.scryfall.io/large/front/2/1/21d855f7-fd5c-4eb4-b997-a905849806b9.jpg?1793364386" uuid="21d855f7-fd5c-4eb4-b997-a905849806b9" rarity="common" num="27">TTRK</set>
+            <reverse-related>Genesis Effect</reverse-related>
+            <reverse-related>David and Carol Marcus, Creators</reverse-related>
+            <reverse-related>Saurian Explorer</reverse-related>
+            <reverse-related>Stable Wormhole</reverse-related>
+            <reverse-related>Artificial Anomaly</reverse-related>
+            <reverse-related>Spatial Anomaly</reverse-related>
+            <reverse-related count="2">Subspace Anomaly</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
