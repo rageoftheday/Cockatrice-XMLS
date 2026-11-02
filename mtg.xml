@@ -1068077,6 +1068077,102 @@ Threshold — As long as there are seven or more cards in your graveyard, this c
       <tablerow>1</tablerow>
       <text>1</text>
     </card><card>
+      <name>2</name>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/2.jpg?v=ffd8112be30b62caddc67218fd4accd3b978da68" uuid="c91a8823-fb23-ced7-32ca-2572846bb08d">DCE</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>2</text>
+    </card><card>
+      <name>3</name>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/3.jpg?v=cbb3f682f49dad1fc172b11824a14c4560a5dee3" uuid="680a1bca-b3c7-117e-516b-3829f54c92ce">DCE</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>3</text>
+    </card><card>
+      <name>4</name>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/4.jpg?v=eff20137ac6c163bd50750ff7d247775909f458d" uuid="e87f1cbf-280d-3a1f-b668-ce88cfbddf44">DCE</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>4</text>
+    </card><card>
+      <name>5</name>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/5.jpg?v=711f3fea56d204e3b0abf4ce00c22b3b84276cff" uuid="45ea3061-e0b5-8dc2-9afb-ced592e601d2">DCE</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>5</text>
+    </card><card>
+      <name>6</name>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/6.jpg?v=bf103ad797b40fc129ceb04fc961a344878102af" uuid="eeda9171-4ae3-ef2e-f72b-63be2fe1c400">DCE</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>6</text>
+    </card><card>
+      <name>7</name>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/7.jpg?v=74772b1d0bfa24edd587c2d1195f4b36b0f3b072" uuid="1e5940ad-02f4-15b6-0245-722b3cfe324d">DCE</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>7</text>
+    </card><card>
+      <name>8</name>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/8.jpg?v=a94287f882f2283617a242d7cce149cae032618e" uuid="df4de436-0c1a-8ee5-54a3-91e3ee7909d0">DCE</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>8</text>
+    </card><card>
+      <name>9</name>
+      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/9.jpg?v=fc17fe8ea3d314334bf80d6d18357edf28eea3c7" uuid="5dfb8e86-f021-60d9-0a81-1189cacc1603">DCE</set>
+      <prop>
+        <colors />
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>9</text>
+    </card><card>
       <name>10</name>
       <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/10.jpg?v=8bba45d6859bb0853897019e67479240547a46ae" uuid="d6ac9912-00e7-f85c-c126-99457e590298">DCE</set>
       <prop>
@@ -1068197,18 +1068293,6 @@ Threshold — As long as there are seven or more cards in your graveyard, this c
       <tablerow>1</tablerow>
       <text>19</text>
     </card><card>
-      <name>2</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/2.jpg?v=ffd8112be30b62caddc67218fd4accd3b978da68" uuid="c91a8823-fb23-ced7-32ca-2572846bb08d">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>2</text>
-    </card><card>
       <name>20</name>
       <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/20.jpg?v=c38aea24c5de3194964a9c4b3e80864cdc6e0a60" uuid="0af5dcc1-7b5f-455a-39cc-2d9da4e5295c">DCE</set>
       <prop>
@@ -1068220,521 +1068304,5 @@ Threshold — As long as there are seven or more cards in your graveyard, this c
       </prop>
       <tablerow>1</tablerow>
       <text>20</text>
-    </card><card>
-      <name>3</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/3.jpg?v=cbb3f682f49dad1fc172b11824a14c4560a5dee3" uuid="680a1bca-b3c7-117e-516b-3829f54c92ce">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>3</text>
-    </card><card>
-      <name>4</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/4.jpg?v=eff20137ac6c163bd50750ff7d247775909f458d" uuid="e87f1cbf-280d-3a1f-b668-ce88cfbddf44">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>4</text>
-    </card><card>
-      <name>5</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/5.jpg?v=711f3fea56d204e3b0abf4ce00c22b3b84276cff" uuid="45ea3061-e0b5-8dc2-9afb-ced592e601d2">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>5</text>
-    </card><card>
-      <name>6</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/6.jpg?v=bf103ad797b40fc129ceb04fc961a344878102af" uuid="eeda9171-4ae3-ef2e-f72b-63be2fe1c400">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>6</text>
-    </card><card>
-      <name>7</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/7.jpg?v=74772b1d0bfa24edd587c2d1195f4b36b0f3b072" uuid="1e5940ad-02f4-15b6-0245-722b3cfe324d">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>7</text>
-    </card><card>
-      <name>8</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/8.jpg?v=a94287f882f2283617a242d7cce149cae032618e" uuid="df4de436-0c1a-8ee5-54a3-91e3ee7909d0">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>8</text>
-    </card><card>
-      <name>9</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/9.jpg?v=fc17fe8ea3d314334bf80d6d18357edf28eea3c7" uuid="5dfb8e86-f021-60d9-0a81-1189cacc1603">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>9</text>
-    </card><card>
-      <name>BRB</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/BRB.jpg?v=6382967cb03044512dfe0936c3c5c19404255ea2" uuid="d0159d38-c192-e654-aad9-5470051b5e71">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>BRB</text>
-    </card><card>
-      <name>GG</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/GG.jpg?v=82c08e58a74dbd153bd94398f931e23c781ba690" uuid="58694704-deb0-3e03-70c7-6488bcbd785b">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>GG</text>
-    </card><card>
-      <name>No Response</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/No%20Response.jpg?v=b6b974308ea1cad42495adccb940762a3aca43c8" uuid="0c04587b-3047-1087-ee32-eeffbfc27f80">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>No Response</text>
-    </card><card>
-      <name>PP</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/PP.jpg?v=5385a3feb4309662c4316e4197de7b869eb9c3b7" uuid="76e395dc-56b8-adfd-e990-635e36cf6f01">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>PP</text>
-    </card><card>
-      <name>RESP</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/RESP.jpg?v=63d2a5f1b752292aca282c2bc0a12958df7a6326" uuid="e97d6161-d7a2-ebdb-f06e-7986c5ebe04d">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>RESP</text>
-    </card><card>
-      <name>Thinking</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/Thinking.jpg?v=a83ba08c4a3f0df67c46a7f7da97632b98ab5e7b" uuid="ea77783c-3cbb-f12c-9e34-e1a3ddf52e3a">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Thinking</text>
-    </card><card>
-      <name>b r b</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/BRB.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>b r b</text>
-    </card><card>
-      <name>be right back</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/BRB.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>be right back</text>
-    </card><card>
-      <name>be right back smoke</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/BRB.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>be right back smoke</text>
-    </card><card>
-      <name>brb real quick</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/BRB.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>brb real quick</text>
-    </card><card>
-      <name>brb smoek</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/BRB.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>brb smoek</text>
-    </card><card>
-      <name>brb smoke</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/BRB.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>brb smoke</text>
-    </card><card>
-      <name>g g</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/GG.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>g g</text>
-    </card><card>
-      <name>ggs</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/GG.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>ggs</text>
-    </card><card>
-      <name>good game</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/GG.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>good game</text>
-    </card><card>
-      <name>n r</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/No%20Response.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>n r</text>
-    </card><card>
-      <name>no reply</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/No%20Response.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>no reply</text>
-    </card><card>
-      <name>no responce</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/No%20Response.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>no responce</text>
-    </card><card>
-      <name>no respond</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/No%20Response.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>no respond</text>
-    </card><card>
-      <name>noreply</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/No%20Response.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>noreply</text>
-    </card><card>
-      <name>nores</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/No%20Response.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>nores</text>
-    </card><card>
-      <name>nr</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/No%20Response.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>nr</text>
-    </card><card>
-      <name>p p</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/PP.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>p p</text>
-    </card><card>
-      <name>p real quick</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/BRB.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>p real quick</text>
-    </card><card>
-      <name>pass</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/PP.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>pass</text>
-    </card><card>
-      <name>pass prio</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/PP.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>pass prio</text>
-    </card><card>
-      <name>pass priority</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/PP.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>pass priority</text>
-    </card><card>
-      <name>pondering</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/Thinking.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>pondering</text>
-    </card><card>
-      <name>priority pass</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/PP.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>priority pass</text>
-    </card><card>
-      <name>r e s p</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/RESP.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>r e s p</text>
-    </card><card>
-      <name>respo</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/RESP.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>respo</text>
-    </card><card>
-      <name>respond</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/RESP.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>respond</text>
-    </card><card>
-      <name>response</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/RESP.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>response</text>
-    </card><card>
-      <name>rsp</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/RESP.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>rsp</text>
-    </card><card>
-      <name>think</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/Thinking.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>think</text>
-    </card><card>
-      <name>thinking token</name>
-      <set rarity="common" picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/DICE/Thinking.jpg">DCE</set>
-      <prop>
-        <colors />
-        <manacost>0</manacost>
-        <cmc>0</cmc>
-        <type>Token</type>
-        <maintype>Creature</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>thinking token</text>
     </card></cards>
 </cockatrice_carddatabase>
