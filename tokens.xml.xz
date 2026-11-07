@@ -9,7 +9,7 @@
         <author>Cockatrice/Magic-Token</author>
         <createdAt></createdAt>
         <sourceUrl>https://raw.githubusercontent.com/Cockatrice/Magic-Token/master/tokens.xml</sourceUrl>
-        <sourceVersion>20260925</sourceVersion>
+        <sourceVersion>20261107</sourceVersion>
     </info>
     <cards>
         <!--
@@ -15060,7 +15060,7 @@ The Void attacks each combat if able.</text>
             <reverse-related count="x">Bootleggers' Stash</reverse-related>
             <reverse-related count="x">Bottle-Cap Blast</reverse-related>
             <reverse-related>Boxing Ring</reverse-related>
-            <reverse-related>Brass's Bounty</reverse-related>
+            <reverse-related count="x">Brass's Bounty</reverse-related>
             <reverse-related>Brazen Freebooter</reverse-related>
             <reverse-related>Breeches, Eager Pillager</reverse-related>
             <reverse-related count="x">Bucknard's Everfull Purse</reverse-related>
@@ -21111,13 +21111,12 @@ This creature can't block.</text>
         </card>
         <card>
             <name>Beast Token (TTRC)</name>
-            <text>Trample</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
-                <pt>4/4</pt>
+                <pt>3/3</pt>
             </prop>
             <set artist="Arthur Yuan" picURL="https://cards.scryfall.io/large/front/2/1/215c8aec-f26f-4777-aa90-252e537f5df9.jpg?1793363331" uuid="215c8aec-f26f-4777-aa90-252e537f5df9" rarity="common" num="4">TTRC</set>
             <token>1</token>
@@ -21219,13 +21218,12 @@ This creature can't block.</text>
         </card>
         <card>
             <name>Beast Token (TTRC #11)</name>
-            <text>Trample</text>
             <prop>
                 <colors>G</colors>
                 <type>Token Creature — Beast</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
-                <pt>4/4</pt>
+                <pt>3/3</pt>
             </prop>
             <set artist="Arthur Yuan" picURL="https://cards.scryfall.io/large/front/c/a/ca8e8a9a-d673-4644-9eec-f4f549307d9b.jpg?1793363664" uuid="ca8e8a9a-d673-4644-9eec-f4f549307d9b" rarity="common" num="11">TTRC</set>
             <reverse-related>Beast Within</reverse-related>
@@ -21611,9 +21609,9 @@ This creature can't block.</text>
             <reverse-related>The Measure of a Man</reverse-related>
             <reverse-related>Commander Raffi Musiker</reverse-related>
             <reverse-related>In the Pale Moonlight</reverse-related>
+            <reverse-related>Starfleet Security</reverse-related>
             <reverse-related>Jake Sisko, War Correspondent</reverse-related>
             <reverse-related>Constable Odo</reverse-related>
-            <reverse-related>Starfleet Security</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21627,8 +21625,8 @@ This creature can't block.</text>
             </prop>
             <set artist="Flavio Greco Paglia" picURL="https://cards.scryfall.io/large/front/d/d/dd703147-f546-45af-8511-2d108afd0ad2.jpg?1793364343" uuid="dd703147-f546-45af-8511-2d108afd0ad2" rarity="common" num="23">TTRK</set>
             <reverse-related>Spot, Felis catus</reverse-related>
-            <reverse-related>Replicator</reverse-related>
             <reverse-related>Neelix, Moral Support</reverse-related>
+            <reverse-related>Replicator</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21676,9 +21674,9 @@ Equip {2}</text>
             <reverse-related>Professional Face-Breaker</reverse-related>
             <reverse-related>Grand Nagus Zek</reverse-related>
             <reverse-related>Quark, Humble Proprietor</reverse-related>
+            <reverse-related>Savvy Profiteer</reverse-related>
             <reverse-related>Temporal Conqueror</reverse-related>
             <reverse-related>The Inner Light</reverse-related>
-            <reverse-related>Savvy Profiteer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21696,9 +21694,9 @@ Equip {2}</text>
             <reverse-related>Saurian Explorer</reverse-related>
             <reverse-related>Stable Wormhole</reverse-related>
             <reverse-related>Artificial Anomaly</reverse-related>
+            <reverse-related>Gaseous Anomaly</reverse-related>
             <reverse-related>Spatial Anomaly</reverse-related>
             <reverse-related count="2">Subspace Anomaly</reverse-related>
-            <reverse-related>Gaseous Anomaly</reverse-related>
             <reverse-related>Temporal Anomaly</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
@@ -21791,20 +21789,6 @@ Equip {2}</text>
                 <pt>4/4</pt>
             </prop>
             <set artist="Tulio Brito" picURL="https://cards.scryfall.io/large/front/0/6/0689b1b8-84be-4cc8-be4b-4461fefa885b.jpg?1791637288" uuid="0689b1b8-84be-4cc8-be4b-4461fefa885b" rarity="common" num="12">TMDD</set>
-            <token>1</token>
-            <tablerow>2</tablerow>
-        </card>
-        <card>
-            <name>Beast Token            </name>
-            <prop>
-                <colors>G</colors>
-                <type>Token Creature — Beast</type>
-                <maintype>Creature</maintype>
-                <cmc>0</cmc>
-                <pt>3/3</pt>
-            </prop>
-            <set artist="Jesper Ejsing" picURL="https://cards.scryfall.io/large/front/c/1/c198b9b4-bde6-45ec-9bc7-ae61adad22b3.jpg?1789754634" uuid="c198b9b4-bde6-45ec-9bc7-ae61adad22b3" rarity="common" num="10">TFDC</set>
-            <reverse-related>Beast Within</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
