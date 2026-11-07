@@ -21254,7 +21254,7 @@ This creature can't block.</text>
                 <pt>1/1</pt>
             </prop>
             <set artist="Charles Chaisson" picURL="https://cards.scryfall.io/large/front/f/8/f801903a-5db6-4566-ad33-2c1de8ac4287.jpg?1793363573" uuid="f801903a-5db6-4566-ad33-2c1de8ac4287" rarity="common" num="13">TTRC</set>
-            <token>1</token>
+<token>1</token>
             <tablerow>2</tablerow>
         </card>
         <card>
