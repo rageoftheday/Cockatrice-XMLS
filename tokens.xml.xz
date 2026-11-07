@@ -2364,7 +2364,6 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <reverse-related>Courier's Briefcase</reverse-related>
             <reverse-related>Darling of the Masses</reverse-related>
             <reverse-related>Exhibition Magician</reverse-related>
-            <reverse-related count="x">Grand Crescendo</reverse-related>
             <reverse-related>Halo Fountain</reverse-related>
             <reverse-related count="x">Indulge // Excess</reverse-related>
             <reverse-related>Kitt Kanto, Mayhem Diva</reverse-related>
@@ -2380,6 +2379,7 @@ Whenever this creature attacks, target attacking creature gains flying until end
             <reverse-related count="x">Scepter of Celebration</reverse-related>
             <reverse-related exclude="exclude">Stimulus Package</reverse-related>
             <reverse-related>Warm Welcome</reverse-related>
+            <reverse-related count="x">Grand Crescendo</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21138,7 +21138,7 @@ This creature can't block.</text>
         <card>
             <name>Citizen Token (TTRC)</name>
             <prop>
-                <colors>W</colors>
+                <colors>GW</colors>
                 <type>Token Creature — Citizen</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
@@ -21247,7 +21247,7 @@ This creature can't block.</text>
         <card>
             <name>Citizen Token (TTRC #13)</name>
             <prop>
-                <colors>W</colors>
+                <colors>GW</colors>
                 <type>Token Creature — Citizen</type>
                 <maintype>Creature</maintype>
                 <cmc>0</cmc>
