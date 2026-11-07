@@ -21228,6 +21228,7 @@ This creature can't block.</text>
                 <pt>4/4</pt>
             </prop>
             <set artist="Arthur Yuan" picURL="https://cards.scryfall.io/large/front/c/a/ca8e8a9a-d673-4644-9eec-f4f549307d9b.jpg?1793363664" uuid="ca8e8a9a-d673-4644-9eec-f4f549307d9b" rarity="common" num="11">TTRC</set>
+            <reverse-related>Beast Within</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21499,6 +21500,7 @@ This creature can't block.</text>
             <reverse-related>Captain James T. Kirk</reverse-related>
             <reverse-related>MACO Strike Team</reverse-related>
             <reverse-related>Photosynthetic Physician</reverse-related>
+            <reverse-related count="2">U.S.S. Cerritos, Following Up</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21579,6 +21581,7 @@ This creature can't block.</text>
             <reverse-related>Antagonist Incorporator</reverse-related>
             <reverse-related>Assembly Specialist</reverse-related>
             <reverse-related>Conquest Mission</reverse-related>
+            <reverse-related>Tenacious Drone</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21610,6 +21613,7 @@ This creature can't block.</text>
             <reverse-related>In the Pale Moonlight</reverse-related>
             <reverse-related>Jake Sisko, War Correspondent</reverse-related>
             <reverse-related>Constable Odo</reverse-related>
+            <reverse-related>Starfleet Security</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21624,6 +21628,7 @@ This creature can't block.</text>
             <set artist="Flavio Greco Paglia" picURL="https://cards.scryfall.io/large/front/d/d/dd703147-f546-45af-8511-2d108afd0ad2.jpg?1793364343" uuid="dd703147-f546-45af-8511-2d108afd0ad2" rarity="common" num="23">TTRK</set>
             <reverse-related>Spot, Felis catus</reverse-related>
             <reverse-related>Replicator</reverse-related>
+            <reverse-related>Neelix, Moral Support</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21673,6 +21678,7 @@ Equip {2}</text>
             <reverse-related>Quark, Humble Proprietor</reverse-related>
             <reverse-related>Temporal Conqueror</reverse-related>
             <reverse-related>The Inner Light</reverse-related>
+            <reverse-related>Savvy Profiteer</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
@@ -21692,6 +21698,8 @@ Equip {2}</text>
             <reverse-related>Artificial Anomaly</reverse-related>
             <reverse-related>Spatial Anomaly</reverse-related>
             <reverse-related count="2">Subspace Anomaly</reverse-related>
+            <reverse-related>Gaseous Anomaly</reverse-related>
+            <reverse-related>Temporal Anomaly</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
