@@ -109098,6 +109098,7 @@ When The Master of Lake-town dies, draw a card for each graveyard with seven or 
             <set num="203" uuid="61f42823-8a48-4b81-a037-664ba1c69f29" rarity="rare" artist="Alex Konstad" muid="491851">ZNR</set>
             <set num="308" uuid="309b2cb5-b9a8-417d-b5ae-0a7d03ff93f0" rarity="rare" artist="Roman Kuteynikov" muid="495205">ZNR</set>
             <related>Scute Swarm</related>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CUST/Scute%20Swarm.jpg?v=3164b9a95e96eac97552b85f1418079a39e2ace8" uuid="256a7e2e-d065-f011-858c-9d0140728836">CUST</set>
             <tablerow>2</tablerow>
         </card>
         <card>

@@ -17458,6 +17458,7 @@ Equip {1}</text>
             <set picURL="https://cards.scryfall.io/large/front/8/a/8a73e348-5bf1-4465-978b-3f31408bade9.jpg?1561757530" uuid="8a73e348-5bf1-4465-978b-3f31408bade9" num="2">10E</set>
             <set picURL="https://cards.scryfall.io/large/front/6/5/657fa00d-ddb5-49e6-a01e-82038cccfe30.jpg?1561757307" uuid="657fa00d-ddb5-49e6-a01e-82038cccfe30" num="4">ODY</set>
             <set picURL="https://cards.scryfall.io/large/front/8/e/8e7b5995-ee8b-40d1-b157-8df96c02cc5b.jpg?1761614925" uuid="8e7b5995-ee8b-40d1-b157-8df96c02cc5b" num="91">UGL</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CTokens/Zombie%20Token.jpg?v=1f0282f8ec0a0e717cf25ca4b583c61404d9cdd93e9774df7729a2a733d113b1" uuid="da65a145-998b-0c10-c7b0-4d2c4885f96f">CTOK</set>
             <reverse-related count="x">Acererak the Archlich</reverse-related>
             <reverse-related>Aphemia, the Cacophony</reverse-related>
             <reverse-related>Archdemon of Unx</reverse-related>
@@ -22129,6 +22130,21 @@ Get out the toploaders, you opened a God Pack.</text>
                 <cmc>0</cmc>
             </prop>
             <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CTokens/Thinking.jpg?v=7490b592aeeb6a563db486ba23111748325d92c0104082a3fd3f92407efd2c79" uuid="c7d1227f-69d0-91a1-734e-fa1e1b6be7df">CTOK</set>
+            <token>1</token>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Scute Swarm</name>
+            <text>Landfall — Whenever a land you control enters, create a 1/1 green Insect creature token. If you control six or more lands, create a token that’s a copy of this creature instead.</text>
+            <prop>
+                <colors>G</colors>
+                <type>Token</type>
+                <maintype>Token</maintype>
+                <cmc>0</cmc>
+                <pt>1/1</pt>
+            </prop>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CTokens/Scute%20Swarm.jpg?v=f57dee119c8cdc92e9597b2ee4e5e459d9bc829681c6213043d3babf8f3dc62e" uuid="4a2c0dbc-ca60-b728-5718-1b12674d5887">CTOK</set>
+            <reverse-related>Scute Swarm</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
