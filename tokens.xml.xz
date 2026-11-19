@@ -17458,7 +17458,7 @@ Equip {1}</text>
             <set picURL="https://cards.scryfall.io/large/front/8/a/8a73e348-5bf1-4465-978b-3f31408bade9.jpg?1561757530" uuid="8a73e348-5bf1-4465-978b-3f31408bade9" num="2">10E</set>
             <set picURL="https://cards.scryfall.io/large/front/6/5/657fa00d-ddb5-49e6-a01e-82038cccfe30.jpg?1561757307" uuid="657fa00d-ddb5-49e6-a01e-82038cccfe30" num="4">ODY</set>
             <set picURL="https://cards.scryfall.io/large/front/8/e/8e7b5995-ee8b-40d1-b157-8df96c02cc5b.jpg?1761614925" uuid="8e7b5995-ee8b-40d1-b157-8df96c02cc5b" num="91">UGL</set>
-            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CTokens/Zombie%20Token.jpg?v=1f0282f8ec0a0e717cf25ca4b583c61404d9cdd93e9774df7729a2a733d113b1" uuid="da65a145-998b-0c10-c7b0-4d2c4885f96f">CTOK</set>
+            <set picURL="https://raw.githubusercontent.com/rageoftheday/MTGCustomImages/main/CTokens/Zombie%20Token.jpg?v=e683d2186d2518d5d38d8dd2bad9657a236bbb084e271edef806f178f688254f" uuid="da65a145-998b-0c10-c7b0-4d2c4885f96f">CTOK</set>
             <reverse-related count="x">Acererak the Archlich</reverse-related>
             <reverse-related>Aphemia, the Cacophony</reverse-related>
             <reverse-related>Archdemon of Unx</reverse-related>
