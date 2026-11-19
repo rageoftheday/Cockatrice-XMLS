@@ -15643,7 +15643,6 @@ The Void attacks each combat if able.</text>
             <reverse-related>Ultimate Green Goblin</reverse-related>
             <reverse-related>Undercity Dire Rat</reverse-related>
             <reverse-related>Undercity Scrounger</reverse-related>
-            <reverse-related count="2">Unexpected Windfall</reverse-related>
             <reverse-related>Vaan, Street Thief</reverse-related>
             <reverse-related count="x">Vault 21: House Gambit</reverse-related>
             <reverse-related>Vault Robber</reverse-related>
@@ -21645,6 +21644,7 @@ Get out the toploaders, you opened a God Pack.</text>
                 <cmc>0</cmc>
             </prop>
             <set artist="Raymond Swanland" picURL="https://cards.scryfall.io/large/front/c/8/c860c832-ab9d-4618-9d7b-6e9e2807c885.jpg?1795006880" uuid="c860c832-ab9d-4618-9d7b-6e9e2807c885" rarity="common" num="2931">SLD</set>
+            <reverse-related count="2">Unexpected Windfall</reverse-related>
             <token>1</token>
             <tablerow>2</tablerow>
         </card>
